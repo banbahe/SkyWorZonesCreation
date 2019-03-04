@@ -16,7 +16,7 @@ namespace SkyWorZonesCreation.Controllers
             List<string> listResult = new List<string>();
             try
             {
-                using (var reader = new StreamReader(this.source))
+                using (var reader = new StreamReader(this.source, Encoding.Default, true))
                 {
                     while (!reader.EndOfStream)
                     {

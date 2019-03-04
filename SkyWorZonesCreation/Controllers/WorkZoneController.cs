@@ -192,7 +192,7 @@ namespace SkyWorZonesCreation.Controllers
             jArray.Add(workZone.keylabel.FirstOrDefault());
             objWorkZone.keys = jArray;
 
-            ResponseOFSC result = UtilWebRequest.SendWayAsync("rest/ofscMetadata/v1/workZones/" + workZone.workZoneLabel,
+            ResponseOFSC result = UtilWebRequest.SendWayAsync("rest/ofscMetadata/v1/workZones/" + workZone.workZoneLabel+ "?autoResolveConflicts=true",
                                      enumMethod.PUT,
                                      objWorkZone.ToString());
 

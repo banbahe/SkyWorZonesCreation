@@ -26,7 +26,7 @@ namespace SkyWorZonesCreation
 
             ctrlworkZone = new WorkZoneController();
 
-            Console.WriteLine(" Ingrese Ubicación (Folder) del archivo");
+            Console.WriteLine(" Leyendo Ubicación (Folder) del archivo");
             Console.ForegroundColor = ConsoleColor.Yellow;
             Console.WriteLine(" Por ejemplo C:\\Users\\inmotion\\Documents\\z");
             Console.ResetColor();
@@ -199,6 +199,10 @@ namespace SkyWorZonesCreation
                     rowBAD = rowBAD += 1;
                     Logger(string.Format("workzone {0}|{1}|{2}|{3}|{4}|", workZone.workZoneLabel, workZone.status, workZone.travelArea, workZone.workZoneName, workZone.keylabel.FirstOrDefault()), 2);
                 }
+            }
+            else
+            {
+                ctrlworkZone.Set(workZone);
             }
             return flag;
         }
