@@ -1,0 +1,37 @@
+----------------------------------------------------------------------------------
+Inicio
+2019-03-25 7:59:17 PM
+ TOTAL DE REGISTROS 192
+workzone 28989007|active|MX|COL., VILLA DE ÑÑÑñññáéíóúÁÉÍÓÚ, C.P. 28989007|MX28989007|
+workzone AEIOU|false|MX|COL., VILLA DE ÑÑÑñññáéíóúÁÉÍÓÚ, C.P. 28989008||
+workzone 28989009|active|MX|COL., VILLA DE ÑÑÑñññáéíóúÁÉÍÓÚ, C.P. 28989009|MX28989009|
+workzone 28989|active|MX|COL., VILLA DE ÁLVAREZ, C.P. 28989|MX28989|
+workzone 29430|active|MX|CHIS., AMATENANGO DEL VALLE, C.P. 29430|MX29430|
+workzone 29441|active|MX|CHIS., CHANAL, C.P. 29441|MX29441|
+workzone 30120|active|MX|CHIS., CHICOMUSELO, C.P. 30120|MX30120|
+workzone 30680|active|MX|CHIS., TUZANTÁN, C.P. 30680|MX30680|
+workzone 33304|active|MX|CHIH., URUACHI, C.P. 33304|MX33304|
+workzone 34199|active|MX|DGO., DURANGO, C.P. 34199|MX34199|
+workzone 34555|active|MX|DGO., TOPIA, C.P. 34555|MX34555|
+workzone 35015|active|MX|DGO., GÓMEZ PALACIO, C.P. 35015|MX35015|
+workzone 35140|active|MX|DGO., GÓMEZ PALACIO, C.P. 35140|MX35140|
+workzone 35150|active|MX|DGO., LERDO, C.P. 35150|MX35150|
+workzone 35213|active|MX|DGO., MAPIMÍ, C.P. 35213|MX35213|
+workzone 35616|active|MX|DGO., TEPEHUANES, C.P. 35616|MX35616|
+workzone 35660|active|MX|DGO., EL ORO, C.P. 35660|MX35660|
+workzone 35698|active|MX|DGO., EL ORO, C.P. 35698|MX35698|
+workzone 35700|active|MX|DGO., NAZAS, C.P. 35700|MX35700|
+workzone 35703|active|MX|DGO., NAZAS, C.P. 35703|MX35703|
+workzone 35704|active|MX|DGO., NAZAS, C.P. 35704|MX35704|
+workzone 35705|active|MX|DGO., NAZAS, C.P. 35705|MX35705|
+workzone 35706|active|MX|DGO., NAZAS, C.P. 35706|MX35706|
+workzone 35707|active|MX|DGO., NAZAS, C.P. 35707|MX35707|
+workzone 35710|active|MX|DGO., NAZAS, C.P. 35710|MX35710|
+workzone 35713|active|MX|DGO., NAZAS, C.P. 35713|MX35713|
+workzone 35714|active|MX|DGO., NAZAS, C.P. 35714|MX35714|
+workzone 35720|active|MX|DGO., NAZAS, C.P. 35720|MX35720|
+workzone 35723|active|MX|DGO., NAZAS, C.P. 35723|MX35723|
+workzone 35724|active|MX|DGO., NAZAS, C.P. 35724|MX35724|
+workzone 35726|active|MX|DGO., NAZAS, C.P. 35726|MX35726|
+workzone 35727|active|MX|DGO., NAZAS, C.P. 35727|MX35727|
+workzone 35730|active|MX|DGO., NAZAS, C.P. 35730|MX35730|

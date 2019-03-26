@@ -1,0 +1,4 @@
+Información Zona no Creada: AEIOU|false|MX|COL., VILLA DE ÑÑÑñññáéíóúÁÉÍÓÚ, C.P. 28989008||
+Detalle :
+"{\n    \"type\": \"http://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html#sec10.4.1\",\n    \"title\": \"Bad Request\",\n    \"status\": \"400\",\n    \"detail\": \"Invalid property value. Property: 'status'. Value: 'false'. Valid values: 'active','inactive'\"\n}"
+==================================================

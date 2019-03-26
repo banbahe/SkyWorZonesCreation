@@ -16,6 +16,8 @@ namespace SkyWorZonesCreation.Models
         public string travelArea { get; set; }
         public string status { get; set; } = "active";
         public List<string> keylabel { get; set; } = new List<string>();
+        public List<string> keys { get; set; } = new List<string>();
+
 
         #endregion
 

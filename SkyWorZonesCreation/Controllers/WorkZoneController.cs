@@ -48,7 +48,7 @@ namespace SkyWorZonesCreation.Controllers
                 result.flag = true;
             else
             {
-                Program.Logger(string.Format("Bad Recurso:{0}|Zona Trabajo:{1}|Contenido:{2}|Mensaje:{3}", resource, workZone, result.Content, result.ErrorMessage), 2);
+                // /Program.Logger(string.Format("Bad Recurso:{0}|Zona Trabajo:{1}|Contenido:{2}|Mensaje:{3}", resource, workZone, result.Content, result.ErrorMessage), 2);
                 result.flag = false;
             }
             return result;
@@ -56,7 +56,7 @@ namespace SkyWorZonesCreation.Controllers
 
         public ResponseOFSC Create(WorkZone workZone)
         {
-
+            ResponseOFSC result = new ResponseOFSC();
             // create request object
             dynamic objWorkZone = new JObject();
             objWorkZone.workZoneLabel = workZone.workZoneLabel;
@@ -68,29 +68,28 @@ namespace SkyWorZonesCreation.Controllers
             jArray.Add(workZone.keylabel.FirstOrDefault());
             objWorkZone.keys = jArray;
 
-            ResponseOFSC result = UtilWebRequest.SendWayAsync("rest/ofscMetadata/v1/workZones",
-                                                     enumMethod.POST,
-                                                     objWorkZone.ToString(Formatting.None));
+            result = UtilWebRequest.SendWayAsync("rest/ofscMetadata/v1/workZones",
+                                                      enumMethod.POST,
+                                                      objWorkZone.ToString(Formatting.None));
             if (result.statusCode >= 200 && result.statusCode <= 300)
             {
                 result.flag = true;
                 return result;
             }
-            
-
+            // exist current workzone then set info workzone
             if (result.statusCode == 409)
             {
-                var result2 = UtilWebRequest.SendWayAsync("rest/ofscMetadata/v1/workZones/" + workZone.workZoneLabel,
+                result = UtilWebRequest.SendWayAsync("rest/ofscMetadata/v1/workZones/" + workZone.workZoneLabel,
                                                    enumMethod.PUT,
                                                    objWorkZone.ToString(Formatting.None));
-                if (result2.statusCode == 200 || result2.statusCode == 201)
+                if (result.statusCode == 200 || result.statusCode == 201)
                     result.flag = true;
                 else
                     result.flag = false;
             }
             else
             {
-                Program.Logger(string.Format("Bad Zona Trabajo:{0}|Contenido:{1}|Mensaje:{2}", workZone.workZoneName + "&" + workZone.keylabel, result.Content, result.ErrorMessage), 2);
+               // Program.Logger(string.Format("Bad Zona Trabajo:{0}|Contenido:{1}|Mensaje:{2}", workZone.workZoneName + "&" + workZone.keylabel, result.Content, result.ErrorMessage), 2);
                 result.flag = false;
             }
             return result;
@@ -192,7 +191,7 @@ namespace SkyWorZonesCreation.Controllers
             jArray.Add(workZone.keylabel.FirstOrDefault());
             objWorkZone.keys = jArray;
 
-            ResponseOFSC result = UtilWebRequest.SendWayAsync("rest/ofscMetadata/v1/workZones/" + workZone.workZoneLabel+ "?autoResolveConflicts=true",
+            ResponseOFSC result = UtilWebRequest.SendWayAsync("rest/ofscMetadata/v1/workZones/" + workZone.workZoneLabel + "?autoResolveConflicts=true",
                                      enumMethod.PUT,
                                      objWorkZone.ToString());
 

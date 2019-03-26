@@ -16,11 +16,15 @@ namespace SkyWorZonesCreation.Controllers
             List<string> listResult = new List<string>();
             try
             {
-                using (var reader = new StreamReader(this.source, Encoding.Default, true))
+                using (var reader = new StreamReader(this.source, Encoding.UTF8, true))
                 {
                     while (!reader.EndOfStream)
                     {
                         var line = await reader.ReadLineAsync();
+                        //System.Text.Encoding utf_8 = System.Text.Encoding.UTF8;
+                        //string s_unicode = line;
+                        //byte[] utf8Bytes = System.Text.Encoding.UTF8.GetBytes(s_unicode);
+                        //string s_unicode2 = System.Text.Encoding.UTF8.GetString(utf8Bytes);
                         listResult.Add(line);
                     }
                     return listResult;

@@ -1,5 +1,6 @@
 using System;
 using System.Collections.Generic;
+using System.Configuration;
 using System.Diagnostics;
 using System.IO;
 using System.Linq;
@@ -8,6 +9,7 @@ using System.Threading;
 using System.Threading.Tasks;
 using SkyWorZonesCreation.Controllers;
 using SkyWorZonesCreation.Models;
+using Newtonsoft.Json;
 
 namespace SkyWorZonesCreation
 {
@@ -25,12 +27,11 @@ namespace SkyWorZonesCreation
             #region Code Create WorkZones
 
             ctrlworkZone = new WorkZoneController();
-
+            Console.ForegroundColor = ConsoleColor.Green;
             Console.WriteLine(" Leyendo Ubicación (Folder) del archivo");
-            Console.ForegroundColor = ConsoleColor.Yellow;
             Console.WriteLine(" Por ejemplo C:\\Users\\inmotion\\Documents\\z");
             Console.ResetColor();
-            sPath = Console.ReadLine();
+            sPath = ConfigurationManager.AppSettings["pathfiles"].ToString();
             // sPath = @"C:\Users\inmotion\Documents\z\workzoneTDD\MX\";
             if (Directory.Exists(sPath))
                 Console.WriteLine("Leyendo archivos CSV");
@@ -134,6 +135,7 @@ namespace SkyWorZonesCreation
         private static void ReadCSV(string path)
         {
             Console.Clear();
+            path = Path.GetFullPath(path);
             var files = Directory.GetFiles(path, "*.csv");
 
             foreach (var item in files)
@@ -181,23 +183,26 @@ namespace SkyWorZonesCreation
             Logger(string.Format("workzone {0}|{1}|{2}|{3}|{4}|", workZone.workZoneLabel, workZone.status, workZone.travelArea, workZone.workZoneName, workZone.keylabel.FirstOrDefault()));
 
             var checkExist = ctrlworkZone.Exist(workZone);
-            // if (checkExist.flag)
-            //flag = ctrlworkZone.Set(workZone).flag;
-            //else
-            //  flag = ctrlworkZone.Create(workZone).flag;
+
             if (!checkExist.flag)
             {
-                flag = ctrlworkZone.Create(workZone).flag;
+                var response = ctrlworkZone.Create(workZone);
+                flag = response.flag;
 
                 if (flag)
                 {
                     rowOK = rowOK += 1;
-                    Logger(string.Format("workzone {0}|{1}|{2}|{3}|{4}|", workZone.workZoneLabel, workZone.status, workZone.travelArea, workZone.workZoneName, workZone.keylabel.FirstOrDefault()), 1);
+                    WorkZone workZoneContent = new WorkZone();
+                    response.Content = response.Content.Replace(@"\n", "");
+                    Logger(JsonConvert.SerializeObject(response.Content, Formatting.None), 4);
                 }
                 else
                 {
                     rowBAD = rowBAD += 1;
-                    Logger(string.Format("workzone {0}|{1}|{2}|{3}|{4}|", workZone.workZoneLabel, workZone.status, workZone.travelArea, workZone.workZoneName, workZone.keylabel.FirstOrDefault()), 2);
+                    Logger(string.Format("Información Zona no Creada: {0}|{1}|{2}|{3}|{4}|", workZone.workZoneLabel, workZone.status, workZone.travelArea, workZone.workZoneName, workZone.keylabel.FirstOrDefault()), 5);
+                    Logger("Detalle :", 5);
+                    Logger(JsonConvert.SerializeObject(response.Content, Formatting.None), 5);
+                    Logger("==================================================", 5);
                 }
             }
             else
@@ -218,8 +223,6 @@ namespace SkyWorZonesCreation
         {
             try
             {
-
-
                 string temppath = string.Empty;
                 switch (opcion)
                 {
@@ -232,12 +235,24 @@ namespace SkyWorZonesCreation
                     case 3:
                         temppath = @sPath + "\\log_json.txt";
                         break;
+                    case 4:
+                        temppath = @sPath + "\\log_workzones_ok.txt";
+                        break;
+                    case 5:
+                        temppath = @sPath + "\\log_workzones_no_creadas.txt";
+                        break;
                     default:
                         temppath = @sPath + "\\log.txt";
                         break;
                 }
+
+                System.Text.Encoding utf_8 = System.Text.Encoding.UTF8;
+                string s_unicode = lines;
+                byte[] utf8Bytes = System.Text.Encoding.UTF8.GetBytes(s_unicode);
+                string s_unicode2 = System.Text.Encoding.UTF8.GetString(utf8Bytes);
+
                 System.IO.StreamWriter file = new System.IO.StreamWriter(temppath, true);
-                file.WriteLine(lines);
+                file.WriteLine(s_unicode2);
                 file.Close();
             }
             catch (Exception ex)
