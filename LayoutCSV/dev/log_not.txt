@@ -1,0 +1,24 @@
+Bad Zona Trabajo:COL., VILLA DE ÑÑÑñññáéíóúÁÉÍÓÚ, C.P. 28989008&System.Collections.Generic.List`1[System.String]|Contenido:{
+    "type": "http://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html#sec10.4.1",
+    "title": "Bad Request",
+    "status": "400",
+    "detail": "Invalid property value. Property: 'status'. Value: 'false'. Valid values: 'active','inactive'"
+}|Mensaje:
+Bad Zona Trabajo:COL., VILLA DE ÑÑÑñññáéíóúÁÉÍÓÚ, C.P. 28989008&System.Collections.Generic.List`1[System.String]|Contenido:{
+    "type": "http://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html#sec10.4.1",
+    "title": "Bad Request",
+    "status": "400",
+    "detail": "Invalid property value. Property: 'status'. Value: 'false'. Valid values: 'active','inactive'"
+}|Mensaje:
+Bad Zona Trabajo:COL., VILLA DE ÑÑÑñññáéíóúÁÉÍÓÚ, C.P. 28989008&System.Collections.Generic.List`1[System.String]|Contenido:{
+    "type": "http://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html#sec10.4.1",
+    "title": "Bad Request",
+    "status": "400",
+    "detail": "Invalid property value. Property: 'status'. Value: 'false'. Valid values: 'active','inactive'"
+}|Mensaje:
+Bad Zona Trabajo:COL., VILLA DE ÑÑÑñññáéíóúÁÉÍÓÚ, C.P. 28989008&System.Collections.Generic.List`1[System.String]|Contenido:{
+    "type": "http://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html#sec10.4.1",
+    "title": "Bad Request",
+    "status": "400",
+    "detail": "Invalid property value. Property: 'status'. Value: 'false'. Valid values: 'active','inactive'"
+}|Mensaje:
