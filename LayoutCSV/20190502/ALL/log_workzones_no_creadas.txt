@@ -1,0 +1,3 @@
+{"id":null,"source":null,"workZoneName":"WORK_ZONE_NAME","workZoneLabel":"ZIPCODE","travelArea":"PAIS","status":"ESTATUS","keylabel":["WORK_ZONE_LABEL"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"WORK_ZONE_NAME","workZoneLabel":"ZIPCODE","travelArea":"PAIS","status":"ESTADO","keylabel":["LABEL"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"WORK_ZONE_NAME","workZoneLabel":"ZIPCODE","travelArea":"PAIS","status":"ESTADO","keylabel":["Label"],"keys":[]}

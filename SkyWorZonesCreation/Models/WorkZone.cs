@@ -6,6 +6,11 @@ using System.Threading.Tasks;
 
 namespace SkyWorZonesCreation.Models
 {
+
+    public class RootWorkZone
+    {
+        public List<WorkZone> items { get; set; }
+    }
     public class WorkZone
     {
         public List<string> id { get; set; }
@@ -18,21 +23,21 @@ namespace SkyWorZonesCreation.Models
         public List<string> keylabel { get; set; } = new List<string>();
         public List<string> keys { get; set; } = new List<string>();
 
-
         #endregion
-
-        #region Get WorkZone
-        // "workZoneItemId": 326426,
-        // "workZone": "D.F., BENITO JUÁREZ, C.P. 03010",
-        // "startDate": "2018-06-01",
-        // "ratio": 100,
-        // "recurrence": "daily",
-        // "recurEvery": 1,
-        // "type": "regular"
-
-
-
-        #endregion
+        /*
+         * {"items": [
+	{
+  "workZoneLabel": "NI9350556",
+  "status": "active",
+  "travelArea": "NI",
+  "workZoneName": "RAAS, EL AYOTE, C.P. 9350556",
+  "keys": [
+    "NI9350556"
+  ]
+}
+	]
+	}
+         */
 
     }
 }

@@ -1,0 +1,344 @@
+{"workZoneName":"LA ALTAGRACIA,BAVARO, C.P.200101","workZoneLabel":"200101","travelArea":"DO","status":"active","keylabel":["DO200101"],"keys":[]}
+{"workZoneName":"LA ALTAGRACIA,BAVARO, C.P.20403","workZoneLabel":"20403","travelArea":"DO","status":"active","keylabel":["DO20403"],"keys":[]}
+{"workZoneName":"LA ALTAGRACIA,BAVARO, C.P.10101","workZoneLabel":"10101","travelArea":"DO","status":"active","keylabel":["DO10101"],"keys":[]}
+{"workZoneName":"LA ALTAGRACIA,BAVARO, C.P.110101","workZoneLabel":"110101","travelArea":"DO","status":"active","keylabel":["DO110101"],"keys":[]}
+{"workZoneName":"SANTO DOMINGO, LA CUABA, C.P. 320703","workZoneLabel":"320703","travelArea":"DO","status":"active","keylabel":["DO320703"],"keys":[]}
+{"workZoneName":"SANTO DOMINGO, LA GUAYIGA, C.P. 320702","workZoneLabel":"320702","travelArea":"DO","status":"active","keylabel":["DO320702"],"keys":[]}
+{"workZoneName":"SANTO DOMINGO, PEDRO BRAND, C.P. 320701","workZoneLabel":"320701","travelArea":"DO","status":"active","keylabel":["DO320701"],"keys":[]}
+{"workZoneName":"SANTO DOMINGO, PANTOJA, C.P. 320603","workZoneLabel":"320603","travelArea":"DO","status":"active","keylabel":["DO320603"],"keys":[]}
+{"workZoneName":"SANTO DOMINGO, LOS ALCARRIZOS, C.P. 320602","workZoneLabel":"320602","travelArea":"DO","status":"active","keylabel":["DO320602"],"keys":[]}
+{"workZoneName":"SANTO DOMINGO, LOS ALCARRIZOS, C.P. 320601","workZoneLabel":"320601","travelArea":"DO","status":"active","keylabel":["DO320601"],"keys":[]}
+{"workZoneName":"SANTO DOMINGO, HATO VIEJO, C.P. 320502","workZoneLabel":"320502","travelArea":"DO","status":"active","keylabel":["DO320502"],"keys":[]}
+{"workZoneName":"SANTO DOMINGO, SAN ANTONIO DE GUERRA, C.P. 320501","workZoneLabel":"320501","travelArea":"DO","status":"active","keylabel":["DO320501"],"keys":[]}
+{"workZoneName":"SANTO DOMINGO, LA CALETA, C.P. 320402","workZoneLabel":"320402","travelArea":"DO","status":"active","keylabel":["DO320402"],"keys":[]}
+{"workZoneName":"SANTO DOMINGO, BOCA CHICA, C.P. 320401","workZoneLabel":"320401","travelArea":"DO","status":"active","keylabel":["DO320401"],"keys":[]}
+{"workZoneName":"SANTO DOMINGO, LA VICTORIA, C.P. 320302","workZoneLabel":"320302","travelArea":"DO","status":"active","keylabel":["DO320302"],"keys":[]}
+{"workZoneName":"SANTO DOMINGO, SANTO DOMINGO NORTE, C.P. 320301","workZoneLabel":"320301","travelArea":"DO","status":"active","keylabel":["DO320301"],"keys":[]}
+{"workZoneName":"SANTO DOMINGO, SANTO DOMINGO OESTE, C.P. 320201","workZoneLabel":"320201","travelArea":"DO","status":"active","keylabel":["DO320201"],"keys":[]}
+{"workZoneName":"SANTO DOMINGO, SAN LUIS, C.P. 320102","workZoneLabel":"320102","travelArea":"DO","status":"active","keylabel":["DO320102"],"keys":[]}
+{"workZoneName":"SANTO DOMINGO, SANTO DOMINGO ESTE, C.P. 320101","workZoneLabel":"320101","travelArea":"DO","status":"active","keylabel":["DO320101"],"keys":[]}
+{"workZoneName":"SAN JOSE DE OCOA, RANCHO ARRIBA, C.P. 310301","workZoneLabel":"310301","travelArea":"DO","status":"active","keylabel":["DO310301"],"keys":[]}
+{"workZoneName":"SAN JOSE DE OCOA, SABANA LARGA, C.P. 310201","workZoneLabel":"310201","travelArea":"DO","status":"active","keylabel":["DO310201"],"keys":[]}
+{"workZoneName":"SAN JOSE DE OCOA, EL PINAR, C.P. 310104","workZoneLabel":"310104","travelArea":"DO","status":"active","keylabel":["DO310104"],"keys":[]}
+{"workZoneName":"SAN JOSE DE OCOA, NIZAO - LAS AUYAMAS, C.P. 310103","workZoneLabel":"310103","travelArea":"DO","status":"active","keylabel":["DO310103"],"keys":[]}
+{"workZoneName":"SAN JOSE DE OCOA, LA CIENAGA, C.P. 310102","workZoneLabel":"310102","travelArea":"DO","status":"active","keylabel":["DO310102"],"keys":[]}
+{"workZoneName":"SAN JOSE DE OCOA, SAN JOSE DE OCOA, C.P. 310101","workZoneLabel":"310101","travelArea":"DO","status":"active","keylabel":["DO310101"],"keys":[]}
+{"workZoneName":"HATO MAYOR, EL VALLE, C.P. 300301","workZoneLabel":"300301","travelArea":"DO","status":"active","keylabel":["DO300301"],"keys":[]}
+{"workZoneName":"HATO MAYOR, ELUPINA CORDERO DE LAS CAÑITAS, C.P. 300202","workZoneLabel":"300202","travelArea":"DO","status":"active","keylabel":["DO300202"],"keys":[]}
+{"workZoneName":"HATO MAYOR, SABANA DE LA MAR, C.P. 300201","workZoneLabel":"300201","travelArea":"DO","status":"active","keylabel":["DO300201"],"keys":[]}
+{"workZoneName":"HATO MAYOR, GUAYABO DULCE, C.P. 300104","workZoneLabel":"300104","travelArea":"DO","status":"active","keylabel":["DO300104"],"keys":[]}
+{"workZoneName":"HATO MAYOR, MATA PALACIO, C.P. 300103","workZoneLabel":"300103","travelArea":"DO","status":"active","keylabel":["DO300103"],"keys":[]}
+{"workZoneName":"HATO MAYOR, YERBA BUENA, C.P. 300102","workZoneLabel":"300102","travelArea":"DO","status":"active","keylabel":["DO300102"],"keys":[]}
+{"workZoneName":"HATO MAYOR, HATO MAYOR, C.P. 300101","workZoneLabel":"300101","travelArea":"DO","status":"active","keylabel":["DO300101"],"keys":[]}
+{"workZoneName":"MONTE PLATA, PERALVILLO, C.P. 290501","workZoneLabel":"290501","travelArea":"DO","status":"active","keylabel":["DO290501"],"keys":[]}
+{"workZoneName":"MONTE PLATA, LOS BOTADOS, C.P. 290402","workZoneLabel":"290402","travelArea":"DO","status":"active","keylabel":["DO290402"],"keys":[]}
+{"workZoneName":"MONTE PLATA, YAMASA, C.P. 290401","workZoneLabel":"290401","travelArea":"DO","status":"active","keylabel":["DO290401"],"keys":[]}
+{"workZoneName":"MONTE PLATA, MAJAGUAL, C.P. 290303","workZoneLabel":"290303","travelArea":"DO","status":"active","keylabel":["DO290303"],"keys":[]}
+{"workZoneName":"MONTE PLATA, GONZALO, C.P. 290302","workZoneLabel":"290302","travelArea":"DO","status":"active","keylabel":["DO290302"],"keys":[]}
+{"workZoneName":"MONTE PLATA, SABANA GRANDE DE BOYA, C.P. 290301","workZoneLabel":"290301","travelArea":"DO","status":"active","keylabel":["DO290301"],"keys":[]}
+{"workZoneName":"MONTE PLATA, BAYAGUANA, C.P. 290201","workZoneLabel":"290201","travelArea":"DO","status":"active","keylabel":["DO290201"],"keys":[]}
+{"workZoneName":"MONTE PLATA, BOYA, C.P. 290104","workZoneLabel":"290104","travelArea":"DO","status":"active","keylabel":["DO290104"],"keys":[]}
+{"workZoneName":"MONTE PLATA, CHIRINO, C.P. 290103","workZoneLabel":"290103","travelArea":"DO","status":"active","keylabel":["DO290103"],"keys":[]}
+{"workZoneName":"MONTE PLATA, DON JUAN, C.P. 290102","workZoneLabel":"290102","travelArea":"DO","status":"active","keylabel":["DO290102"],"keys":[]}
+{"workZoneName":"MONTE PLATA, MONTE PLATA, C.P. 290101","workZoneLabel":"290101","travelArea":"DO","status":"active","keylabel":["DO290101"],"keys":[]}
+{"workZoneName":"MONSEÑOR NOUEL, JUAN ADRIAN, C.P. 280303","workZoneLabel":"280303","travelArea":"DO","status":"active","keylabel":["DO280303"],"keys":[]}
+{"workZoneName":"MONSEÑOR NOUEL, VILLA DE SONADOR, C.P. 280302","workZoneLabel":"280302","travelArea":"DO","status":"active","keylabel":["DO280302"],"keys":[]}
+{"workZoneName":"MONSEÑOR NOUEL, PIEDRA BLANCA, C.P. 280301","workZoneLabel":"280301","travelArea":"DO","status":"active","keylabel":["DO280301"],"keys":[]}
+{"workZoneName":"MONSEÑOR NOUEL, MAIMON, C.P. 280201","workZoneLabel":"280201","travelArea":"DO","status":"active","keylabel":["DO280201"],"keys":[]}
+{"workZoneName":"MONSEÑOR NOUEL, JUMA BEJUCAL, C.P. 280103","workZoneLabel":"280103","travelArea":"DO","status":"active","keylabel":["DO280103"],"keys":[]}
+{"workZoneName":"MONSEÑOR NOUEL, SABANA DEL PUERTO (D.M), C.P. 280102","workZoneLabel":"280102","travelArea":"DO","status":"active","keylabel":["DO280102"],"keys":[]}
+{"workZoneName":"MONSEÑOR NOUEL, BONAO, C.P. 280101","workZoneLabel":"280101","travelArea":"DO","status":"active","keylabel":["DO280101"],"keys":[]}
+{"workZoneName":"VALVERDE, LAGUNA SALADA, C.P. 270304","workZoneLabel":"270304","travelArea":"DO","status":"active","keylabel":["DO270304"],"keys":[]}
+{"workZoneName":"VALVERDE, LAGUNA SALADA, C.P. 270303","workZoneLabel":"270303","travelArea":"DO","status":"active","keylabel":["DO270303"],"keys":[]}
+{"workZoneName":"VALVERDE, LAGUNA SALADA, C.P. 270302","workZoneLabel":"270302","travelArea":"DO","status":"active","keylabel":["DO270302"],"keys":[]}
+{"workZoneName":"VALVERDE, LAGUNA SALADA, C.P. 270301","workZoneLabel":"270301","travelArea":"DO","status":"active","keylabel":["DO270301"],"keys":[]}
+{"workZoneName":"VALVERDE, ESPERANZA, C.P. 270204","workZoneLabel":"270204","travelArea":"DO","status":"active","keylabel":["DO270204"],"keys":[]}
+{"workZoneName":"VALVERDE, ESPERANZA, C.P. 270203","workZoneLabel":"270203","travelArea":"DO","status":"active","keylabel":["DO270203"],"keys":[]}
+{"workZoneName":"VALVERDE, ESPERANZA, C.P. 270202","workZoneLabel":"270202","travelArea":"DO","status":"active","keylabel":["DO270202"],"keys":[]}
+{"workZoneName":"VALVERDE, ESPERANZA, C.P. 270201","workZoneLabel":"270201","travelArea":"DO","status":"active","keylabel":["DO270201"],"keys":[]}
+{"workZoneName":"VALVERDE, MAO, C.P. 270104","workZoneLabel":"270104","travelArea":"DO","status":"active","keylabel":["DO270104"],"keys":[]}
+{"workZoneName":"VALVERDE, MAO, C.P. 270103","workZoneLabel":"270103","travelArea":"DO","status":"active","keylabel":["DO270103"],"keys":[]}
+{"workZoneName":"VALVERDE, MAO, C.P. 270102","workZoneLabel":"270102","travelArea":"DO","status":"active","keylabel":["DO270102"],"keys":[]}
+{"workZoneName":"VALVERDE, MAO, C.P. 270101","workZoneLabel":"270101","travelArea":"DO","status":"active","keylabel":["DO270101"],"keys":[]}
+{"workZoneName":"SANTIAGO RODRIGUEZ, MONCION, C.P. 260301","workZoneLabel":"260301","travelArea":"DO","status":"active","keylabel":["DO260301"],"keys":[]}
+{"workZoneName":"SANTIAGO RODRIGUEZ, VILLA LOS ALMACIGOS, C.P. 260201","workZoneLabel":"260201","travelArea":"DO","status":"active","keylabel":["DO260201"],"keys":[]}
+{"workZoneName":"SANTIAGO RODRIGUEZ, SAN IGNACIO DE SABANETA, C.P. 260101","workZoneLabel":"260101","travelArea":"DO","status":"active","keylabel":["DO260101"],"keys":[]}
+{"workZoneName":"SANTIAGO, EL LIMON, C.P. 250703","workZoneLabel":"250703","travelArea":"DO","status":"active","keylabel":["DO250703"],"keys":[]}
+{"workZoneName":"SANTIAGO, PALMAR ARRIBA, C.P. 250702","workZoneLabel":"250702","travelArea":"DO","status":"active","keylabel":["DO250702"],"keys":[]}
+{"workZoneName":"SANTIAGO, VILLA GONZALEZ, C.P. 250701","workZoneLabel":"250701","travelArea":"DO","status":"active","keylabel":["DO250701"],"keys":[]}
+{"workZoneName":"SANTIAGO, TAMBORIL, C.P. 250601","workZoneLabel":"250601","travelArea":"DO","status":"active","keylabel":["DO250601"],"keys":[]}
+{"workZoneName":"SANTIAGO, LAS PLACETAS, C.P. 250504","workZoneLabel":"250504","travelArea":"DO","status":"active","keylabel":["DO250504"],"keys":[]}
+{"workZoneName":"SANTIAGO, LA CUESTA, C.P. 250503","workZoneLabel":"250503","travelArea":"DO","status":"active","keylabel":["DO250503"],"keys":[]}
+{"workZoneName":"SANTIAGO, EL RUBIO, C.P. 250502","workZoneLabel":"250502","travelArea":"DO","status":"active","keylabel":["DO250502"],"keys":[]}
+{"workZoneName":"SANTIAGO, SAN JOSE DE LAS MATAS, C.P. 250501","workZoneLabel":"250501","travelArea":"DO","status":"active","keylabel":["DO250501"],"keys":[]}
+{"workZoneName":"SANTIAGO, LAS PALOMAS, C.P. 250402","workZoneLabel":"250402","travelArea":"DO","status":"active","keylabel":["DO250402"],"keys":[]}
+{"workZoneName":"SANTIAGO, LICEY AL MEDIO, C.P. 250401","workZoneLabel":"250401","travelArea":"DO","status":"active","keylabel":["DO250401"],"keys":[]}
+{"workZoneName":"SANTIAGO, EL CAIMITO, C.P. 250303","workZoneLabel":"250303","travelArea":"DO","status":"active","keylabel":["DO250303"],"keys":[]}
+{"workZoneName":"SANTIAGO, JUNCALITO, C.P. 250302","workZoneLabel":"250302","travelArea":"DO","status":"active","keylabel":["DO250302"],"keys":[]}
+{"workZoneName":"SANTIAGO, JANICO, C.P. 250301","workZoneLabel":"250301","travelArea":"DO","status":"active","keylabel":["DO250301"],"keys":[]}
+{"workZoneName":"SANTIAGO, BISONO, C.P. 250201","workZoneLabel":"250201","travelArea":"DO","status":"active","keylabel":["DO250201"],"keys":[]}
+{"workZoneName":"SANTIAGO, HATO DEL YAQUE, C.P. 250107","workZoneLabel":"250107","travelArea":"DO","status":"active","keylabel":["DO250107"],"keys":[]}
+{"workZoneName":"SANTIAGO, SAN FRANCISCO DE JACAGUA, C.P. 250106","workZoneLabel":"250106","travelArea":"DO","status":"active","keylabel":["DO250106"],"keys":[]}
+{"workZoneName":"SANTIAGO, LA CANELA, C.P. 250105","workZoneLabel":"250105","travelArea":"DO","status":"active","keylabel":["DO250105"],"keys":[]}
+{"workZoneName":"SANTIAGO, BAITOA, C.P. 250104","workZoneLabel":"250104","travelArea":"DO","status":"active","keylabel":["DO250104"],"keys":[]}
+{"workZoneName":"SANTIAGO, SABANA IGLESIA, C.P. 250103","workZoneLabel":"250103","travelArea":"DO","status":"active","keylabel":["DO250103"],"keys":[]}
+{"workZoneName":"SANTIAGO, PEDRO GARCIA, C.P. 250102","workZoneLabel":"250102","travelArea":"DO","status":"active","keylabel":["DO250102"],"keys":[]}
+{"workZoneName":"SANTIAGO, SANTIAGO DE LOS CABALLEROS, C.P. 250101","workZoneLabel":"250101","travelArea":"DO","status":"active","keylabel":["DO250101"],"keys":[]}
+{"workZoneName":"SANCHEZ RAMIREZ, ANGELINA, C.P. 240403","workZoneLabel":"240403","travelArea":"DO","status":"active","keylabel":["DO240403"],"keys":[]}
+{"workZoneName":"SANCHEZ RAMIREZ, LA BIJA, C.P. 240402","workZoneLabel":"240402","travelArea":"DO","status":"active","keylabel":["DO240402"],"keys":[]}
+{"workZoneName":"SANCHEZ RAMIREZ, LA MATA, C.P. 240401","workZoneLabel":"240401","travelArea":"DO","status":"active","keylabel":["DO240401"],"keys":[]}
+{"workZoneName":"SANCHEZ RAMIREZ, FANTINO, C.P. 240301","workZoneLabel":"240301","travelArea":"DO","status":"active","keylabel":["DO240301"],"keys":[]}
+{"workZoneName":"SANCHEZ RAMIREZ, PLATANAL, C.P. 240203","workZoneLabel":"240203","travelArea":"DO","status":"active","keylabel":["DO240203"],"keys":[]}
+{"workZoneName":"SANCHEZ RAMIREZ, LA CUEVA, C.P. 240202","workZoneLabel":"240202","travelArea":"DO","status":"active","keylabel":["DO240202"],"keys":[]}
+{"workZoneName":"SANCHEZ RAMIREZ, CEVICOS, C.P. 240201","workZoneLabel":"240201","travelArea":"DO","status":"active","keylabel":["DO240201"],"keys":[]}
+{"workZoneName":"SANCHEZ RAMIREZ, COTUI, C.P. 240102","workZoneLabel":"240102","travelArea":"DO","status":"active","keylabel":["DO240102"],"keys":[]}
+{"workZoneName":"SANCHEZ RAMIREZ, COTUI, C.P. 240101","workZoneLabel":"240101","travelArea":"DO","status":"active","keylabel":["DO240101"],"keys":[]}
+{"workZoneName":"SAN PEDRO DE MACORIS, QUISQUEYA, C.P. 230501","workZoneLabel":"230501","travelArea":"DO","status":"active","keylabel":["DO230501"],"keys":[]}
+{"workZoneName":"SAN PEDRO DE MACORIS, CONSUELO, C.P. 230401","workZoneLabel":"230401","travelArea":"DO","status":"active","keylabel":["DO230401"],"keys":[]}
+{"workZoneName":"SAN PEDRO DE MACORIS, RAMON SANTANA, C.P. 230301","workZoneLabel":"230301","travelArea":"DO","status":"active","keylabel":["DO230301"],"keys":[]}
+{"workZoneName":"SAN PEDRO DE MACORIS, GAUTIER, C.P. 230203","workZoneLabel":"230203","travelArea":"DO","status":"active","keylabel":["DO230203"],"keys":[]}
+{"workZoneName":"SAN PEDRO DE MACORIS, ZONA URBANA, C.P. 230202","workZoneLabel":"230202","travelArea":"DO","status":"active","keylabel":["DO230202"],"keys":[]}
+{"workZoneName":"SAN PEDRO DE MACORIS, LOS LLANOS, C.P. 230201","workZoneLabel":"230201","travelArea":"DO","status":"active","keylabel":["DO230201"],"keys":[]}
+{"workZoneName":"SAN PEDRO DE MACORIS, SAN PEDRO DE MACORIS, C.P. 230101","workZoneLabel":"230101","travelArea":"DO","status":"active","keylabel":["DO230101"],"keys":[]}
+{"workZoneName":"SAN JUAN, VALLEJUELO, C.P. 220601","workZoneLabel":"220601","travelArea":"DO","status":"active","keylabel":["DO220601"],"keys":[]}
+{"workZoneName":"SAN JUAN, CARRERA DE YEGUAS, C.P. 220503","workZoneLabel":"220503","travelArea":"DO","status":"active","keylabel":["DO220503"],"keys":[]}
+{"workZoneName":"SAN JUAN, MATAYAYA, C.P. 220502","workZoneLabel":"220502","travelArea":"DO","status":"active","keylabel":["DO220502"],"keys":[]}
+{"workZoneName":"SAN JUAN, LAS MATAS DE FARFAN, C.P. 220501","workZoneLabel":"220501","travelArea":"DO","status":"active","keylabel":["DO220501"],"keys":[]}
+{"workZoneName":"SAN JUAN, JUAN DE HERRERA, C.P. 220401","workZoneLabel":"220401","travelArea":"DO","status":"active","keylabel":["DO220401"],"keys":[]}
+{"workZoneName":"SAN JUAN, BATISTA, C.P. 220303","workZoneLabel":"220303","travelArea":"DO","status":"active","keylabel":["DO220303"],"keys":[]}
+{"workZoneName":"SAN JUAN, DERRUMBADERO, C.P. 220302","workZoneLabel":"220302","travelArea":"DO","status":"active","keylabel":["DO220302"],"keys":[]}
+{"workZoneName":"SAN JUAN, EL CERCADO, C.P. 220301","workZoneLabel":"220301","travelArea":"DO","status":"active","keylabel":["DO220301"],"keys":[]}
+{"workZoneName":"SAN JUAN, YAQUE (D. M.), C.P. 220203","workZoneLabel":"220203","travelArea":"DO","status":"active","keylabel":["DO220203"],"keys":[]}
+{"workZoneName":"SAN JUAN, ARROYO CANO, C.P. 220202","workZoneLabel":"220202","travelArea":"DO","status":"active","keylabel":["DO220202"],"keys":[]}
+{"workZoneName":"SAN JUAN, BOHECHIO, C.P. 220201","workZoneLabel":"220201","travelArea":"DO","status":"active","keylabel":["DO220201"],"keys":[]}
+{"workZoneName":"SAN JUAN, LA JAGUA, C.P. 220108","workZoneLabel":"220108","travelArea":"DO","status":"active","keylabel":["DO220108"],"keys":[]}
+{"workZoneName":"SAN JUAN, GUANITO, C.P. 220107","workZoneLabel":"220107","travelArea":"DO","status":"active","keylabel":["DO220107"],"keys":[]}
+{"workZoneName":"SAN JUAN, HATO DEL PADRE, C.P. 220106","workZoneLabel":"220106","travelArea":"DO","status":"active","keylabel":["DO220106"],"keys":[]}
+{"workZoneName":"SAN JUAN, EL ROSARIO, C.P. 220105","workZoneLabel":"220105","travelArea":"DO","status":"active","keylabel":["DO220105"],"keys":[]}
+{"workZoneName":"SAN JUAN, SABANA ALTA (D. M.), C.P. 220104","workZoneLabel":"220104","travelArea":"DO","status":"active","keylabel":["DO220104"],"keys":[]}
+{"workZoneName":"SAN JUAN, SABANETA (D. M.), C.P. 220103","workZoneLabel":"220103","travelArea":"DO","status":"active","keylabel":["DO220103"],"keys":[]}
+{"workZoneName":"SAN JUAN, PEDRO CORTO, C.P. 220102","workZoneLabel":"220102","travelArea":"DO","status":"active","keylabel":["DO220102"],"keys":[]}
+{"workZoneName":"SAN JUAN, SAN JUAN DE LA MAGUANA, C.P. 220101","workZoneLabel":"220101","travelArea":"DO","status":"active","keylabel":["DO220101"],"keys":[]}
+{"workZoneName":"SAN CRISTOBAL, LOS CACAOS, C.P. 210801","workZoneLabel":"210801","travelArea":"DO","status":"active","keylabel":["DO210801"],"keys":[]}
+{"workZoneName":"SAN CRISTOBAL, SAN GREGORIO DE NIGUA, C.P. 210701","workZoneLabel":"210701","travelArea":"DO","status":"active","keylabel":["DO210701"],"keys":[]}
+{"workZoneName":"SAN CRISTOBAL, YAGUATE, C.P. 210601","workZoneLabel":"210601","travelArea":"DO","status":"active","keylabel":["DO210601"],"keys":[]}
+{"workZoneName":"SAN CRISTOBAL, LA CUCHILLA, C.P. 210504","workZoneLabel":"210504","travelArea":"DO","status":"active","keylabel":["DO210504"],"keys":[]}
+{"workZoneName":"SAN CRISTOBAL, MEDINA, C.P. 210503","workZoneLabel":"210503","travelArea":"DO","status":"active","keylabel":["DO210503"],"keys":[]}
+{"workZoneName":"SAN CRISTOBAL, SAN JOSE DEL PUERTO, C.P. 210502","workZoneLabel":"210502","travelArea":"DO","status":"active","keylabel":["DO210502"],"keys":[]}
+{"workZoneName":"SAN CRISTOBAL, VILLA ALTAGRACIA, C.P. 210501","workZoneLabel":"210501","travelArea":"DO","status":"active","keylabel":["DO210501"],"keys":[]}
+{"workZoneName":"SAN CRISTOBAL, CAMBITA EL PUEBLECITO, C.P. 210402","workZoneLabel":"210402","travelArea":"DO","status":"active","keylabel":["DO210402"],"keys":[]}
+{"workZoneName":"SAN CRISTOBAL, CAMBITA GARABITOS, C.P. 210401","workZoneLabel":"210401","travelArea":"DO","status":"active","keylabel":["DO210401"],"keys":[]}
+{"workZoneName":"SAN CRISTOBAL, EL CARRIL, C.P. 210302","workZoneLabel":"210302","travelArea":"DO","status":"active","keylabel":["DO210302"],"keys":[]}
+{"workZoneName":"SAN CRISTOBAL, BAJOS DE HAINA, C.P. 210301","workZoneLabel":"210301","travelArea":"DO","status":"active","keylabel":["DO210301"],"keys":[]}
+{"workZoneName":"SAN CRISTOBAL, SABANA GRANDE DE PALENQUE, C.P. 210201","workZoneLabel":"210201","travelArea":"DO","status":"active","keylabel":["DO210201"],"keys":[]}
+{"workZoneName":"SAN CRISTOBAL, HATO DAMAS, C.P. 210102","workZoneLabel":"210102","travelArea":"DO","status":"active","keylabel":["DO210102"],"keys":[]}
+{"workZoneName":"SAN CRISTOBAL, SAN CRISTOBAL, C.P. 210101","workZoneLabel":"210101","travelArea":"DO","status":"active","keylabel":["DO210101"],"keys":[]}
+{"workZoneName":"SAMANA, LAS TERRENAS, C.P. 200301","workZoneLabel":"200301","travelArea":"DO","status":"active","keylabel":["DO200301"],"keys":[]}
+{"workZoneName":"SAMANA, SANCHEZ, C.P. 200201","workZoneLabel":"200201","travelArea":"DO","status":"active","keylabel":["DO200201"],"keys":[]}
+{"workZoneName":"SAMANA, LAS GALERAS, C.P. 200104","workZoneLabel":"200104","travelArea":"DO","status":"active","keylabel":["DO200104"],"keys":[]}
+{"workZoneName":"SAMANA, ARROYO BARRIL, C.P. 200103","workZoneLabel":"200103","travelArea":"DO","status":"active","keylabel":["DO200103"],"keys":[]}
+{"workZoneName":"SAMANA, EL LIMON, C.P. 200102","workZoneLabel":"200102","travelArea":"DO","status":"active","keylabel":["DO200102"],"keys":[]}
+{"workZoneName":"SAMANA, SAMANA, C.P. 200101","workZoneLabel":"200101","travelArea":"DO","status":"active","keylabel":["DO200101"],"keys":[]}
+{"workZoneName":"SALCEDO, VILLA TAPIA, C.P. 190301","workZoneLabel":"190301","travelArea":"DO","status":"active","keylabel":["DO190301"],"keys":[]}
+{"workZoneName":"SALCEDO, BLANCO, C.P. 190202","workZoneLabel":"190202","travelArea":"DO","status":"active","keylabel":["DO190202"],"keys":[]}
+{"workZoneName":"SALCEDO, TENARES, C.P. 190201","workZoneLabel":"190201","travelArea":"DO","status":"active","keylabel":["DO190201"],"keys":[]}
+{"workZoneName":"SALCEDO, JAMAO AFUERA, C.P. 190102","workZoneLabel":"190102","travelArea":"DO","status":"active","keylabel":["DO190102"],"keys":[]}
+{"workZoneName":"SALCEDO, SALCEDO, C.P. 190101","workZoneLabel":"190101","travelArea":"DO","status":"active","keylabel":["DO190101"],"keys":[]}
+{"workZoneName":"PUERTO PLATA, VILLA ISABELA, C.P. 180804","workZoneLabel":"180804","travelArea":"DO","status":"active","keylabel":["DO180804"],"keys":[]}
+{"workZoneName":"PUERTO PLATA, LA JAIBA, C.P. 180803","workZoneLabel":"180803","travelArea":"DO","status":"active","keylabel":["DO180803"],"keys":[]}
+{"workZoneName":"PUERTO PLATA, ESTERO HONDO, C.P. 180802","workZoneLabel":"180802","travelArea":"DO","status":"active","keylabel":["DO180802"],"keys":[]}
+{"workZoneName":"PUERTO PLATA, VILLA ISABELA, C.P. 180801","workZoneLabel":"180801","travelArea":"DO","status":"active","keylabel":["DO180801"],"keys":[]}
+{"workZoneName":"PUERTO PLATA, SABANETA DE YASICA, C.P. 180703","workZoneLabel":"180703","travelArea":"DO","status":"active","keylabel":["DO180703"],"keys":[]}
+{"workZoneName":"PUERTO PLATA, CABARETE, C.P. 180702","workZoneLabel":"180702","travelArea":"DO","status":"active","keylabel":["DO180702"],"keys":[]}
+{"workZoneName":"PUERTO PLATA, SOSUA, C.P. 180701","workZoneLabel":"180701","travelArea":"DO","status":"active","keylabel":["DO180701"],"keys":[]}
+{"workZoneName":"PUERTO PLATA, BELLOSO, C.P. 180603","workZoneLabel":"180603","travelArea":"DO","status":"active","keylabel":["DO180603"],"keys":[]}
+{"workZoneName":"PUERTO PLATA, LA ISABELA, C.P. 180602","workZoneLabel":"180602","travelArea":"DO","status":"active","keylabel":["DO180602"],"keys":[]}
+{"workZoneName":"PUERTO PLATA, VILLA ISABELA, C.P. 180601","workZoneLabel":"180601","travelArea":"DO","status":"active","keylabel":["DO180601"],"keys":[]}
+{"workZoneName":"PUERTO PLATA, NAVAS (D.M), C.P. 180502","workZoneLabel":"180502","travelArea":"DO","status":"active","keylabel":["DO180502"],"keys":[]}
+{"workZoneName":"PUERTO PLATA, LOS HIDALGOS, C.P. 180501","workZoneLabel":"180501","travelArea":"DO","status":"active","keylabel":["DO180501"],"keys":[]}
+{"workZoneName":"PUERTO PLATA, IMBERT, C.P. 180401","workZoneLabel":"180401","travelArea":"DO","status":"active","keylabel":["DO180401"],"keys":[]}
+{"workZoneName":"PUERTO PLATA, GUANANICO, C.P. 180301","workZoneLabel":"180301","travelArea":"DO","status":"active","keylabel":["DO180301"],"keys":[]}
+{"workZoneName":"PUERTO PLATA, ALTAMIRA, C.P. 180201","workZoneLabel":"180201","travelArea":"DO","status":"active","keylabel":["DO180201"],"keys":[]}
+{"workZoneName":"PUERTO PLATA, YASICA ARRIBA, C.P. 180103","workZoneLabel":"180103","travelArea":"DO","status":"active","keylabel":["DO180103"],"keys":[]}
+{"workZoneName":"PUERTO PLATA, VILLA MONTELLANO, C.P. 180102","workZoneLabel":"180102","travelArea":"DO","status":"active","keylabel":["DO180102"],"keys":[]}
+{"workZoneName":"PUERTO PLATA, PUERTO PLATA, C.P. 180101","workZoneLabel":"180101","travelArea":"DO","status":"active","keylabel":["DO180101"],"keys":[]}
+{"workZoneName":"PERAVIA, SANTANA, C.P. 170203","workZoneLabel":"170203","travelArea":"DO","status":"active","keylabel":["DO170203"],"keys":[]}
+{"workZoneName":"PERAVIA, PIZARRETE, C.P. 170202","workZoneLabel":"170202","travelArea":"DO","status":"active","keylabel":["DO170202"],"keys":[]}
+{"workZoneName":"PERAVIA, NIZAO, C.P. 170201","workZoneLabel":"170201","travelArea":"DO","status":"active","keylabel":["DO170201"],"keys":[]}
+{"workZoneName":"PERAVIA, CATALINA, C.P. 170108","workZoneLabel":"170108","travelArea":"DO","status":"active","keylabel":["DO170108"],"keys":[]}
+{"workZoneName":"PERAVIA, EL CARRETON, C.P. 170107","workZoneLabel":"170107","travelArea":"DO","status":"active","keylabel":["DO170107"],"keys":[]}
+{"workZoneName":"PERAVIA, BANI, C.P. 170106","workZoneLabel":"170106","travelArea":"DO","status":"active","keylabel":["DO170106"],"keys":[]}
+{"workZoneName":"PERAVIA, PAYA, C.P. 170105","workZoneLabel":"170105","travelArea":"DO","status":"active","keylabel":["DO170105"],"keys":[]}
+{"workZoneName":"PERAVIA, SABANA BUEY, C.P. 170104","workZoneLabel":"170104","travelArea":"DO","status":"active","keylabel":["DO170104"],"keys":[]}
+{"workZoneName":"PERAVIA, VILLA FUNDACION, C.P. 170103","workZoneLabel":"170103","travelArea":"DO","status":"active","keylabel":["DO170103"],"keys":[]}
+{"workZoneName":"PERAVIA, MATANZAS, C.P. 170102","workZoneLabel":"170102","travelArea":"DO","status":"active","keylabel":["DO170102"],"keys":[]}
+{"workZoneName":"PERAVIA, BANI, C.P. 170101","workZoneLabel":"170101","travelArea":"DO","status":"active","keylabel":["DO170101"],"keys":[]}
+{"workZoneName":"PEDERNALES, OVIEDO, C.P. 160201","workZoneLabel":"160201","travelArea":"DO","status":"active","keylabel":["DO160201"],"keys":[]}
+{"workZoneName":"PEDERNALES, JOSE FRANCISCO PEÑA GOMEZ, C.P. 160103","workZoneLabel":"160103","travelArea":"DO","status":"active","keylabel":["DO160103"],"keys":[]}
+{"workZoneName":"PEDERNALES, JUANCHO, C.P. 160102","workZoneLabel":"160102","travelArea":"DO","status":"active","keylabel":["DO160102"],"keys":[]}
+{"workZoneName":"PEDERNALES, PEDERNALES, C.P. 160101","workZoneLabel":"160101","travelArea":"DO","status":"active","keylabel":["DO160101"],"keys":[]}
+{"workZoneName":"MONTE CRISTI, VILLA VAZQUEZ, C.P. 150601","workZoneLabel":"150601","travelArea":"DO","status":"active","keylabel":["DO150601"],"keys":[]}
+{"workZoneName":"MONTE CRISTI, PEPILLO SALCEDO (MANZANILLO), C.P. 150501","workZoneLabel":"150501","travelArea":"DO","status":"active","keylabel":["DO150501"],"keys":[]}
+{"workZoneName":"MONTE CRISTI, LAS MATAS DE SANTA CRUZ, C.P. 150401","workZoneLabel":"150401","travelArea":"DO","status":"active","keylabel":["DO150401"],"keys":[]}
+{"workZoneName":"MONTE CRISTI, CANA CHAPETON, C.P. 150304","workZoneLabel":"150304","travelArea":"DO","status":"active","keylabel":["DO150304"],"keys":[]}
+{"workZoneName":"MONTE CRISTI, HATILLO PALMA, C.P. 150303","workZoneLabel":"150303","travelArea":"DO","status":"active","keylabel":["DO150303"],"keys":[]}
+{"workZoneName":"MONTE CRISTI, VILLA ELISA, C.P. 150302","workZoneLabel":"150302","travelArea":"DO","status":"active","keylabel":["DO150302"],"keys":[]}
+{"workZoneName":"MONTE CRISTI, GUAYUBIN, C.P. 150301","workZoneLabel":"150301","travelArea":"DO","status":"active","keylabel":["DO150301"],"keys":[]}
+{"workZoneName":"MONTE CRISTI, PALO VERDE, C.P. 150202","workZoneLabel":"150202","travelArea":"DO","status":"active","keylabel":["DO150202"],"keys":[]}
+{"workZoneName":"MONTE CRISTI, CASTAÑUELAS, C.P. 150201","workZoneLabel":"150201","travelArea":"DO","status":"active","keylabel":["DO150201"],"keys":[]}
+{"workZoneName":"MONTE CRISTI, MONTE CRISTI, C.P. 150101","workZoneLabel":"150101","travelArea":"DO","status":"active","keylabel":["DO150101"],"keys":[]}
+{"workZoneName":"MARIA TRINIDAD SANCHEZ, RIO SAN JUAN, C.P. 140401","workZoneLabel":"140401","travelArea":"DO","status":"active","keylabel":["DO140401"],"keys":[]}
+{"workZoneName":"MARIA TRINIDAD SANCHEZ, EL POZO D.M., C.P. 140302","workZoneLabel":"140302","travelArea":"DO","status":"active","keylabel":["DO140302"],"keys":[]}
+{"workZoneName":"MARIA TRINIDAD SANCHEZ, EL FACTOR, C.P. 140301","workZoneLabel":"140301","travelArea":"DO","status":"active","keylabel":["DO140301"],"keys":[]}
+{"workZoneName":"MARIA TRINIDAD SANCHEZ, LA ENTRADA, C.P. 140203","workZoneLabel":"140203","travelArea":"DO","status":"active","keylabel":["DO140203"],"keys":[]}
+{"workZoneName":"MARIA TRINIDAD SANCHEZ, ARROYO SALADO, C.P. 140202","workZoneLabel":"140202","travelArea":"DO","status":"active","keylabel":["DO140202"],"keys":[]}
+{"workZoneName":"MARIA TRINIDAD SANCHEZ, CABRERA, C.P. 140201","workZoneLabel":"140201","travelArea":"DO","status":"active","keylabel":["DO140201"],"keys":[]}
+{"workZoneName":"MARIA TRINIDAD SANCHEZ, LAS GORDAS, C.P. 140103","workZoneLabel":"140103","travelArea":"DO","status":"active","keylabel":["DO140103"],"keys":[]}
+{"workZoneName":"MARIA TRINIDAD SANCHEZ, SAN JOSE DE MATANZAS, C.P. 140102","workZoneLabel":"140102","travelArea":"DO","status":"active","keylabel":["DO140102"],"keys":[]}
+{"workZoneName":"MARIA TRINIDAD SANCHEZ, NAGUA, C.P. 140101","workZoneLabel":"140101","travelArea":"DO","status":"active","keylabel":["DO140101"],"keys":[]}
+{"workZoneName":"LA VEGA, RINCON, C.P. 130402","workZoneLabel":"130402","travelArea":"DO","status":"active","keylabel":["DO130402"],"keys":[]}
+{"workZoneName":"LA VEGA, JIMA ABAJO, C.P. 130401","workZoneLabel":"130401","travelArea":"DO","status":"active","keylabel":["DO130401"],"keys":[]}
+{"workZoneName":"LA VEGA, BUENA VISTA, C.P. 130302","workZoneLabel":"130302","travelArea":"DO","status":"active","keylabel":["DO130302"],"keys":[]}
+{"workZoneName":"LA VEGA, JARABACOA, C.P. 130301","workZoneLabel":"130301","travelArea":"DO","status":"active","keylabel":["DO130301"],"keys":[]}
+{"workZoneName":"LA VEGA, LA SABINA, C.P. 130203","workZoneLabel":"130203","travelArea":"DO","status":"active","keylabel":["DO130203"],"keys":[]}
+{"workZoneName":"LA VEGA, TIREO, C.P. 130202","workZoneLabel":"130202","travelArea":"DO","status":"active","keylabel":["DO130202"],"keys":[]}
+{"workZoneName":"LA VEGA, CONSTANZA, C.P. 130201","workZoneLabel":"130201","travelArea":"DO","status":"active","keylabel":["DO130201"],"keys":[]}
+{"workZoneName":"LA VEGA, EL RANCHITO, C.P. 130103","workZoneLabel":"130103","travelArea":"DO","status":"active","keylabel":["DO130103"],"keys":[]}
+{"workZoneName":"LA VEGA, RIO VERDE ARRIBA, C.P. 130102","workZoneLabel":"130102","travelArea":"DO","status":"active","keylabel":["DO130102"],"keys":[]}
+{"workZoneName":"LA VEGA, LA VEGA, C.P. 130101","workZoneLabel":"130101","travelArea":"DO","status":"active","keylabel":["DO130101"],"keys":[]}
+{"workZoneName":"LA ROMANA, CUMAYASA, C.P. 120302","workZoneLabel":"120302","travelArea":"DO","status":"active","keylabel":["DO120302"],"keys":[]}
+{"workZoneName":"LA ROMANA, VILLA HERMOSA, C.P. 120301","workZoneLabel":"120301","travelArea":"DO","status":"active","keylabel":["DO120301"],"keys":[]}
+{"workZoneName":"LA ROMANA, GUAYMATE, C.P. 120201","workZoneLabel":"120201","travelArea":"DO","status":"active","keylabel":["DO120201"],"keys":[]}
+{"workZoneName":"LA ROMANA, LA ROMANA, C.P. 120101","workZoneLabel":"120101","travelArea":"DO","status":"active","keylabel":["DO120101"],"keys":[]}
+{"workZoneName":"LA ALTAGRACIA, LAGUNAS DE NISIBON, C.P. 110301","workZoneLabel":"110301","travelArea":"DO","status":"active","keylabel":["DO110301"],"keys":[]}
+{"workZoneName":"LA ALTAGRACIA, ZONA URBANA, C.P. 110203","workZoneLabel":"110203","travelArea":"DO","status":"active","keylabel":["DO110203"],"keys":[]}
+{"workZoneName":"LA ALTAGRACIA, BOCA DE YUMA, C.P. 110202","workZoneLabel":"110202","travelArea":"DO","status":"active","keylabel":["DO110202"],"keys":[]}
+{"workZoneName":"LA ALTAGRACIA, SAN RAFAEL DEL YUMA, C.P. 110201","workZoneLabel":"110201","travelArea":"DO","status":"active","keylabel":["DO110201"],"keys":[]}
+{"workZoneName":"LA ALTAGRACIA, LA OTRA BANDA, C.P. 110102","workZoneLabel":"110102","travelArea":"DO","status":"active","keylabel":["DO110102"],"keys":[]}
+{"workZoneName":"LA ALTAGRACIA, HIGUEY, C.P. 110101","workZoneLabel":"110101","travelArea":"DO","status":"active","keylabel":["DO110101"],"keys":[]}
+{"workZoneName":"INDEPENDENCIA, LA COLONIA, C.P. 100602","workZoneLabel":"100602","travelArea":"DO","status":"active","keylabel":["DO100602"],"keys":[]}
+{"workZoneName":"INDEPENDENCIA, MELLA, C.P. 100601","workZoneLabel":"100601","travelArea":"DO","status":"active","keylabel":["DO100601"],"keys":[]}
+{"workZoneName":"INDEPENDENCIA, CRISTOBAL, C.P. 100501","workZoneLabel":"100501","travelArea":"DO","status":"active","keylabel":["DO100501"],"keys":[]}
+{"workZoneName":"INDEPENDENCIA, GUAYABAL, C.P. 100402","workZoneLabel":"100402","travelArea":"DO","status":"active","keylabel":["DO100402"],"keys":[]}
+{"workZoneName":"INDEPENDENCIA, POSTRER RIO, C.P. 100401","workZoneLabel":"100401","travelArea":"DO","status":"active","keylabel":["DO100401"],"keys":[]}
+{"workZoneName":"INDEPENDENCIA, LA DESCUBIERTA, C.P. 100301","workZoneLabel":"100301","travelArea":"DO","status":"active","keylabel":["DO100301"],"keys":[]}
+{"workZoneName":"INDEPENDENCIA, VENGAN A VER, C.P. 100202","workZoneLabel":"100202","travelArea":"DO","status":"active","keylabel":["DO100202"],"keys":[]}
+{"workZoneName":"INDEPENDENCIA, DUVERGE, C.P. 100201","workZoneLabel":"100201","travelArea":"DO","status":"active","keylabel":["DO100201"],"keys":[]}
+{"workZoneName":"INDEPENDENCIA, BOCA DE CACHON, C.P. 100103","workZoneLabel":"100103","travelArea":"DO","status":"active","keylabel":["DO100103"],"keys":[]}
+{"workZoneName":"INDEPENDENCIA, EL LIMON, C.P. 100102","workZoneLabel":"100102","travelArea":"DO","status":"active","keylabel":["DO100102"],"keys":[]}
+{"workZoneName":"INDEPENDENCIA, JIMANI, C.P. 100101","workZoneLabel":"100101","travelArea":"DO","status":"active","keylabel":["DO100101"],"keys":[]}
+{"workZoneName":"ESPAILLAT, JAMAO AL NORTE, C.P. 090401","workZoneLabel":"090401","travelArea":"DO","status":"active","keylabel":["DO090401"],"keys":[]}
+{"workZoneName":"ESPAILLAT, VILLA MAGANTE, C.P. 090304","workZoneLabel":"090304","travelArea":"DO","status":"active","keylabel":["DO090304"],"keys":[]}
+{"workZoneName":"ESPAILLAT, VERAGUA, C.P. 090303","workZoneLabel":"090303","travelArea":"DO","status":"active","keylabel":["DO090303"],"keys":[]}
+{"workZoneName":"ESPAILLAT, JOBA ARRIBA, C.P. 090302","workZoneLabel":"090302","travelArea":"DO","status":"active","keylabel":["DO090302"],"keys":[]}
+{"workZoneName":"ESPAILLAT, GASPAR HERNANDEZ, C.P. 090301","workZoneLabel":"090301","travelArea":"DO","status":"active","keylabel":["DO090301"],"keys":[]}
+{"workZoneName":"ESPAILLAT, CAYETANO GERMOSEN, C.P. 090201","workZoneLabel":"090201","travelArea":"DO","status":"active","keylabel":["DO090201"],"keys":[]}
+{"workZoneName":"ESPAILLAT, LA ORTEGA, C.P. 090109","workZoneLabel":"090109","travelArea":"DO","status":"active","keylabel":["DO090109"],"keys":[]}
+{"workZoneName":"ESPAILLAT, MONTE DE LA JAGUA (D.M), C.P. 090108","workZoneLabel":"090108","travelArea":"DO","status":"active","keylabel":["DO090108"],"keys":[]}
+{"workZoneName":"ESPAILLAT, EL HIGUERITO, C.P. 090107","workZoneLabel":"090107","travelArea":"DO","status":"active","keylabel":["DO090107"],"keys":[]}
+{"workZoneName":"ESPAILLAT, CANCA LA REYNA, C.P. 090106","workZoneLabel":"090106","travelArea":"DO","status":"active","keylabel":["DO090106"],"keys":[]}
+{"workZoneName":"ESPAILLAT, LAS LAGUNAS, C.P. 090105","workZoneLabel":"090105","travelArea":"DO","status":"active","keylabel":["DO090105"],"keys":[]}
+{"workZoneName":"ESPAILLAT, JUAN LOPEZ, C.P. 090104","workZoneLabel":"090104","travelArea":"DO","status":"active","keylabel":["DO090104"],"keys":[]}
+{"workZoneName":"ESPAILLAT, SAN VICTOR, C.P. 090103","workZoneLabel":"090103","travelArea":"DO","status":"active","keylabel":["DO090103"],"keys":[]}
+{"workZoneName":"ESPAILLAT, JOSE CONTRERAS, C.P. 090102","workZoneLabel":"090102","travelArea":"DO","status":"active","keylabel":["DO090102"],"keys":[]}
+{"workZoneName":"ESPAILLAT, MOCA, C.P. 090101","workZoneLabel":"090101","travelArea":"DO","status":"active","keylabel":["DO090101"],"keys":[]}
+{"workZoneName":"EL SEIBO, LA GINA, C.P. 080203","workZoneLabel":"080203","travelArea":"DO","status":"active","keylabel":["DO080203"],"keys":[]}
+{"workZoneName":"EL SEIBO, EL CEDRO, C.P. 080202","workZoneLabel":"080202","travelArea":"DO","status":"active","keylabel":["DO080202"],"keys":[]}
+{"workZoneName":"EL SEIBO, MICHES, C.P. 080201","workZoneLabel":"080201","travelArea":"DO","status":"active","keylabel":["DO080201"],"keys":[]}
+{"workZoneName":"EL SEIBO, PEDRO SANCHEZ, C.P. 080102","workZoneLabel":"080102","travelArea":"DO","status":"active","keylabel":["DO080102"],"keys":[]}
+{"workZoneName":"EL SEIBO, EL SEIBO, C.P. 080101","workZoneLabel":"080101","travelArea":"DO","status":"active","keylabel":["DO080101"],"keys":[]}
+{"workZoneName":"ELIAS PIÑA, JUAN SANTIAGO, C.P. 070601","workZoneLabel":"070601","travelArea":"DO","status":"active","keylabel":["DO070601"],"keys":[]}
+{"workZoneName":"ELIAS PIÑA, RIO LIMPIO, C.P. 070502","workZoneLabel":"070502","travelArea":"DO","status":"active","keylabel":["DO070502"],"keys":[]}
+{"workZoneName":"ELIAS PIÑA, PEDRO SANTANA, C.P. 070501","workZoneLabel":"070501","travelArea":"DO","status":"active","keylabel":["DO070501"],"keys":[]}
+{"workZoneName":"ELIAS PIÑA, HONDO VALLE, C.P. 070401","workZoneLabel":"070401","travelArea":"DO","status":"active","keylabel":["DO070401"],"keys":[]}
+{"workZoneName":"ELIAS PIÑA, EL LLANO, C.P. 070301","workZoneLabel":"070301","travelArea":"DO","status":"active","keylabel":["DO070301"],"keys":[]}
+{"workZoneName":"ELIAS PIÑA, SABANA CRUZ, C.P. 070202","workZoneLabel":"070202","travelArea":"DO","status":"active","keylabel":["DO070202"],"keys":[]}
+{"workZoneName":"ELIAS PIÑA, BANICA, C.P. 070201","workZoneLabel":"070201","travelArea":"DO","status":"active","keylabel":["DO070201"],"keys":[]}
+{"workZoneName":"ELIAS PIÑA, SABANA LARGA, C.P. 070102","workZoneLabel":"070102","travelArea":"DO","status":"active","keylabel":["DO070102"],"keys":[]}
+{"workZoneName":"ELIAS PIÑA, COMENDADOR, C.P. 070101","workZoneLabel":"070101","travelArea":"DO","status":"active","keylabel":["DO070101"],"keys":[]}
+{"workZoneName":"DUARTE, SABANA GRANDE, C.P. 060702","workZoneLabel":"060702","travelArea":"DO","status":"active","keylabel":["DO060702"],"keys":[]}
+{"workZoneName":"DUARTE, EUGENIO MARIA DE HOSTOS, C.P. 060701","workZoneLabel":"060701","travelArea":"DO","status":"active","keylabel":["DO060701"],"keys":[]}
+{"workZoneName":"DUARTE, LAS GUARANAS, C.P. 060601","workZoneLabel":"060601","travelArea":"DO","status":"active","keylabel":["DO060601"],"keys":[]}
+{"workZoneName":"DUARTE, BARRAQUITO, C.P. 060505","workZoneLabel":"060505","travelArea":"DO","status":"active","keylabel":["DO060505"],"keys":[]}
+{"workZoneName":"DUARTE, LAS TARANAS, C.P. 060504","workZoneLabel":"060504","travelArea":"DO","status":"active","keylabel":["DO060504"],"keys":[]}
+{"workZoneName":"DUARTE, CRISTO REY DE GUARAGUAO, C.P. 060503","workZoneLabel":"060503","travelArea":"DO","status":"active","keylabel":["DO060503"],"keys":[]}
+{"workZoneName":"DUARTE, AGUA SANTA DEL YUNA, C.P. 060502","workZoneLabel":"060502","travelArea":"DO","status":"active","keylabel":["DO060502"],"keys":[]}
+{"workZoneName":"DUARTE, VILLA RIVA, C.P. 060501","workZoneLabel":"060501","travelArea":"DO","status":"active","keylabel":["DO060501"],"keys":[]}
+{"workZoneName":"DUARTE, PIMENTEL, C.P. 060401","workZoneLabel":"060401","travelArea":"DO","status":"active","keylabel":["DO060401"],"keys":[]}
+{"workZoneName":"DUARTE, CASTILLO, C.P. 060301","workZoneLabel":"060301","travelArea":"DO","status":"active","keylabel":["DO060301"],"keys":[]}
+{"workZoneName":"DUARTE, EL AGUACATE, C.P. 060203","workZoneLabel":"060203","travelArea":"DO","status":"active","keylabel":["DO060203"],"keys":[]}
+{"workZoneName":"DUARTE, LAS COLES, C.P. 060202","workZoneLabel":"060202","travelArea":"DO","status":"active","keylabel":["DO060202"],"keys":[]}
+{"workZoneName":"DUARTE, ARENOSO, C.P. 060201","workZoneLabel":"060201","travelArea":"DO","status":"active","keylabel":["DO060201"],"keys":[]}
+{"workZoneName":"DUARTE, SAN FRANCISCO DE MACORIS, C.P. 060104","workZoneLabel":"060104","travelArea":"DO","status":"active","keylabel":["DO060104"],"keys":[]}
+{"workZoneName":"DUARTE, CENOVI, C.P. 060103","workZoneLabel":"060103","travelArea":"DO","status":"active","keylabel":["DO060103"],"keys":[]}
+{"workZoneName":"DUARTE, LA PEÑA, C.P. 060102","workZoneLabel":"060102","travelArea":"DO","status":"active","keylabel":["DO060102"],"keys":[]}
+{"workZoneName":"DUARTE, SAN FRANCISCO DE MACORIS, C.P. 060101","workZoneLabel":"060101","travelArea":"DO","status":"active","keylabel":["DO060101"],"keys":[]}
+{"workZoneName":"DAJABON, MANUEL BUENO, C.P. 050502","workZoneLabel":"050502","travelArea":"DO","status":"active","keylabel":["DO050502"],"keys":[]}
+{"workZoneName":"DAJABON, EL PINO, C.P. 050501","workZoneLabel":"050501","travelArea":"DO","status":"active","keylabel":["DO050501"],"keys":[]}
+{"workZoneName":"DAJABON, RESTAURACION, C.P. 050401","workZoneLabel":"050401","travelArea":"DO","status":"active","keylabel":["DO050401"],"keys":[]}
+{"workZoneName":"DAJABON, PARTIDO, C.P. 050301","workZoneLabel":"050301","travelArea":"DO","status":"active","keylabel":["DO050301"],"keys":[]}
+{"workZoneName":"DAJABON, CAPOTILLO, C.P. 050202","workZoneLabel":"050202","travelArea":"DO","status":"active","keylabel":["DO050202"],"keys":[]}
+{"workZoneName":"DAJABON, LOMA DE CABRERA, C.P. 050201","workZoneLabel":"050201","travelArea":"DO","status":"active","keylabel":["DO050201"],"keys":[]}
+{"workZoneName":"DAJABON, CAÑONGO, C.P. 050102","workZoneLabel":"050102","travelArea":"DO","status":"active","keylabel":["DO050102"],"keys":[]}
+{"workZoneName":"DAJABON, DAJABON, C.P. 050101","workZoneLabel":"050101","travelArea":"DO","status":"active","keylabel":["DO050101"],"keys":[]}
+{"workZoneName":"BARAHONA, PALO ALTO, C.P. 041102","workZoneLabel":"041102","travelArea":"DO","status":"active","keylabel":["DO041102"],"keys":[]}
+{"workZoneName":"BARAHONA, JAQUIMEYES, C.P. 041101","workZoneLabel":"041101","travelArea":"DO","status":"active","keylabel":["DO041101"],"keys":[]}
+{"workZoneName":"BARAHONA, POLO, C.P. 041001","workZoneLabel":"041001","travelArea":"DO","status":"active","keylabel":["DO041001"],"keys":[]}
+{"workZoneName":"BARAHONA, LAS SALINAS, C.P. 040901","workZoneLabel":"040901","travelArea":"DO","status":"active","keylabel":["DO040901"],"keys":[]}
+{"workZoneName":"BARAHONA, PESCADERIA, C.P. 040802","workZoneLabel":"040802","travelArea":"DO","status":"active","keylabel":["DO040802"],"keys":[]}
+{"workZoneName":"BARAHONA, FUNDACION, C.P. 040801","workZoneLabel":"040801","travelArea":"DO","status":"active","keylabel":["DO040801"],"keys":[]}
+{"workZoneName":"BARAHONA, BAHORUCO, C.P. 040702","workZoneLabel":"040702","travelArea":"DO","status":"active","keylabel":["DO040702"],"keys":[]}
+{"workZoneName":"BARAHONA, LA CIENAGA, C.P. 040701","workZoneLabel":"040701","travelArea":"DO","status":"active","keylabel":["DO040701"],"keys":[]}
+{"workZoneName":"BARAHONA, EL PEÑON, C.P. 040601","workZoneLabel":"040601","travelArea":"DO","status":"active","keylabel":["DO040601"],"keys":[]}
+{"workZoneName":"BARAHONA, FONDO NEGRO, C.P. 040504","workZoneLabel":"040504","travelArea":"DO","status":"active","keylabel":["DO040504"],"keys":[]}
+{"workZoneName":"BARAHONA, QUITA CORAZA, C.P. 040503","workZoneLabel":"040503","travelArea":"DO","status":"active","keylabel":["DO040503"],"keys":[]}
+{"workZoneName":"BARAHONA, CANOA, C.P. 040502","workZoneLabel":"040502","travelArea":"DO","status":"active","keylabel":["DO040502"],"keys":[]}
+{"workZoneName":"BARAHONA, VICENTE NOBLE, C.P. 040501","workZoneLabel":"040501","travelArea":"DO","status":"active","keylabel":["DO040501"],"keys":[]}
+{"workZoneName":"BARAHONA, LOS PATOS, C.P. 040402","workZoneLabel":"040402","travelArea":"DO","status":"active","keylabel":["DO040402"],"keys":[]}
+{"workZoneName":"BARAHONA, PARAISO, C.P. 040401","workZoneLabel":"040401","travelArea":"DO","status":"active","keylabel":["DO040401"],"keys":[]}
+{"workZoneName":"BARAHONA, ARROYO DULCE, C.P. 040302","workZoneLabel":"040302","travelArea":"DO","status":"active","keylabel":["DO040302"],"keys":[]}
+{"workZoneName":"BARAHONA, ENRIQUILLO, C.P. 040301","workZoneLabel":"040301","travelArea":"DO","status":"active","keylabel":["DO040301"],"keys":[]}
+{"workZoneName":"BARAHONA, CABRAL, C.P. 040201","workZoneLabel":"040201","travelArea":"DO","status":"active","keylabel":["DO040201"],"keys":[]}
+{"workZoneName":"BARAHONA, EL CACHON, C.P. 040102","workZoneLabel":"040102","travelArea":"DO","status":"active","keylabel":["DO040102"],"keys":[]}
+{"workZoneName":"BARAHONA, BARAHONA, C.P. 040101","workZoneLabel":"040101","travelArea":"DO","status":"active","keylabel":["DO040101"],"keys":[]}
+{"workZoneName":"BAHORUCO, LAS CLAVELLINAS, C.P. 030502","workZoneLabel":"030502","travelArea":"DO","status":"active","keylabel":["DO030502"],"keys":[]}
+{"workZoneName":"BAHORUCO, LOS RIOS, C.P. 030501","workZoneLabel":"030501","travelArea":"DO","status":"active","keylabel":["DO030501"],"keys":[]}
+{"workZoneName":"BAHORUCO, VILLA JARAGUA, C.P. 030401","workZoneLabel":"030401","travelArea":"DO","status":"active","keylabel":["DO030401"],"keys":[]}
+{"workZoneName":"BAHORUCO, CABEZA DE TORO, C.P. 030305","workZoneLabel":"030305","travelArea":"DO","status":"active","keylabel":["DO030305"],"keys":[]}
+{"workZoneName":"BAHORUCO, MONSERRAT, C.P. 030304","workZoneLabel":"030304","travelArea":"DO","status":"active","keylabel":["DO030304"],"keys":[]}
+{"workZoneName":"BAHORUCO, SANTANA, C.P. 030303","workZoneLabel":"030303","travelArea":"DO","status":"active","keylabel":["DO030303"],"keys":[]}
+{"workZoneName":"BAHORUCO, UVILLA, C.P. 030302","workZoneLabel":"030302","travelArea":"DO","status":"active","keylabel":["DO030302"],"keys":[]}
+{"workZoneName":"BAHORUCO, TAMAYO, C.P. 030301","workZoneLabel":"030301","travelArea":"DO","status":"active","keylabel":["DO030301"],"keys":[]}
+{"workZoneName":"BAHORUCO, GALVAN, C.P. 030201","workZoneLabel":"030201","travelArea":"DO","status":"active","keylabel":["DO030201"],"keys":[]}
+{"workZoneName":"BAHORUCO, JAYA, C.P. 030104","workZoneLabel":"030104","travelArea":"DO","status":"active","keylabel":["DO030104"],"keys":[]}
+{"workZoneName":"BAHORUCO, EL PALMAR, C.P. 030102","workZoneLabel":"030102","travelArea":"DO","status":"active","keylabel":["DO030102"],"keys":[]}
+{"workZoneName":"BAHORUCO, NEIBA, C.P. 030101","workZoneLabel":"030101","travelArea":"DO","status":"active","keylabel":["DO030101"],"keys":[]}
+{"workZoneName":"AZUA, ESTEBANIA, C.P. 021001","workZoneLabel":"021001","travelArea":"DO","status":"active","keylabel":["DO021001"],"keys":[]}
+{"workZoneName":"AZUA, GUAYABAL, C.P. 020901","workZoneLabel":"020901","travelArea":"DO","status":"active","keylabel":["DO020901"],"keys":[]}
+{"workZoneName":"AZUA, LOS TOROS, C.P. 020804","workZoneLabel":"020804","travelArea":"DO","status":"active","keylabel":["DO020804"],"keys":[]}
+{"workZoneName":"AZUA, AMIAMA GOMEZ, C.P. 020803","workZoneLabel":"020803","travelArea":"DO","status":"active","keylabel":["DO020803"],"keys":[]}
+{"workZoneName":"AZUA, TABARA ABAJO, C.P. 020802","workZoneLabel":"020802","travelArea":"DO","status":"active","keylabel":["DO020802"],"keys":[]}
+{"workZoneName":"AZUA, TABARA ARRIBA, C.P. 020801","workZoneLabel":"020801","travelArea":"DO","status":"active","keylabel":["DO020801"],"keys":[]}
+{"workZoneName":"AZUA, EL ROSARIO, C.P. 020702","workZoneLabel":"020702","travelArea":"DO","status":"active","keylabel":["DO020702"],"keys":[]}
+{"workZoneName":"AZUA, PUEBLO VIEJO, C.P. 020701","workZoneLabel":"020701","travelArea":"DO","status":"active","keylabel":["DO020701"],"keys":[]}
+{"workZoneName":"AZUA, GANADERO, C.P. 020603","workZoneLabel":"020603","travelArea":"DO","status":"active","keylabel":["DO020603"],"keys":[]}
+{"workZoneName":"AZUA, PROYECTO 4, C.P. 020602","workZoneLabel":"020602","travelArea":"DO","status":"active","keylabel":["DO020602"],"keys":[]}
+{"workZoneName":"AZUA, SABANA YEGUA, C.P. 020601","workZoneLabel":"020601","travelArea":"DO","status":"active","keylabel":["DO020601"],"keys":[]}
+{"workZoneName":"AZUA, PERALTA, C.P. 020501","workZoneLabel":"020501","travelArea":"DO","status":"active","keylabel":["DO020501"],"keys":[]}
+{"workZoneName":"AZUA, LA SIEMBRA, C.P. 020403","workZoneLabel":"020403","travelArea":"DO","status":"active","keylabel":["DO020403"],"keys":[]}
+{"workZoneName":"AZUA, LAS LAGUNAS, C.P. 020402","workZoneLabel":"020402","travelArea":"DO","status":"active","keylabel":["DO020402"],"keys":[]}
+{"workZoneName":"AZUA, PADRE LAS CASAS, C.P. 020401","workZoneLabel":"020401","travelArea":"DO","status":"active","keylabel":["DO020401"],"keys":[]}
+{"workZoneName":"AZUA, VILLARPANDO, C.P. 020302","workZoneLabel":"020302","travelArea":"DO","status":"active","keylabel":["DO020302"],"keys":[]}
+{"workZoneName":"AZUA, LAS YAYAS DE VIAJAMA, C.P. 020301","workZoneLabel":"020301","travelArea":"DO","status":"active","keylabel":["DO020301"],"keys":[]}
+{"workZoneName":"AZUA, HATILLO, C.P. 020203","workZoneLabel":"020203","travelArea":"DO","status":"active","keylabel":["DO020203"],"keys":[]}
+{"workZoneName":"AZUA, PALMAR DE OCOA, C.P. 020202","workZoneLabel":"020202","travelArea":"DO","status":"active","keylabel":["DO020202"],"keys":[]}
+{"workZoneName":"AZUA, LAS CHARCAS, C.P. 020201","workZoneLabel":"020201","travelArea":"DO","status":"active","keylabel":["DO020201"],"keys":[]}
+{"workZoneName":"AZUA, CLAVELLINA, C.P. 020108","workZoneLabel":"020108","travelArea":"DO","status":"active","keylabel":["DO020108"],"keys":[]}
+{"workZoneName":"AZUA, DOÑA EMMA BALAGUER VIUDA VALLEJO, C.P. 020107","workZoneLabel":"020107","travelArea":"DO","status":"active","keylabel":["DO020107"],"keys":[]}
+{"workZoneName":"AZUA, BARRERAS, C.P. 020106","workZoneLabel":"020106","travelArea":"DO","status":"active","keylabel":["DO020106"],"keys":[]}
+{"workZoneName":"AZUA, PUERTO VIEJO, C.P. 020105","workZoneLabel":"020105","travelArea":"DO","status":"active","keylabel":["DO020105"],"keys":[]}
+{"workZoneName":"AZUA, LOS JOVILLOS, C.P. 020104","workZoneLabel":"020104","travelArea":"DO","status":"active","keylabel":["DO020104"],"keys":[]}
+{"workZoneName":"AZUA, LAS BARIAS-LA ESTANCIA, C.P. 020103","workZoneLabel":"020103","travelArea":"DO","status":"active","keylabel":["DO020103"],"keys":[]}
+{"workZoneName":"AZUA, BARRO ARRIBA, C.P. 020102","workZoneLabel":"020102","travelArea":"DO","status":"active","keylabel":["DO020102"],"keys":[]}
+{"workZoneName":"AZUA, AZUA, C.P. 020101","workZoneLabel":"020101","travelArea":"DO","status":"active","keylabel":["DO020101"],"keys":[]}
+{"workZoneName":"DISTRITO NACIONAL, SANTO DOMINGO DE GUZMAN, C.P. 010101","workZoneLabel":"010101","travelArea":"DO","status":"active","keylabel":["DO010101"],"keys":[]}

@@ -57,20 +57,28 @@ namespace SkyWorZonesCreation.Controllers
         public ResponseOFSC Create(WorkZone workZone)
         {
             ResponseOFSC result = new ResponseOFSC();
-            // create request object
-            dynamic objWorkZone = new JObject();
-            objWorkZone.workZoneLabel = workZone.workZoneLabel;
-            objWorkZone.status = workZone.status;
-            objWorkZone.travelArea = workZone.travelArea;
-            objWorkZone.workZoneName = workZone.workZoneName;
+            RootWorkZone rootWorkZone = new RootWorkZone();
+            rootWorkZone.items = new List<WorkZone>();
+            WorkZone workZoneItem = new WorkZone();
 
-            JArray jArray = new JArray();
-            jArray.Add(workZone.keylabel.FirstOrDefault());
-            objWorkZone.keys = jArray;
+            // start 
+            if (workZone.travelArea != "MX")
+                workZoneItem.workZoneLabel = workZone.keylabel.FirstOrDefault();
+            else
+                workZoneItem.workZoneLabel = workZone.workZoneLabel;
+
+            workZoneItem.status = workZone.status;
+            workZoneItem.travelArea = workZone.travelArea;
+            workZoneItem.workZoneName = workZone.workZoneName;
+            workZoneItem.keys.Add(workZone.keylabel.FirstOrDefault());
+            rootWorkZone.items.Add(workZoneItem);
+
+            // end
 
             result = UtilWebRequest.SendWayAsync("rest/ofscMetadata/v1/workZones",
                                                       enumMethod.POST,
-                                                      objWorkZone.ToString(Formatting.None));
+                                                      JsonConvert.SerializeObject(workZoneItem, Formatting.Indented));
+
             if (result.statusCode >= 200 && result.statusCode <= 300)
             {
                 result.flag = true;
@@ -81,16 +89,21 @@ namespace SkyWorZonesCreation.Controllers
             {
                 result = UtilWebRequest.SendWayAsync("rest/ofscMetadata/v1/workZones/" + workZone.workZoneLabel,
                                                    enumMethod.PUT,
-                                                   objWorkZone.ToString(Formatting.None));
+                                                   JsonConvert.SerializeObject(workZoneItem, Formatting.Indented));
                 if (result.statusCode == 200 || result.statusCode == 201)
                     result.flag = true;
                 else
                     result.flag = false;
+
+                Program.Logger(result.ErrorMessage , 2);
+
             }
             else
             {
-               // Program.Logger(string.Format("Bad Zona Trabajo:{0}|Contenido:{1}|Mensaje:{2}", workZone.workZoneName + "&" + workZone.keylabel, result.Content, result.ErrorMessage), 2);
+                // Program.Logger(string.Format("Bad Zona Trabajo:{0}|Contenido:{1}|Mensaje:{2}", workZone.workZoneName + "&" + workZone.keylabel, result.Content, result.ErrorMessage), 2);
                 result.flag = false;
+                Program.Logger(result.ErrorMessage, 2);
+
             }
             return result;
         }
@@ -103,7 +116,11 @@ namespace SkyWorZonesCreation.Controllers
                                         enumMethod.GET,
                                         string.Empty);
 
-            if (result.statusCode >= 200 && result.statusCode <= 400)
+            //ResponseOFSC result = UtilWebRequest.SendWayAsync("rest/ofscMetadata/v1/workZones/" + workZone.workZoneLabel,
+            //                            enumMethod.GET,
+            //                            string.Empty);
+
+            if (result.statusCode >= 200 && result.statusCode < 300)
                 result.flag = true;
             else
                 result.flag = false;
@@ -181,21 +198,26 @@ namespace SkyWorZonesCreation.Controllers
         public ResponseOFSC Set(WorkZone workZone)
         {
 
-            // create request object
-            dynamic objWorkZone = new JObject();
-            objWorkZone.workZoneLabel = workZone.workZoneLabel;
-            objWorkZone.status = workZone.status;
-            objWorkZone.travelArea = workZone.travelArea;
-            objWorkZone.workZoneName = workZone.workZoneName;
-            JArray jArray = new JArray();
-            jArray.Add(workZone.keylabel.FirstOrDefault());
-            objWorkZone.keys = jArray;
+            RootWorkZone rootWorkZone = new RootWorkZone();
+            WorkZone workZoneItem = new WorkZone();
 
-            ResponseOFSC result = UtilWebRequest.SendWayAsync("rest/ofscMetadata/v1/workZones/" + workZone.workZoneLabel + "?autoResolveConflicts=true",
-                                     enumMethod.PUT,
-                                     objWorkZone.ToString());
+            rootWorkZone.items = new List<WorkZone>();
+            if (workZone.travelArea != "MX")
+                workZoneItem.workZoneLabel = workZone.keylabel.FirstOrDefault();
+            else
+                workZoneItem.workZoneLabel = workZone.workZoneLabel;
 
-            if (result.statusCode >= 200 && result.statusCode <= 400)
+            workZoneItem.status = workZone.status;
+            workZoneItem.travelArea = workZone.travelArea;
+            workZoneItem.workZoneName = workZone.workZoneName;
+            workZoneItem.keys.Add(workZone.keylabel.FirstOrDefault());
+            rootWorkZone.items.Add(workZoneItem);
+
+            ResponseOFSC result = UtilWebRequest.SendWayAsync("rest/ofscMetadata/v1/workZones",
+                                     enumMethod.PATCH,
+                                     JsonConvert.SerializeObject(rootWorkZone, Formatting.Indented));
+      
+            if (result.statusCode >= 200 && result.statusCode < 300)
                 result.flag = true;
             else
                 result.flag = false;

@@ -73,7 +73,7 @@ namespace SkyWorZonesCreation
 
             Console.WriteLine("En proceso " + listworkZone.Count() + " registros .");
 
-            if (listworkZone.Count <= 1500)
+            if (listworkZone.Count <= 500)
             {
                 foreach (var item in listworkZone)
                     WorkZoneMain(item);
@@ -81,35 +81,35 @@ namespace SkyWorZonesCreation
             else
             {
 
-                var tmp0 = listworkZone.Take(1500).ToList();
-                var tmp1 = listworkZone.Skip(1500).Take(1500).ToList();
-                var tmp2 = listworkZone.Skip(3000).Take(1500).ToList();
-                var tmp3 = listworkZone.Skip(4500).Take(1500).ToList();
-                var tmp4 = listworkZone.Skip(6000).Take(1500).ToList();
-                var tmpStromg = listworkZone.Skip(7500).ToList();
+                double microprocess = listworkZone.Count / 5;
+                int microprocess0 = (int)microprocess;
+                int microprocess1 = microprocess0 * 2;
+                int microprocess2 = microprocess0 * 3;
 
+                var tmp0 = listworkZone.Take(microprocess0).ToList();
+                var tmp1 = listworkZone.Skip(microprocess0).Take(microprocess0).ToList();
+                var tmp2 = listworkZone.Skip(microprocess1).Take(microprocess0).ToList();
+                var tmp3 = listworkZone.Skip(microprocess2).Take(microprocess0).ToList();
+
+                var tmpStromg = listworkZone.Skip(microprocess2).ToList();
 
                 Thread thread0 = new Thread(() => WorkZoneQueue(tmp0));
                 Thread thread1 = new Thread(() => WorkZoneQueue(tmp1));
                 Thread thread2 = new Thread(() => WorkZoneQueue(tmp2));
                 Thread thread3 = new Thread(() => WorkZoneQueue(tmp3));
-                Thread thread4 = new Thread(() => WorkZoneQueue(tmp4));
                 Thread threadStrong = new Thread(() => WorkZoneQueue(tmpStromg));
 
+                threadStrong.Start();
                 thread0.Start();
                 thread1.Start();
                 thread2.Start();
                 thread3.Start();
-                thread4.Start();
-                threadStrong.Start();
 
+                threadStrong.Join();
                 thread0.Join();
                 thread1.Join();
                 thread2.Join();
                 thread3.Join();
-                thread4.Join();
-                threadStrong.Join();
-
             }
 
 
@@ -176,40 +176,32 @@ namespace SkyWorZonesCreation
             // return string.Concat(listworkZone.Count, ",", good, ",", bad);
         }
 
-        private static bool WorkZoneMain(WorkZone workZone)
+        private static void WorkZoneMain(WorkZone workZone)
         {
-            Console.WriteLine("workZoneLabel:" + workZone.workZoneLabel + "   " + workZone.keylabel.FirstOrDefault() + "   status:" + workZone.status + "    workZoneName:" + workZone.workZoneName);
-            bool flag = false;
-            Logger(string.Format("workzone {0}|{1}|{2}|{3}|{4}|", workZone.workZoneLabel, workZone.status, workZone.travelArea, workZone.workZoneName, workZone.keylabel.FirstOrDefault()));
+            ResponseOFSC responseOFSC = new ResponseOFSC();
+            Console.WriteLine("workZone :" + workZone.workZoneLabel + "travelArea: " + workZone.travelArea);
 
-            var checkExist = ctrlworkZone.Exist(workZone);
+            JsonSerializerSettings settings = new JsonSerializerSettings();
+            settings.Formatting = Formatting.None;
 
-            if (!checkExist.flag)
+            Logger(string.Format("workzone {0}", workZone.workZoneLabel));
+
+            if (!ctrlworkZone.Exist(workZone).flag)
+                responseOFSC = ctrlworkZone.Create(workZone);
+            else
+                responseOFSC = ctrlworkZone.Set(workZone);
+
+
+            if (responseOFSC.flag)
             {
-                var response = ctrlworkZone.Create(workZone);
-                flag = response.flag;
-
-                if (flag)
-                {
-                    rowOK = rowOK += 1;
-                    WorkZone workZoneContent = new WorkZone();
-                    response.Content = response.Content.Replace(@"\n", "");
-                    Logger(JsonConvert.SerializeObject(response.Content, Formatting.None), 4);
-                }
-                else
-                {
-                    rowBAD = rowBAD += 1;
-                    Logger(string.Format("Información Zona no Creada: {0}|{1}|{2}|{3}|{4}|", workZone.workZoneLabel, workZone.status, workZone.travelArea, workZone.workZoneName, workZone.keylabel.FirstOrDefault()), 5);
-                    Logger("Detalle :", 5);
-                    Logger(JsonConvert.SerializeObject(response.Content, Formatting.None), 5);
-                    Logger("==================================================", 5);
-                }
+                rowOK = rowOK += 1;
+                Logger(JsonConvert.SerializeObject(workZone, settings), 4);
             }
             else
             {
-                ctrlworkZone.Set(workZone);
+                rowBAD = rowBAD += 1;
+                Logger(JsonConvert.SerializeObject(workZone, settings), 5);
             }
-            return flag;
         }
 
         /// <summary>
@@ -246,14 +238,17 @@ namespace SkyWorZonesCreation
                         break;
                 }
 
-                System.Text.Encoding utf_8 = System.Text.Encoding.UTF8;
-                string s_unicode = lines;
-                byte[] utf8Bytes = System.Text.Encoding.UTF8.GetBytes(s_unicode);
-                string s_unicode2 = System.Text.Encoding.UTF8.GetString(utf8Bytes);
+                if (!string.IsNullOrEmpty(lines))
+                {
+                    System.Text.Encoding utf_8 = System.Text.Encoding.UTF8;
+                    string s_unicode = lines;
+                    byte[] utf8Bytes = System.Text.Encoding.UTF8.GetBytes(s_unicode);
+                    string s_unicode2 = System.Text.Encoding.UTF8.GetString(utf8Bytes);
 
-                System.IO.StreamWriter file = new System.IO.StreamWriter(temppath, true);
-                file.WriteLine(s_unicode2);
-                file.Close();
+                    System.IO.StreamWriter file = new System.IO.StreamWriter(temppath, true);
+                    file.WriteLine(s_unicode2);
+                    file.Close();
+                }
             }
             catch (Exception ex)
             {

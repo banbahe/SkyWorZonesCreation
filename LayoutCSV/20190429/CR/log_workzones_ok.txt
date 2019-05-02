@@ -1,0 +1,595 @@
+{"workZoneName":"ALAJUELA, SAN CARLOS, C.P. 21009","workZoneLabel":"21009","travelArea":"CR","status":"active","keylabel":["CR21009"],"keys":[]}
+{"workZoneName":"PUNTARENAS, PUNTARENAS, C.P. 60112","workZoneLabel":"60112","travelArea":"CR","status":"active","keylabel":["CR60112"],"keys":[]}
+{"workZoneName":"SAN JOSE, SAN JOSE, C.P. 10101","workZoneLabel":"10101","travelArea":"CR","status":"active","keylabel":["CR10101"],"keys":[]}
+{"workZoneName":"ALAJUELA, SAN CARLOS, C.P. 21010","workZoneLabel":"21010","travelArea":"CR","status":"active","keylabel":["CR21010"],"keys":[]}
+{"workZoneName":"SAN JOSE, SAN JOSE, C.P. 10102","workZoneLabel":"10102","travelArea":"CR","status":"active","keylabel":["CR10102"],"keys":[]}
+{"workZoneName":"PUNTARENAS, PUNTARENAS, C.P. 60113","workZoneLabel":"60113","travelArea":"CR","status":"active","keylabel":["CR60113"],"keys":[]}
+{"workZoneName":"SAN JOSE, SAN JOSE, C.P. 10103","workZoneLabel":"10103","travelArea":"CR","status":"active","keylabel":["CR10103"],"keys":[]}
+{"workZoneName":"ALAJUELA, SAN CARLOS, C.P. 21011","workZoneLabel":"21011","travelArea":"CR","status":"active","keylabel":["CR21011"],"keys":[]}
+{"workZoneName":"SAN JOSE, SAN JOSE, C.P. 10104","workZoneLabel":"10104","travelArea":"CR","status":"active","keylabel":["CR10104"],"keys":[]}
+{"workZoneName":"PUNTARENAS, PUNTARENAS, C.P. 60114","workZoneLabel":"60114","travelArea":"CR","status":"active","keylabel":["CR60114"],"keys":[]}
+{"workZoneName":"SAN JOSE, SAN JOSE, C.P. 10105","workZoneLabel":"10105","travelArea":"CR","status":"active","keylabel":["CR10105"],"keys":[]}
+{"workZoneName":"ALAJUELA, SAN CARLOS, C.P. 21012","workZoneLabel":"21012","travelArea":"CR","status":"active","keylabel":["CR21012"],"keys":[]}
+{"workZoneName":"SAN JOSE, SAN JOSE, C.P. 10106","workZoneLabel":"10106","travelArea":"CR","status":"active","keylabel":["CR10106"],"keys":[]}
+{"workZoneName":"PUNTARENAS, PUNTARENAS, C.P. 60115","workZoneLabel":"60115","travelArea":"CR","status":"active","keylabel":["CR60115"],"keys":[]}
+{"workZoneName":"SAN JOSE, SAN JOSE, C.P. 10107","workZoneLabel":"10107","travelArea":"CR","status":"active","keylabel":["CR10107"],"keys":[]}
+{"workZoneName":"ALAJUELA, SAN CARLOS, C.P. 21013","workZoneLabel":"21013","travelArea":"CR","status":"active","keylabel":["CR21013"],"keys":[]}
+{"workZoneName":"SAN JOSE, SAN JOSE, C.P. 10108","workZoneLabel":"10108","travelArea":"CR","status":"active","keylabel":["CR10108"],"keys":[]}
+{"workZoneName":"PUNTARENAS, PUNTARENAS, C.P. 60116","workZoneLabel":"60116","travelArea":"CR","status":"active","keylabel":["CR60116"],"keys":[]}
+{"workZoneName":"SAN JOSE, SAN JOSE, C.P. 10109","workZoneLabel":"10109","travelArea":"CR","status":"active","keylabel":["CR10109"],"keys":[]}
+{"workZoneName":"ALAJUELA, ALFARO RUIZ, C.P. 21101","workZoneLabel":"21101","travelArea":"CR","status":"active","keylabel":["CR21101"],"keys":[]}
+{"workZoneName":"SAN JOSE, SAN JOSE, C.P. 10110","workZoneLabel":"10110","travelArea":"CR","status":"active","keylabel":["CR10110"],"keys":[]}
+{"workZoneName":"PUNTARENAS, ESPARZA, C.P. 60201","workZoneLabel":"60201","travelArea":"CR","status":"active","keylabel":["CR60201"],"keys":[]}
+{"workZoneName":"SAN JOSE, SAN JOSE, C.P. 10111","workZoneLabel":"10111","travelArea":"CR","status":"active","keylabel":["CR10111"],"keys":[]}
+{"workZoneName":"ALAJUELA, ALFARO RUIZ, C.P. 21102","workZoneLabel":"21102","travelArea":"CR","status":"active","keylabel":["CR21102"],"keys":[]}
+{"workZoneName":"SAN JOSE, ESCAZU, C.P. 10201","workZoneLabel":"10201","travelArea":"CR","status":"active","keylabel":["CR10201"],"keys":[]}
+{"workZoneName":"PUNTARENAS, ESPARZA, C.P. 60202","workZoneLabel":"60202","travelArea":"CR","status":"active","keylabel":["CR60202"],"keys":[]}
+{"workZoneName":"SAN JOSE, ESCAZU, C.P. 10202","workZoneLabel":"10202","travelArea":"CR","status":"active","keylabel":["CR10202"],"keys":[]}
+{"workZoneName":"ALAJUELA, ALFARO RUIZ, C.P. 21103","workZoneLabel":"21103","travelArea":"CR","status":"active","keylabel":["CR21103"],"keys":[]}
+{"workZoneName":"SAN JOSE, ESCAZU, C.P. 10203","workZoneLabel":"10203","travelArea":"CR","status":"active","keylabel":["CR10203"],"keys":[]}
+{"workZoneName":"PUNTARENAS, ESPARZA, C.P. 60203","workZoneLabel":"60203","travelArea":"CR","status":"active","keylabel":["CR60203"],"keys":[]}
+{"workZoneName":"SAN JOSE, DESAMPARADOS, C.P. 10301","workZoneLabel":"10301","travelArea":"CR","status":"active","keylabel":["CR10301"],"keys":[]}
+{"workZoneName":"ALAJUELA, ALFARO RUIZ, C.P. 21104","workZoneLabel":"21104","travelArea":"CR","status":"active","keylabel":["CR21104"],"keys":[]}
+{"workZoneName":"SAN JOSE, DESAMPARADOS, C.P. 10302","workZoneLabel":"10302","travelArea":"CR","status":"active","keylabel":["CR10302"],"keys":[]}
+{"workZoneName":"PUNTARENAS, ESPARZA, C.P. 60204","workZoneLabel":"60204","travelArea":"CR","status":"active","keylabel":["CR60204"],"keys":[]}
+{"workZoneName":"SAN JOSE, DESAMPARADOS, C.P. 10303","workZoneLabel":"10303","travelArea":"CR","status":"active","keylabel":["CR10303"],"keys":[]}
+{"workZoneName":"ALAJUELA, ALFARO RUIZ, C.P. 21105","workZoneLabel":"21105","travelArea":"CR","status":"active","keylabel":["CR21105"],"keys":[]}
+{"workZoneName":"SAN JOSE, DESAMPARADOS, C.P. 10304","workZoneLabel":"10304","travelArea":"CR","status":"active","keylabel":["CR10304"],"keys":[]}
+{"workZoneName":"PUNTARENAS, ESPARZA, C.P. 60205","workZoneLabel":"60205","travelArea":"CR","status":"active","keylabel":["CR60205"],"keys":[]}
+{"workZoneName":"SAN JOSE, DESAMPARADOS, C.P. 10305","workZoneLabel":"10305","travelArea":"CR","status":"active","keylabel":["CR10305"],"keys":[]}
+{"workZoneName":"ALAJUELA, ALFARO RUIZ, C.P. 21106","workZoneLabel":"21106","travelArea":"CR","status":"active","keylabel":["CR21106"],"keys":[]}
+{"workZoneName":"SAN JOSE, DESAMPARADOS, C.P. 10306","workZoneLabel":"10306","travelArea":"CR","status":"active","keylabel":["CR10306"],"keys":[]}
+{"workZoneName":"PUNTARENAS, BUENOS AIRES, C.P. 60301","workZoneLabel":"60301","travelArea":"CR","status":"active","keylabel":["CR60301"],"keys":[]}
+{"workZoneName":"SAN JOSE, DESAMPARADOS, C.P. 10307","workZoneLabel":"10307","travelArea":"CR","status":"active","keylabel":["CR10307"],"keys":[]}
+{"workZoneName":"ALAJUELA, ALFARO RUIZ, C.P. 21107","workZoneLabel":"21107","travelArea":"CR","status":"active","keylabel":["CR21107"],"keys":[]}
+{"workZoneName":"SAN JOSE, DESAMPARADOS, C.P. 10308","workZoneLabel":"10308","travelArea":"CR","status":"active","keylabel":["CR10308"],"keys":[]}
+{"workZoneName":"PUNTARENAS, BUENOS AIRES, C.P. 60302","workZoneLabel":"60302","travelArea":"CR","status":"active","keylabel":["CR60302"],"keys":[]}
+{"workZoneName":"SAN JOSE, DESAMPARADOS, C.P. 10309","workZoneLabel":"10309","travelArea":"CR","status":"active","keylabel":["CR10309"],"keys":[]}
+{"workZoneName":"ALAJUELA, VALVERDE VEGA, C.P. 21201","workZoneLabel":"21201","travelArea":"CR","status":"active","keylabel":["CR21201"],"keys":[]}
+{"workZoneName":"SAN JOSE, DESAMPARADOS, C.P. 10310","workZoneLabel":"10310","travelArea":"CR","status":"active","keylabel":["CR10310"],"keys":[]}
+{"workZoneName":"PUNTARENAS, BUENOS AIRES, C.P. 60303","workZoneLabel":"60303","travelArea":"CR","status":"active","keylabel":["CR60303"],"keys":[]}
+{"workZoneName":"SAN JOSE, DESAMPARADOS, C.P. 10311","workZoneLabel":"10311","travelArea":"CR","status":"active","keylabel":["CR10311"],"keys":[]}
+{"workZoneName":"ALAJUELA, VALVERDE VEGA, C.P. 21202","workZoneLabel":"21202","travelArea":"CR","status":"active","keylabel":["CR21202"],"keys":[]}
+{"workZoneName":"SAN JOSE, DESAMPARADOS, C.P. 10312","workZoneLabel":"10312","travelArea":"CR","status":"active","keylabel":["CR10312"],"keys":[]}
+{"workZoneName":"PUNTARENAS, BUENOS AIRES, C.P. 60304","workZoneLabel":"60304","travelArea":"CR","status":"active","keylabel":["CR60304"],"keys":[]}
+{"workZoneName":"SAN JOSE, DESAMPARADOS, C.P. 10313","workZoneLabel":"10313","travelArea":"CR","status":"active","keylabel":["CR10313"],"keys":[]}
+{"workZoneName":"ALAJUELA, VALVERDE VEGA, C.P. 21203","workZoneLabel":"21203","travelArea":"CR","status":"active","keylabel":["CR21203"],"keys":[]}
+{"workZoneName":"SAN JOSE, PURISCAL, C.P. 10401","workZoneLabel":"10401","travelArea":"CR","status":"active","keylabel":["CR10401"],"keys":[]}
+{"workZoneName":"PUNTARENAS, BUENOS AIRES, C.P. 60305","workZoneLabel":"60305","travelArea":"CR","status":"active","keylabel":["CR60305"],"keys":[]}
+{"workZoneName":"SAN JOSE, PURISCAL, C.P. 10402","workZoneLabel":"10402","travelArea":"CR","status":"active","keylabel":["CR10402"],"keys":[]}
+{"workZoneName":"ALAJUELA, VALVERDE VEGA, C.P. 21204","workZoneLabel":"21204","travelArea":"CR","status":"active","keylabel":["CR21204"],"keys":[]}
+{"workZoneName":"SAN JOSE, PURISCAL, C.P. 10403","workZoneLabel":"10403","travelArea":"CR","status":"active","keylabel":["CR10403"],"keys":[]}
+{"workZoneName":"PUNTARENAS, BUENOS AIRES, C.P. 60306","workZoneLabel":"60306","travelArea":"CR","status":"active","keylabel":["CR60306"],"keys":[]}
+{"workZoneName":"SAN JOSE, PURISCAL, C.P. 10404","workZoneLabel":"10404","travelArea":"CR","status":"active","keylabel":["CR10404"],"keys":[]}
+{"workZoneName":"ALAJUELA, VALVERDE VEGA, C.P. 21205","workZoneLabel":"21205","travelArea":"CR","status":"active","keylabel":["CR21205"],"keys":[]}
+{"workZoneName":"SAN JOSE, PURISCAL, C.P. 10405","workZoneLabel":"10405","travelArea":"CR","status":"active","keylabel":["CR10405"],"keys":[]}
+{"workZoneName":"PUNTARENAS, BUENOS AIRES, C.P. 60307","workZoneLabel":"60307","travelArea":"CR","status":"active","keylabel":["CR60307"],"keys":[]}
+{"workZoneName":"SAN JOSE, PURISCAL, C.P. 10406","workZoneLabel":"10406","travelArea":"CR","status":"active","keylabel":["CR10406"],"keys":[]}
+{"workZoneName":"ALAJUELA, UPALA, C.P. 21301","workZoneLabel":"21301","travelArea":"CR","status":"active","keylabel":["CR21301"],"keys":[]}
+{"workZoneName":"SAN JOSE, PURISCAL, C.P. 10407","workZoneLabel":"10407","travelArea":"CR","status":"active","keylabel":["CR10407"],"keys":[]}
+{"workZoneName":"PUNTARENAS, BUENOS AIRES, C.P. 60308","workZoneLabel":"60308","travelArea":"CR","status":"active","keylabel":["CR60308"],"keys":[]}
+{"workZoneName":"SAN JOSE, PURISCAL, C.P. 10408","workZoneLabel":"10408","travelArea":"CR","status":"active","keylabel":["CR10408"],"keys":[]}
+{"workZoneName":"ALAJUELA, UPALA, C.P. 21302","workZoneLabel":"21302","travelArea":"CR","status":"active","keylabel":["CR21302"],"keys":[]}
+{"workZoneName":"SAN JOSE, PURISCAL, C.P. 10409","workZoneLabel":"10409","travelArea":"CR","status":"active","keylabel":["CR10409"],"keys":[]}
+{"workZoneName":"PUNTARENAS, BUENOS AIRES, C.P. 60309","workZoneLabel":"60309","travelArea":"CR","status":"active","keylabel":["CR60309"],"keys":[]}
+{"workZoneName":"SAN JOSE, TARRAZU, C.P. 10501","workZoneLabel":"10501","travelArea":"CR","status":"active","keylabel":["CR10501"],"keys":[]}
+{"workZoneName":"ALAJUELA, UPALA, C.P. 21303","workZoneLabel":"21303","travelArea":"CR","status":"active","keylabel":["CR21303"],"keys":[]}
+{"workZoneName":"SAN JOSE, TARRAZU, C.P. 10502","workZoneLabel":"10502","travelArea":"CR","status":"active","keylabel":["CR10502"],"keys":[]}
+{"workZoneName":"PUNTARENAS, MONTES DE ORO, C.P. 60401","workZoneLabel":"60401","travelArea":"CR","status":"active","keylabel":["CR60401"],"keys":[]}
+{"workZoneName":"SAN JOSE, TARRAZU, C.P. 10503","workZoneLabel":"10503","travelArea":"CR","status":"active","keylabel":["CR10503"],"keys":[]}
+{"workZoneName":"ALAJUELA, UPALA, C.P. 21304","workZoneLabel":"21304","travelArea":"CR","status":"active","keylabel":["CR21304"],"keys":[]}
+{"workZoneName":"SAN JOSE, ASERRI, C.P. 10601","workZoneLabel":"10601","travelArea":"CR","status":"active","keylabel":["CR10601"],"keys":[]}
+{"workZoneName":"PUNTARENAS, MONTES DE ORO, C.P. 60402","workZoneLabel":"60402","travelArea":"CR","status":"active","keylabel":["CR60402"],"keys":[]}
+{"workZoneName":"SAN JOSE, ASERRI, C.P. 10602","workZoneLabel":"10602","travelArea":"CR","status":"active","keylabel":["CR10602"],"keys":[]}
+{"workZoneName":"ALAJUELA, UPALA, C.P. 21305","workZoneLabel":"21305","travelArea":"CR","status":"active","keylabel":["CR21305"],"keys":[]}
+{"workZoneName":"SAN JOSE, ASERRI, C.P. 10603","workZoneLabel":"10603","travelArea":"CR","status":"active","keylabel":["CR10603"],"keys":[]}
+{"workZoneName":"PUNTARENAS, MONTES DE ORO, C.P. 60403","workZoneLabel":"60403","travelArea":"CR","status":"active","keylabel":["CR60403"],"keys":[]}
+{"workZoneName":"SAN JOSE, ASERRI, C.P. 10604","workZoneLabel":"10604","travelArea":"CR","status":"active","keylabel":["CR10604"],"keys":[]}
+{"workZoneName":"ALAJUELA, UPALA, C.P. 21306","workZoneLabel":"21306","travelArea":"CR","status":"active","keylabel":["CR21306"],"keys":[]}
+{"workZoneName":"SAN JOSE, ASERRI, C.P. 10605","workZoneLabel":"10605","travelArea":"CR","status":"active","keylabel":["CR10605"],"keys":[]}
+{"workZoneName":"PUNTARENAS, OSA, C.P. 60501","workZoneLabel":"60501","travelArea":"CR","status":"active","keylabel":["CR60501"],"keys":[]}
+{"workZoneName":"SAN JOSE, ASERRI, C.P. 10606","workZoneLabel":"10606","travelArea":"CR","status":"active","keylabel":["CR10606"],"keys":[]}
+{"workZoneName":"ALAJUELA, UPALA, C.P. 21307","workZoneLabel":"21307","travelArea":"CR","status":"active","keylabel":["CR21307"],"keys":[]}
+{"workZoneName":"SAN JOSE, ASERRI, C.P. 10607","workZoneLabel":"10607","travelArea":"CR","status":"active","keylabel":["CR10607"],"keys":[]}
+{"workZoneName":"PUNTARENAS, OSA, C.P. 60502","workZoneLabel":"60502","travelArea":"CR","status":"active","keylabel":["CR60502"],"keys":[]}
+{"workZoneName":"SAN JOSE, MORA, C.P. 10701","workZoneLabel":"10701","travelArea":"CR","status":"active","keylabel":["CR10701"],"keys":[]}
+{"workZoneName":"ALAJUELA, LOS CHILES, C.P. 21401","workZoneLabel":"21401","travelArea":"CR","status":"active","keylabel":["CR21401"],"keys":[]}
+{"workZoneName":"SAN JOSE, MORA, C.P. 10702","workZoneLabel":"10702","travelArea":"CR","status":"active","keylabel":["CR10702"],"keys":[]}
+{"workZoneName":"PUNTARENAS, OSA, C.P. 60503","workZoneLabel":"60503","travelArea":"CR","status":"active","keylabel":["CR60503"],"keys":[]}
+{"workZoneName":"SAN JOSE, MORA, C.P. 10703","workZoneLabel":"10703","travelArea":"CR","status":"active","keylabel":["CR10703"],"keys":[]}
+{"workZoneName":"PUNTARENAS, OSA, C.P. 60504","workZoneLabel":"60504","travelArea":"CR","status":"active","keylabel":["CR60504"],"keys":[]}
+{"workZoneName":"ALAJUELA, LOS CHILES, C.P. 21402","workZoneLabel":"21402","travelArea":"CR","status":"active","keylabel":["CR21402"],"keys":[]}
+{"workZoneName":"SAN JOSE, MORA, C.P. 10704","workZoneLabel":"10704","travelArea":"CR","status":"active","keylabel":["CR10704"],"keys":[]}
+{"workZoneName":"ALAJUELA, LOS CHILES, C.P. 21403","workZoneLabel":"21403","travelArea":"CR","status":"active","keylabel":["CR21403"],"keys":[]}
+{"workZoneName":"PUNTARENAS, OSA, C.P. 60505","workZoneLabel":"60505","travelArea":"CR","status":"active","keylabel":["CR60505"],"keys":[]}
+{"workZoneName":"ALAJUELA, LOS CHILES, C.P. 21404","workZoneLabel":"21404","travelArea":"CR","status":"active","keylabel":["CR21404"],"keys":[]}
+{"workZoneName":"SAN JOSE, MORA, C.P. 10705","workZoneLabel":"10705","travelArea":"CR","status":"active","keylabel":["CR10705"],"keys":[]}
+{"workZoneName":"ALAJUELA, GUATUSO, C.P. 21501","workZoneLabel":"21501","travelArea":"CR","status":"active","keylabel":["CR21501"],"keys":[]}
+{"workZoneName":"PUNTARENAS, AGUIRRE, C.P. 60601","workZoneLabel":"60601","travelArea":"CR","status":"active","keylabel":["CR60601"],"keys":[]}
+{"workZoneName":"ALAJUELA, GUATUSO, C.P. 21502","workZoneLabel":"21502","travelArea":"CR","status":"active","keylabel":["CR21502"],"keys":[]}
+{"workZoneName":"SAN JOSE, GOICOECHEA, C.P. 10801","workZoneLabel":"10801","travelArea":"CR","status":"active","keylabel":["CR10801"],"keys":[]}
+{"workZoneName":"ALAJUELA, GUATUSO, C.P. 21503","workZoneLabel":"21503","travelArea":"CR","status":"active","keylabel":["CR21503"],"keys":[]}
+{"workZoneName":"PUNTARENAS, AGUIRRE, C.P. 60602","workZoneLabel":"60602","travelArea":"CR","status":"active","keylabel":["CR60602"],"keys":[]}
+{"workZoneName":"ALAJUELA, GAUTUSO, C.P. 21504","workZoneLabel":"21504","travelArea":"CR","status":"active","keylabel":["CR21504"],"keys":[]}
+{"workZoneName":"SAN JOSE, GOICOECHEA, C.P. 10802","workZoneLabel":"10802","travelArea":"CR","status":"active","keylabel":["CR10802"],"keys":[]}
+{"workZoneName":"CARTAGO, CARTAGO, C.P. 30101","workZoneLabel":"30101","travelArea":"CR","status":"active","keylabel":["CR30101"],"keys":[]}
+{"workZoneName":"PUNTARENAS, AGUIRRE, C.P. 60603","workZoneLabel":"60603","travelArea":"CR","status":"active","keylabel":["CR60603"],"keys":[]}
+{"workZoneName":"CARTAGO, CARTAGO, C.P. 30102","workZoneLabel":"30102","travelArea":"CR","status":"active","keylabel":["CR30102"],"keys":[]}
+{"workZoneName":"SAN JOSE, GOICOECHEA, C.P. 10803","workZoneLabel":"10803","travelArea":"CR","status":"active","keylabel":["CR10803"],"keys":[]}
+{"workZoneName":"CARTAGO, CARTAGO, C.P. 30103","workZoneLabel":"30103","travelArea":"CR","status":"active","keylabel":["CR30103"],"keys":[]}
+{"workZoneName":"PUNTARENAS, OSA, C.P. 60605","workZoneLabel":"60605","travelArea":"CR","status":"active","keylabel":["CR60605"],"keys":[]}
+{"workZoneName":"CARTAGO, CARTAGO, C.P. 30104","workZoneLabel":"30104","travelArea":"CR","status":"active","keylabel":["CR30104"],"keys":[]}
+{"workZoneName":"SAN JOSE, GOICOECHEA, C.P. 10804","workZoneLabel":"10804","travelArea":"CR","status":"active","keylabel":["CR10804"],"keys":[]}
+{"workZoneName":"CARTAGO, CARTAGO, C.P. 30105","workZoneLabel":"30105","travelArea":"CR","status":"active","keylabel":["CR30105"],"keys":[]}
+{"workZoneName":"PUNTARENAS, GOLFITO, C.P. 60701","workZoneLabel":"60701","travelArea":"CR","status":"active","keylabel":["CR60701"],"keys":[]}
+{"workZoneName":"CARTAGO, CARTAGO, C.P. 30106","workZoneLabel":"30106","travelArea":"CR","status":"active","keylabel":["CR30106"],"keys":[]}
+{"workZoneName":"SAN JOSE, GOICOECHEA, C.P. 10805","workZoneLabel":"10805","travelArea":"CR","status":"active","keylabel":["CR10805"],"keys":[]}
+{"workZoneName":"CARTAGO, CARTAGO, C.P. 30107","workZoneLabel":"30107","travelArea":"CR","status":"active","keylabel":["CR30107"],"keys":[]}
+{"workZoneName":"PUNTARENAS, GOLFITO, C.P. 60702","workZoneLabel":"60702","travelArea":"CR","status":"active","keylabel":["CR60702"],"keys":[]}
+{"workZoneName":"CARTAGO, CARTAGO, C.P. 30108","workZoneLabel":"30108","travelArea":"CR","status":"active","keylabel":["CR30108"],"keys":[]}
+{"workZoneName":"SAN JOSE, GOICOECHEA, C.P. 10806","workZoneLabel":"10806","travelArea":"CR","status":"active","keylabel":["CR10806"],"keys":[]}
+{"workZoneName":"CARTAGO, CARTAGO, C.P. 30109","workZoneLabel":"30109","travelArea":"CR","status":"active","keylabel":["CR30109"],"keys":[]}
+{"workZoneName":"PUNTARENAS, GOLFITO, C.P. 60703","workZoneLabel":"60703","travelArea":"CR","status":"active","keylabel":["CR60703"],"keys":[]}
+{"workZoneName":"CARTAGO, CARTAGO, C.P. 30110","workZoneLabel":"30110","travelArea":"CR","status":"active","keylabel":["CR30110"],"keys":[]}
+{"workZoneName":"SAN JOSE, GOICOECHEA, C.P. 10807","workZoneLabel":"10807","travelArea":"CR","status":"active","keylabel":["CR10807"],"keys":[]}
+{"workZoneName":"CARTAGO, CARTAGO, C.P. 30111","workZoneLabel":"30111","travelArea":"CR","status":"active","keylabel":["CR30111"],"keys":[]}
+{"workZoneName":"PUNTARENAS, GOLFITO, C.P. 60704","workZoneLabel":"60704","travelArea":"CR","status":"active","keylabel":["CR60704"],"keys":[]}
+{"workZoneName":"CARTAGO, PARAISO, C.P. 30201","workZoneLabel":"30201","travelArea":"CR","status":"active","keylabel":["CR30201"],"keys":[]}
+{"workZoneName":"SAN JOSE, SANTA ANA, C.P. 10901","workZoneLabel":"10901","travelArea":"CR","status":"active","keylabel":["CR10901"],"keys":[]}
+{"workZoneName":"CARTAGO, PARAISO, C.P. 30202","workZoneLabel":"30202","travelArea":"CR","status":"active","keylabel":["CR30202"],"keys":[]}
+{"workZoneName":"PUNTARENAS, COTO BRUS, C.P. 60801","workZoneLabel":"60801","travelArea":"CR","status":"active","keylabel":["CR60801"],"keys":[]}
+{"workZoneName":"CARTAGO, PARAISO, C.P. 30203","workZoneLabel":"30203","travelArea":"CR","status":"active","keylabel":["CR30203"],"keys":[]}
+{"workZoneName":"SAN JOSE, SANTA ANA, C.P. 10902","workZoneLabel":"10902","travelArea":"CR","status":"active","keylabel":["CR10902"],"keys":[]}
+{"workZoneName":"CARTAGO, PARAISO, C.P. 30204","workZoneLabel":"30204","travelArea":"CR","status":"active","keylabel":["CR30204"],"keys":[]}
+{"workZoneName":"PUNTARENAS, COTO BRUS, C.P. 60802","workZoneLabel":"60802","travelArea":"CR","status":"active","keylabel":["CR60802"],"keys":[]}
+{"workZoneName":"CARTAGO, PARAISO, C.P. 30205","workZoneLabel":"30205","travelArea":"CR","status":"active","keylabel":["CR30205"],"keys":[]}
+{"workZoneName":"SAN JOSE, SANTA ANA, C.P. 10903","workZoneLabel":"10903","travelArea":"CR","status":"active","keylabel":["CR10903"],"keys":[]}
+{"workZoneName":"CARTAGO, LA UNION, C.P. 30301","workZoneLabel":"30301","travelArea":"CR","status":"active","keylabel":["CR30301"],"keys":[]}
+{"workZoneName":"PUNTARENAS, COTO BRUS, C.P. 60803","workZoneLabel":"60803","travelArea":"CR","status":"active","keylabel":["CR60803"],"keys":[]}
+{"workZoneName":"CARTAGO, LA UNION, C.P. 30302","workZoneLabel":"30302","travelArea":"CR","status":"active","keylabel":["CR30302"],"keys":[]}
+{"workZoneName":"SAN JOSE, SANTA ANA, C.P. 10904","workZoneLabel":"10904","travelArea":"CR","status":"active","keylabel":["CR10904"],"keys":[]}
+{"workZoneName":"CARTAGO, LA UNION, C.P. 30303","workZoneLabel":"30303","travelArea":"CR","status":"active","keylabel":["CR30303"],"keys":[]}
+{"workZoneName":"PUNTARENAS, COTO BRUS, C.P. 60804","workZoneLabel":"60804","travelArea":"CR","status":"active","keylabel":["CR60804"],"keys":[]}
+{"workZoneName":"CARTAGO, LA UNION, C.P. 30304","workZoneLabel":"30304","travelArea":"CR","status":"active","keylabel":["CR30304"],"keys":[]}
+{"workZoneName":"SAN JOSE, SANTA ANA, C.P. 10905","workZoneLabel":"10905","travelArea":"CR","status":"active","keylabel":["CR10905"],"keys":[]}
+{"workZoneName":"CARTAGO, LA UNION, C.P. 30305","workZoneLabel":"30305","travelArea":"CR","status":"active","keylabel":["CR30305"],"keys":[]}
+{"workZoneName":"PUNTARENAS, COTO BRUS, C.P. 60805","workZoneLabel":"60805","travelArea":"CR","status":"active","keylabel":["CR60805"],"keys":[]}
+{"workZoneName":"CARTAGO, LA UNION, C.P. 30306","workZoneLabel":"30306","travelArea":"CR","status":"active","keylabel":["CR30306"],"keys":[]}
+{"workZoneName":"SAN JOSE, SANTA ANA, C.P. 10906","workZoneLabel":"10906","travelArea":"CR","status":"active","keylabel":["CR10906"],"keys":[]}
+{"workZoneName":"CARTAGO, LA UNION, C.P. 30307","workZoneLabel":"30307","travelArea":"CR","status":"active","keylabel":["CR30307"],"keys":[]}
+{"workZoneName":"PUNTARENAS, PARRITA, C.P. 60901","workZoneLabel":"60901","travelArea":"CR","status":"active","keylabel":["CR60901"],"keys":[]}
+{"workZoneName":"CARTAGO, LA UNION, C.P. 30308","workZoneLabel":"30308","travelArea":"CR","status":"active","keylabel":["CR30308"],"keys":[]}
+{"workZoneName":"SAN JOSE, ALAJUELITA, C.P. 11001","workZoneLabel":"11001","travelArea":"CR","status":"active","keylabel":["CR11001"],"keys":[]}
+{"workZoneName":"CARTAGO, JIMENEZ, C.P. 30401","workZoneLabel":"30401","travelArea":"CR","status":"active","keylabel":["CR30401"],"keys":[]}
+{"workZoneName":"PUNTARENAS, CORREDORES, C.P. 61001","workZoneLabel":"61001","travelArea":"CR","status":"active","keylabel":["CR61001"],"keys":[]}
+{"workZoneName":"CARTAGO, JIMENEZ, C.P. 30402","workZoneLabel":"30402","travelArea":"CR","status":"active","keylabel":["CR30402"],"keys":[]}
+{"workZoneName":"SAN JOSE, ALAJUELITA, C.P. 11002","workZoneLabel":"11002","travelArea":"CR","status":"active","keylabel":["CR11002"],"keys":[]}
+{"workZoneName":"CARTAGO, JIMENEZ, C.P. 30403","workZoneLabel":"30403","travelArea":"CR","status":"active","keylabel":["CR30403"],"keys":[]}
+{"workZoneName":"PUNTARENAS, CORREDORES, C.P. 61002","workZoneLabel":"61002","travelArea":"CR","status":"active","keylabel":["CR61002"],"keys":[]}
+{"workZoneName":"CARTAGO, TURRIALBA, C.P. 30501","workZoneLabel":"30501","travelArea":"CR","status":"active","keylabel":["CR30501"],"keys":[]}
+{"workZoneName":"SAN JOSE, ALAJUELITA, C.P. 11003","workZoneLabel":"11003","travelArea":"CR","status":"active","keylabel":["CR11003"],"keys":[]}
+{"workZoneName":"CARTAGO, TURRIALBA, C.P. 30502","workZoneLabel":"30502","travelArea":"CR","status":"active","keylabel":["CR30502"],"keys":[]}
+{"workZoneName":"PUNTARENAS, CORREDORES, C.P. 61003","workZoneLabel":"61003","travelArea":"CR","status":"active","keylabel":["CR61003"],"keys":[]}
+{"workZoneName":"CARTAGO, TURRIALBA, C.P. 30503","workZoneLabel":"30503","travelArea":"CR","status":"active","keylabel":["CR30503"],"keys":[]}
+{"workZoneName":"SAN JOSE, ALAJUELITA, C.P. 11004","workZoneLabel":"11004","travelArea":"CR","status":"active","keylabel":["CR11004"],"keys":[]}
+{"workZoneName":"CARTAGO, TURRIALBA, C.P. 30504","workZoneLabel":"30504","travelArea":"CR","status":"active","keylabel":["CR30504"],"keys":[]}
+{"workZoneName":"PUNTARENAS, CORREDORES, C.P. 61004","workZoneLabel":"61004","travelArea":"CR","status":"active","keylabel":["CR61004"],"keys":[]}
+{"workZoneName":"SAN JOSE, ALAJUELITA, C.P. 11005","workZoneLabel":"11005","travelArea":"CR","status":"active","keylabel":["CR11005"],"keys":[]}
+{"workZoneName":"CARTAGO, TURRIALBA, C.P. 30505","workZoneLabel":"30505","travelArea":"CR","status":"active","keylabel":["CR30505"],"keys":[]}
+{"workZoneName":"CARTAGO, TURRIALBA, C.P. 30506","workZoneLabel":"30506","travelArea":"CR","status":"active","keylabel":["CR30506"],"keys":[]}
+{"workZoneName":"PUNTARENAS, GARABITO, C.P. 61101","workZoneLabel":"61101","travelArea":"CR","status":"active","keylabel":["CR61101"],"keys":[]}
+{"workZoneName":"SAN JOSE, VAZQUEZ DE CORONADO, C.P. 11101","workZoneLabel":"11101","travelArea":"CR","status":"active","keylabel":["CR11101"],"keys":[]}
+{"workZoneName":"CARTAGO, TURRIALBA, C.P. 30507","workZoneLabel":"30507","travelArea":"CR","status":"active","keylabel":["CR30507"],"keys":[]}
+{"workZoneName":"CARTAGO, TURRIALBA, C.P. 30508","workZoneLabel":"30508","travelArea":"CR","status":"active","keylabel":["CR30508"],"keys":[]}
+{"workZoneName":"PUNTARENAS, GARABITO, C.P. 61102","workZoneLabel":"61102","travelArea":"CR","status":"active","keylabel":["CR61102"],"keys":[]}
+{"workZoneName":"SAN JOSE, VAZQUEZ DE CORONADO, C.P. 11102","workZoneLabel":"11102","travelArea":"CR","status":"active","keylabel":["CR11102"],"keys":[]}
+{"workZoneName":"CARTAGO, TURRIALBA, C.P. 30509","workZoneLabel":"30509","travelArea":"CR","status":"active","keylabel":["CR30509"],"keys":[]}
+{"workZoneName":"CARTAGO, TURRIALBA, C.P. 30510","workZoneLabel":"30510","travelArea":"CR","status":"active","keylabel":["CR30510"],"keys":[]}
+{"workZoneName":"LIMON, LIMON, C.P. 70101","workZoneLabel":"70101","travelArea":"CR","status":"active","keylabel":["CR70101"],"keys":[]}
+{"workZoneName":"SAN JOSE, VAZQUEZ DE CORONADO, C.P. 11103","workZoneLabel":"11103","travelArea":"CR","status":"active","keylabel":["CR11103"],"keys":[]}
+{"workZoneName":"CARTAGO, TURRIALBA, C.P. 30511","workZoneLabel":"30511","travelArea":"CR","status":"active","keylabel":["CR30511"],"keys":[]}
+{"workZoneName":"CARTAGO, TURRIALBA, C.P. 30512","workZoneLabel":"30512","travelArea":"CR","status":"active","keylabel":["CR30512"],"keys":[]}
+{"workZoneName":"LIMON, LIMON, C.P. 70102","workZoneLabel":"70102","travelArea":"CR","status":"active","keylabel":["CR70102"],"keys":[]}
+{"workZoneName":"SAN JOSE, VAZQUEZ DE CORONADO, C.P. 11104","workZoneLabel":"11104","travelArea":"CR","status":"active","keylabel":["CR11104"],"keys":[]}
+{"workZoneName":"CARTAGO, ALVARADO, C.P. 30601","workZoneLabel":"30601","travelArea":"CR","status":"active","keylabel":["CR30601"],"keys":[]}
+{"workZoneName":"CARTAGO, ALVARADO, C.P. 30602","workZoneLabel":"30602","travelArea":"CR","status":"active","keylabel":["CR30602"],"keys":[]}
+{"workZoneName":"LIMON, LIMON, C.P. 70103","workZoneLabel":"70103","travelArea":"CR","status":"active","keylabel":["CR70103"],"keys":[]}
+{"workZoneName":"SAN JOSE, VAZQUEZ DE CORONADO, C.P. 11105","workZoneLabel":"11105","travelArea":"CR","status":"active","keylabel":["CR11105"],"keys":[]}
+{"workZoneName":"CARTAGO, ALVARADO, C.P. 30603","workZoneLabel":"30603","travelArea":"CR","status":"active","keylabel":["CR30603"],"keys":[]}
+{"workZoneName":"LIMON, LIMON, C.P. 70104","workZoneLabel":"70104","travelArea":"CR","status":"active","keylabel":["CR70104"],"keys":[]}
+{"workZoneName":"SAN JOSE, ACOSTA, C.P. 11201","workZoneLabel":"11201","travelArea":"CR","status":"active","keylabel":["CR11201"],"keys":[]}
+{"workZoneName":"CARTAGO, OREAMUNO, C.P. 30701","workZoneLabel":"30701","travelArea":"CR","status":"active","keylabel":["CR30701"],"keys":[]}
+{"workZoneName":"LIMON, POCOCI, C.P. 70201","workZoneLabel":"70201","travelArea":"CR","status":"active","keylabel":["CR70201"],"keys":[]}
+{"workZoneName":"SAN JOSE, ACOSTA, C.P. 11202","workZoneLabel":"11202","travelArea":"CR","status":"active","keylabel":["CR11202"],"keys":[]}
+{"workZoneName":"CARTAGO, OREAMUNO, C.P. 30702","workZoneLabel":"30702","travelArea":"CR","status":"active","keylabel":["CR30702"],"keys":[]}
+{"workZoneName":"LIMON, POCOCI, C.P. 70202","workZoneLabel":"70202","travelArea":"CR","status":"active","keylabel":["CR70202"],"keys":[]}
+{"workZoneName":"LIMON, POCOCI, C.P. 70203","workZoneLabel":"70203","travelArea":"CR","status":"active","keylabel":["CR70203"],"keys":[]}
+{"workZoneName":"SAN JOSE, ACOSTA, C.P. 11203","workZoneLabel":"11203","travelArea":"CR","status":"active","keylabel":["CR11203"],"keys":[]}
+{"workZoneName":"CARTAGO, OREAMUNO, C.P. 30703","workZoneLabel":"30703","travelArea":"CR","status":"active","keylabel":["CR30703"],"keys":[]}
+{"workZoneName":"LIMON, POCOCI, C.P. 70204","workZoneLabel":"70204","travelArea":"CR","status":"active","keylabel":["CR70204"],"keys":[]}
+{"workZoneName":"LIMON, POCOCI, C.P. 70205","workZoneLabel":"70205","travelArea":"CR","status":"active","keylabel":["CR70205"],"keys":[]}
+{"workZoneName":"SAN JOSE, ACOSTA, C.P. 11204","workZoneLabel":"11204","travelArea":"CR","status":"active","keylabel":["CR11204"],"keys":[]}
+{"workZoneName":"CARTAGO, OREAMUNO, C.P. 30704","workZoneLabel":"30704","travelArea":"CR","status":"active","keylabel":["CR30704"],"keys":[]}
+{"workZoneName":"LIMON, POCOCI, C.P. 70206","workZoneLabel":"70206","travelArea":"CR","status":"active","keylabel":["CR70206"],"keys":[]}
+{"workZoneName":"LIMON, SIQUIRRES, C.P. 70301","workZoneLabel":"70301","travelArea":"CR","status":"active","keylabel":["CR70301"],"keys":[]}
+{"workZoneName":"SAN JOSE, ACOSTA, C.P. 11205","workZoneLabel":"11205","travelArea":"CR","status":"active","keylabel":["CR11205"],"keys":[]}
+{"workZoneName":"CARTAGO, OREAMUNO, C.P. 30705","workZoneLabel":"30705","travelArea":"CR","status":"active","keylabel":["CR30705"],"keys":[]}
+{"workZoneName":"LIMON, SIQUIRRES, C.P. 70302","workZoneLabel":"70302","travelArea":"CR","status":"active","keylabel":["CR70302"],"keys":[]}
+{"workZoneName":"LIMON, SIQUIRRES, C.P. 70303","workZoneLabel":"70303","travelArea":"CR","status":"active","keylabel":["CR70303"],"keys":[]}
+{"workZoneName":"SAN JOSE, TIBAS, C.P. 11301","workZoneLabel":"11301","travelArea":"CR","status":"active","keylabel":["CR11301"],"keys":[]}
+{"workZoneName":"CARTAGO, EL GUARCO, C.P. 30801","workZoneLabel":"30801","travelArea":"CR","status":"active","keylabel":["CR30801"],"keys":[]}
+{"workZoneName":"LIMON, SIQUIRRES, C.P. 70304","workZoneLabel":"70304","travelArea":"CR","status":"active","keylabel":["CR70304"],"keys":[]}
+{"workZoneName":"LIMON, SIQUIRRES, C.P. 70305","workZoneLabel":"70305","travelArea":"CR","status":"active","keylabel":["CR70305"],"keys":[]}
+{"workZoneName":"SAN JOSE, TIBAS, C.P. 11302","workZoneLabel":"11302","travelArea":"CR","status":"active","keylabel":["CR11302"],"keys":[]}
+{"workZoneName":"CARTAGO, EL GUARCO, C.P. 30802","workZoneLabel":"30802","travelArea":"CR","status":"active","keylabel":["CR30802"],"keys":[]}
+{"workZoneName":"LIMON, SIQUIRRES, C.P. 70306","workZoneLabel":"70306","travelArea":"CR","status":"active","keylabel":["CR70306"],"keys":[]}
+{"workZoneName":"LIMON, TALAMANCA, C.P. 70401","workZoneLabel":"70401","travelArea":"CR","status":"active","keylabel":["CR70401"],"keys":[]}
+{"workZoneName":"SAN JOSE, TIBAS, C.P. 11303","workZoneLabel":"11303","travelArea":"CR","status":"active","keylabel":["CR11303"],"keys":[]}
+{"workZoneName":"CARTAGO, EL GUARCO, C.P. 30803","workZoneLabel":"30803","travelArea":"CR","status":"active","keylabel":["CR30803"],"keys":[]}
+{"workZoneName":"LIMON, TALAMANCA, C.P. 70402","workZoneLabel":"70402","travelArea":"CR","status":"active","keylabel":["CR70402"],"keys":[]}
+{"workZoneName":"LIMON, TALAMANCA, C.P. 70403","workZoneLabel":"70403","travelArea":"CR","status":"active","keylabel":["CR70403"],"keys":[]}
+{"workZoneName":"SAN JOSE, TIBAS, C.P. 11304","workZoneLabel":"11304","travelArea":"CR","status":"active","keylabel":["CR11304"],"keys":[]}
+{"workZoneName":"CARTAGO, EL GUARCO, C.P. 30804","workZoneLabel":"30804","travelArea":"CR","status":"active","keylabel":["CR30804"],"keys":[]}
+{"workZoneName":"LIMON, TALAMANCA, C.P. 70404","workZoneLabel":"70404","travelArea":"CR","status":"active","keylabel":["CR70404"],"keys":[]}
+{"workZoneName":"LIMON, MATINA, C.P. 70501","workZoneLabel":"70501","travelArea":"CR","status":"active","keylabel":["CR70501"],"keys":[]}
+{"workZoneName":"SAN JOSE, TIBAS, C.P. 11305","workZoneLabel":"11305","travelArea":"CR","status":"active","keylabel":["CR11305"],"keys":[]}
+{"workZoneName":"HEREDIA, HEREDIA, C.P. 40101","workZoneLabel":"40101","travelArea":"CR","status":"active","keylabel":["CR40101"],"keys":[]}
+{"workZoneName":"LIMON, MATINA, C.P. 70502","workZoneLabel":"70502","travelArea":"CR","status":"active","keylabel":["CR70502"],"keys":[]}
+{"workZoneName":"LIMON, MATINA, C.P. 70503","workZoneLabel":"70503","travelArea":"CR","status":"active","keylabel":["CR70503"],"keys":[]}
+{"workZoneName":"SAN JOSE, MORAVIA, C.P. 11401","workZoneLabel":"11401","travelArea":"CR","status":"active","keylabel":["CR11401"],"keys":[]}
+{"workZoneName":"HEREDIA, HEREDIA, C.P. 40102","workZoneLabel":"40102","travelArea":"CR","status":"active","keylabel":["CR40102"],"keys":[]}
+{"workZoneName":"LIMON, GUACIMO, C.P. 70601","workZoneLabel":"70601","travelArea":"CR","status":"active","keylabel":["CR70601"],"keys":[]}
+{"workZoneName":"LIMON, GUACIMO, C.P. 70602","workZoneLabel":"70602","travelArea":"CR","status":"active","keylabel":["CR70602"],"keys":[]}
+{"workZoneName":"SAN JOSE, MORAVIA, C.P. 11402","workZoneLabel":"11402","travelArea":"CR","status":"active","keylabel":["CR11402"],"keys":[]}
+{"workZoneName":"HEREDIA, HEREDIA, C.P. 40103","workZoneLabel":"40103","travelArea":"CR","status":"active","keylabel":["CR40103"],"keys":[]}
+{"workZoneName":"LIMON, GUACIMO, C.P. 70603","workZoneLabel":"70603","travelArea":"CR","status":"active","keylabel":["CR70603"],"keys":[]}
+{"workZoneName":"LIMON, GUACIMO, C.P. 70604","workZoneLabel":"70604","travelArea":"CR","status":"active","keylabel":["CR70604"],"keys":[]}
+{"workZoneName":"SAN JOSE, MORAVIA, C.P. 11403","workZoneLabel":"11403","travelArea":"CR","status":"active","keylabel":["CR11403"],"keys":[]}
+{"workZoneName":"HEREDIA, HEREDIA, C.P. 40104","workZoneLabel":"40104","travelArea":"CR","status":"active","keylabel":["CR40104"],"keys":[]}
+{"workZoneName":"LIMON, GUACIMO, C.P. 70605","workZoneLabel":"70605","travelArea":"CR","status":"active","keylabel":["CR70605"],"keys":[]}
+{"workZoneName":"SAN JOSE,CENTRAL, C.P.11001","workZoneLabel":"11001","travelArea":"CR","status":"active","keylabel":["CR11001"],"keys":[]}
+{"workZoneName":"SAN JOSE, MONTES DE OCA, C.P. 11501","workZoneLabel":"11501","travelArea":"CR","status":"active","keylabel":["CR11501"],"keys":[]}
+{"workZoneName":"HEREDIA, HEREDIA, C.P. 40105","workZoneLabel":"40105","travelArea":"CR","status":"active","keylabel":["CR40105"],"keys":[]}
+{"workZoneName":"SAN JOSE,CENTRAL, C.P.10202","workZoneLabel":"10202","travelArea":"CR","status":"active","keylabel":["CR10202"],"keys":[]}
+{"workZoneName":"SAN JOSE,CENTRAL, C.P.11804","workZoneLabel":"11804","travelArea":"CR","status":"active","keylabel":["CR11804"],"keys":[]}
+{"workZoneName":"SAN JOSE, MONTES DE OCA, C.P. 11502","workZoneLabel":"11502","travelArea":"CR","status":"active","keylabel":["CR11502"],"keys":[]}
+{"workZoneName":"HEREDIA, BARVA, C.P. 40201","workZoneLabel":"40201","travelArea":"CR","status":"active","keylabel":["CR40201"],"keys":[]}
+{"workZoneName":"SAN JOSE,CENTRAL, C.P.10801","workZoneLabel":"10801","travelArea":"CR","status":"active","keylabel":["CR10801"],"keys":[]}
+{"workZoneName":"SAN JOSE,CENTRAL, C.P.60103","workZoneLabel":"60103","travelArea":"CR","status":"active","keylabel":["CR60103"],"keys":[]}
+{"workZoneName":"SAN JOSE, MONTES DE OCA, C.P. 11503","workZoneLabel":"11503","travelArea":"CR","status":"active","keylabel":["CR11503"],"keys":[]}
+{"workZoneName":"HEREDIA, BARVA, C.P. 40202","workZoneLabel":"40202","travelArea":"CR","status":"active","keylabel":["CR40202"],"keys":[]}
+{"workZoneName":"SAN JOSE,CENTRAL, C.P.10203","workZoneLabel":"10203","travelArea":"CR","status":"active","keylabel":["CR10203"],"keys":[]}
+{"workZoneName":"SAN JOSE,CENTRAL, C.P.11005","workZoneLabel":"11005","travelArea":"CR","status":"active","keylabel":["CR11005"],"keys":[]}
+{"workZoneName":"SAN JOSE, MONTES DE OCA, C.P. 11504","workZoneLabel":"11504","travelArea":"CR","status":"active","keylabel":["CR11504"],"keys":[]}
+{"workZoneName":"HEREDIA, BARVA, C.P. 40203","workZoneLabel":"40203","travelArea":"CR","status":"active","keylabel":["CR40203"],"keys":[]}
+{"workZoneName":"SAN JOSE,CENTRAL, C.P.10301","workZoneLabel":"10301","travelArea":"CR","status":"active","keylabel":["CR10301"],"keys":[]}
+{"workZoneName":"SAN JOSE,CENTRAL, C.P.11501","workZoneLabel":"11501","travelArea":"CR","status":"active","keylabel":["CR11501"],"keys":[]}
+{"workZoneName":"SAN JOSE, TURRUBARES, C.P. 11601","workZoneLabel":"11601","travelArea":"CR","status":"active","keylabel":["CR11601"],"keys":[]}
+{"workZoneName":"HEREDIA, BARVA, C.P. 40204","workZoneLabel":"40204","travelArea":"CR","status":"active","keylabel":["CR40204"],"keys":[]}
+{"workZoneName":"SAN JOSE,CENTRAL, C.P.11201","workZoneLabel":"11201","travelArea":"CR","status":"active","keylabel":["CR11201"],"keys":[]}
+{"workZoneName":"SAN JOSE,CENTRAL, C.P.11302","workZoneLabel":"11302","travelArea":"CR","status":"active","keylabel":["CR11302"],"keys":[]}
+{"workZoneName":"SAN JOSE, TURRUBARES, C.P. 11602","workZoneLabel":"11602","travelArea":"CR","status":"active","keylabel":["CR11602"],"keys":[]}
+{"workZoneName":"HEREDIA, BARVA, C.P. 40205","workZoneLabel":"40205","travelArea":"CR","status":"active","keylabel":["CR40205"],"keys":[]}
+{"workZoneName":"SAN JOSE,CENTRAL, C.P.40901","workZoneLabel":"40901","travelArea":"CR","status":"active","keylabel":["CR40901"],"keys":[]}
+{"workZoneName":"SAN JOSE,CENTRAL, C.P.30104","workZoneLabel":"30104","travelArea":"CR","status":"active","keylabel":["CR30104"],"keys":[]}
+{"workZoneName":"SAN JOSE, TURRUBARES, C.P. 11603","workZoneLabel":"11603","travelArea":"CR","status":"active","keylabel":["CR11603"],"keys":[]}
+{"workZoneName":"HEREDIA, BARVA, C.P. 40206","workZoneLabel":"40206","travelArea":"CR","status":"active","keylabel":["CR40206"],"keys":[]}
+{"workZoneName":"SAN JOSE,CENTRAL, C.P.61101","workZoneLabel":"61101","travelArea":"CR","status":"active","keylabel":["CR61101"],"keys":[]}
+{"workZoneName":"SAN JOSE, TURRUBARES, C.P. 11604","workZoneLabel":"11604","travelArea":"CR","status":"active","keylabel":["CR11604"],"keys":[]}
+{"workZoneName":"SAN JOSE,CENTRAL, C.P.11801","workZoneLabel":"11801","travelArea":"CR","status":"active","keylabel":["CR11801"],"keys":[]}
+{"workZoneName":"HEREDIA, SANTO DOMINGO, C.P. 40301","workZoneLabel":"40301","travelArea":"CR","status":"active","keylabel":["CR40301"],"keys":[]}
+{"workZoneName":"SAN JOSE,CENTRAL, C.P.10105","workZoneLabel":"10105","travelArea":"CR","status":"active","keylabel":["CR10105"],"keys":[]}
+{"workZoneName":"SAN JOSE, TURRUBARES, C.P. 11605","workZoneLabel":"11605","travelArea":"CR","status":"active","keylabel":["CR11605"],"keys":[]}
+{"workZoneName":"SAN JOSE,CENTRAL, C.P.60111","workZoneLabel":"60111","travelArea":"CR","status":"active","keylabel":["CR60111"],"keys":[]}
+{"workZoneName":"HEREDIA, SANTO DOMINGO, C.P. 40302","workZoneLabel":"40302","travelArea":"CR","status":"active","keylabel":["CR40302"],"keys":[]}
+{"workZoneName":"SAN JOSE,CENTRAL, C.P.11502","workZoneLabel":"11502","travelArea":"CR","status":"active","keylabel":["CR11502"],"keys":[]}
+{"workZoneName":"SAN JOSE, DOTA, C.P. 11701","workZoneLabel":"11701","travelArea":"CR","status":"active","keylabel":["CR11701"],"keys":[]}
+{"workZoneName":"SAN JOSE,CENTRAL, C.P.70603","workZoneLabel":"70603","travelArea":"CR","status":"active","keylabel":["CR70603"],"keys":[]}
+{"workZoneName":"HEREDIA, SANTO DOMINGO, C.P. 40303","workZoneLabel":"40303","travelArea":"CR","status":"active","keylabel":["CR40303"],"keys":[]}
+{"workZoneName":"SAN JOSE,CENTRAL, C.P.10102","workZoneLabel":"10102","travelArea":"CR","status":"active","keylabel":["CR10102"],"keys":[]}
+{"workZoneName":"HEREDIA, SANTO DOMINGO, C.P. 40304","workZoneLabel":"40304","travelArea":"CR","status":"active","keylabel":["CR40304"],"keys":[]}
+{"workZoneName":"SAN JOSE, DOTA, C.P. 11702","workZoneLabel":"11702","travelArea":"CR","status":"active","keylabel":["CR11702"],"keys":[]}
+{"workZoneName":"SAN JOSE,CENTRAL, C.P.10110","workZoneLabel":"10110","travelArea":"CR","status":"active","keylabel":["CR10110"],"keys":[]}
+{"workZoneName":"HEREDIA, SANTO DOMINGO, C.P. 40305","workZoneLabel":"40305","travelArea":"CR","status":"active","keylabel":["CR40305"],"keys":[]}
+{"workZoneName":"HEREDIA, SANTO DOMINGO, C.P. 40306","workZoneLabel":"40306","travelArea":"CR","status":"active","keylabel":["CR40306"],"keys":[]}
+{"workZoneName":"SAN JOSE, DOTA, C.P. 11703","workZoneLabel":"11703","travelArea":"CR","status":"active","keylabel":["CR11703"],"keys":[]}
+{"workZoneName":"SAN JOSE,CENTRAL, C.P.40603","workZoneLabel":"40603","travelArea":"CR","status":"active","keylabel":["CR40603"],"keys":[]}
+{"workZoneName":"HEREDIA, SANTO DOMINGO, C.P. 40307","workZoneLabel":"40307","travelArea":"CR","status":"active","keylabel":["CR40307"],"keys":[]}
+{"workZoneName":"HEREDIA, SANTO DOMINGO, C.P. 40308","workZoneLabel":"40308","travelArea":"CR","status":"active","keylabel":["CR40308"],"keys":[]}
+{"workZoneName":"SAN JOSE, CURRIDABAT, C.P. 11801","workZoneLabel":"11801","travelArea":"CR","status":"active","keylabel":["CR11801"],"keys":[]}
+{"workZoneName":"SAN JOSE,CENTRAL, C.P.10101","workZoneLabel":"10101","travelArea":"CR","status":"active","keylabel":["CR10101"],"keys":[]}
+{"workZoneName":"SAN JOSE, CURRIDABAT, C.P. 11802","workZoneLabel":"11802","travelArea":"CR","status":"active","keylabel":["CR11802"],"keys":[]}
+{"workZoneName":"HEREDIA, SANTA BARBARA, C.P. 40401","workZoneLabel":"40401","travelArea":"CR","status":"active","keylabel":["CR40401"],"keys":[]}
+{"workZoneName":"SAN JOSE,CENTRAL, C.P.10103","workZoneLabel":"10103","travelArea":"CR","status":"active","keylabel":["CR10103"],"keys":[]}
+{"workZoneName":"SAN JOSE,CENTRAL, C.P.20101","workZoneLabel":"20101","travelArea":"CR","status":"active","keylabel":["CR20101"],"keys":[]}
+{"workZoneName":"SAN JOSE, CURRIDABAT, C.P. 11803","workZoneLabel":"11803","travelArea":"CR","status":"active","keylabel":["CR11803"],"keys":[]}
+{"workZoneName":"HEREDIA, SANTA BARBARA, C.P. 40402","workZoneLabel":"40402","travelArea":"CR","status":"active","keylabel":["CR40402"],"keys":[]}
+{"workZoneName":"SAN JOSE,CENTRAL, C.P.10107","workZoneLabel":"10107","travelArea":"CR","status":"active","keylabel":["CR10107"],"keys":[]}
+{"workZoneName":"SAN JOSE,CENTRAL, C.P.10601","workZoneLabel":"10601","travelArea":"CR","status":"active","keylabel":["CR10601"],"keys":[]}
+{"workZoneName":"SAN JOSE, CURRIDABAT, C.P. 11804","workZoneLabel":"11804","travelArea":"CR","status":"active","keylabel":["CR11804"],"keys":[]}
+{"workZoneName":"HEREDIA, SANTA BARBARA, C.P. 40403","workZoneLabel":"40403","travelArea":"CR","status":"active","keylabel":["CR40403"],"keys":[]}
+{"workZoneName":"SAN JOSE,CENTRAL, C.P.10108","workZoneLabel":"10108","travelArea":"CR","status":"active","keylabel":["CR10108"],"keys":[]}
+{"workZoneName":"SAN JOSE,CENTRAL, C.P.10109","workZoneLabel":"10109","travelArea":"CR","status":"active","keylabel":["CR10109"],"keys":[]}
+{"workZoneName":"SAN JOSE, PEREZ ZELEDON, C.P. 11901","workZoneLabel":"11901","travelArea":"CR","status":"active","keylabel":["CR11901"],"keys":[]}
+{"workZoneName":"HEREDIA, SANTA BARBARA, C.P. 40404","workZoneLabel":"40404","travelArea":"CR","status":"active","keylabel":["CR40404"],"keys":[]}
+{"workZoneName":"SAN JOSE,CENTRAL, C.P.10111","workZoneLabel":"10111","travelArea":"CR","status":"active","keylabel":["CR10111"],"keys":[]}
+{"workZoneName":"SAN JOSE, PEREZ ZELEDON, C.P. 11902","workZoneLabel":"11902","travelArea":"CR","status":"active","keylabel":["CR11902"],"keys":[]}
+{"workZoneName":"HEREDIA, SANTA BARBARA, C.P. 40405","workZoneLabel":"40405","travelArea":"CR","status":"active","keylabel":["CR40405"],"keys":[]}
+{"workZoneName":"SAN JOSE, PEREZ ZELEDON, C.P. 11903","workZoneLabel":"11903","travelArea":"CR","status":"active","keylabel":["CR11903"],"keys":[]}
+{"workZoneName":"SAN JOSE,CENTRAL, C.P.10106","workZoneLabel":"10106","travelArea":"CR","status":"active","keylabel":["CR10106"],"keys":[]}
+{"workZoneName":"SAN JOSE, PEREZ ZELEDON, C.P. 11904","workZoneLabel":"11904","travelArea":"CR","status":"active","keylabel":["CR11904"],"keys":[]}
+{"workZoneName":"HEREDIA, SANTA BARBARA, C.P. 40406","workZoneLabel":"40406","travelArea":"CR","status":"active","keylabel":["CR40406"],"keys":[]}
+{"workZoneName":"SAN JOSE, PEREZ ZELEDON, C.P. 11905","workZoneLabel":"11905","travelArea":"CR","status":"active","keylabel":["CR11905"],"keys":[]}
+{"workZoneName":"SAN JOSE,CENTRAL, C.P.10104","workZoneLabel":"10104","travelArea":"CR","status":"active","keylabel":["CR10104"],"keys":[]}
+{"workZoneName":"SAN JOSE, PEREZ ZELEDON, C.P. 11906","workZoneLabel":"11906","travelArea":"CR","status":"active","keylabel":["CR11906"],"keys":[]}
+{"workZoneName":"HEREDIA, SAN RAFAEL, C.P. 40501","workZoneLabel":"40501","travelArea":"CR","status":"active","keylabel":["CR40501"],"keys":[]}
+{"workZoneName":"SAN JOSE, PEREZ ZELEDON, C.P. 11907","workZoneLabel":"11907","travelArea":"CR","status":"active","keylabel":["CR11907"],"keys":[]}
+{"workZoneName":"SAN JOSE,CENTRAL, C.P.20105","workZoneLabel":"20105","travelArea":"CR","status":"active","keylabel":["CR20105"],"keys":[]}
+{"workZoneName":"SAN JOSE, PEREZ ZELEDON, C.P. 11908","workZoneLabel":"11908","travelArea":"CR","status":"active","keylabel":["CR11908"],"keys":[]}
+{"workZoneName":"HEREDIA, SAN RAFAEL, C.P. 40502","workZoneLabel":"40502","travelArea":"CR","status":"active","keylabel":["CR40502"],"keys":[]}
+{"workZoneName":"SAN JOSE, PEREZ ZELEDON, C.P. 11909","workZoneLabel":"11909","travelArea":"CR","status":"active","keylabel":["CR11909"],"keys":[]}
+{"workZoneName":"PUNTARENAS,QUEPOS, C.P.11205","workZoneLabel":"11205","travelArea":"CR","status":"active","keylabel":["CR11205"],"keys":[]}
+{"workZoneName":"SAN JOSE, PEREZ ZELEDON, C.P. 11910","workZoneLabel":"11910","travelArea":"CR","status":"active","keylabel":["CR11910"],"keys":[]}
+{"workZoneName":"HEREDIA, SAN RAFAEL, C.P. 40503","workZoneLabel":"40503","travelArea":"CR","status":"active","keylabel":["CR40503"],"keys":[]}
+{"workZoneName":"SAN JOSE, PEREZ ZELEDON, C.P. 11911","workZoneLabel":"11911","travelArea":"CR","status":"active","keylabel":["CR11911"],"keys":[]}
+{"workZoneName":"PUNTARENAS,QUEPOS, C.P.60503","workZoneLabel":"60503","travelArea":"CR","status":"active","keylabel":["CR60503"],"keys":[]}
+{"workZoneName":"SAN JOSE, LEON CORTES, C.P. 12001","workZoneLabel":"12001","travelArea":"CR","status":"active","keylabel":["CR12001"],"keys":[]}
+{"workZoneName":"HEREDIA, SAN RAFAEL, C.P. 40504","workZoneLabel":"40504","travelArea":"CR","status":"active","keylabel":["CR40504"],"keys":[]}
+{"workZoneName":"SAN JOSE, LEON CORTES, C.P. 12002","workZoneLabel":"12002","travelArea":"CR","status":"active","keylabel":["CR12002"],"keys":[]}
+{"workZoneName":"PUNTARENAS,QUEPOS, C.P.61101","workZoneLabel":"61101","travelArea":"CR","status":"active","keylabel":["CR61101"],"keys":[]}
+{"workZoneName":"SAN JOSE, LEON CORTES, C.P. 12003","workZoneLabel":"12003","travelArea":"CR","status":"active","keylabel":["CR12003"],"keys":[]}
+{"workZoneName":"HEREDIA, SAN RAFAEL, C.P. 40505","workZoneLabel":"40505","travelArea":"CR","status":"active","keylabel":["CR40505"],"keys":[]}
+{"workZoneName":"SAN JOSE, LEON CORTES, C.P. 12004","workZoneLabel":"12004","travelArea":"CR","status":"active","keylabel":["CR12004"],"keys":[]}
+{"workZoneName":"PUNTARENAS,QUEPOS, C.P.60801","workZoneLabel":"60801","travelArea":"CR","status":"active","keylabel":["CR60801"],"keys":[]}
+{"workZoneName":"SAN JOSE, LEON CORTES, C.P. 12005","workZoneLabel":"12005","travelArea":"CR","status":"active","keylabel":["CR12005"],"keys":[]}
+{"workZoneName":"HEREDIA, SAN ISIDRO, C.P. 40601","workZoneLabel":"40601","travelArea":"CR","status":"active","keylabel":["CR40601"],"keys":[]}
+{"workZoneName":"SAN JOSE, LEON CORTES, C.P. 12006","workZoneLabel":"12006","travelArea":"CR","status":"active","keylabel":["CR12006"],"keys":[]}
+{"workZoneName":"PUNTARENAS,QUEPOS, C.P.60901","workZoneLabel":"60901","travelArea":"CR","status":"active","keylabel":["CR60901"],"keys":[]}
+{"workZoneName":"ALAJUELA, ALAJUELA, C.P. 20101","workZoneLabel":"20101","travelArea":"CR","status":"active","keylabel":["CR20101"],"keys":[]}
+{"workZoneName":"ALAJUELA, ALAJUELA, C.P. 20102","workZoneLabel":"20102","travelArea":"CR","status":"active","keylabel":["CR20102"],"keys":[]}
+{"workZoneName":"HEREDIA, SAN ISIDRO, C.P. 40602","workZoneLabel":"40602","travelArea":"CR","status":"active","keylabel":["CR40602"],"keys":[]}
+{"workZoneName":"PUNTARENAS,QUEPOS, C.P.60603","workZoneLabel":"60603","travelArea":"CR","status":"active","keylabel":["CR60603"],"keys":[]}
+{"workZoneName":"ALAJUELA, ALAJUELA, C.P. 20103","workZoneLabel":"20103","travelArea":"CR","status":"active","keylabel":["CR20103"],"keys":[]}
+{"workZoneName":"ALAJUELA, ALAJUELA, C.P. 20104","workZoneLabel":"20104","travelArea":"CR","status":"active","keylabel":["CR20104"],"keys":[]}
+{"workZoneName":"HEREDIA, SAN ISIDRO, C.P. 40603","workZoneLabel":"40603","travelArea":"CR","status":"active","keylabel":["CR40603"],"keys":[]}
+{"workZoneName":"PUNTARENAS,QUEPOS, C.P.60602","workZoneLabel":"60602","travelArea":"CR","status":"active","keylabel":["CR60602"],"keys":[]}
+{"workZoneName":"ALAJUELA, ALAJUELA, C.P. 20105","workZoneLabel":"20105","travelArea":"CR","status":"active","keylabel":["CR20105"],"keys":[]}
+{"workZoneName":"ALAJUELA, ALAJUELA, C.P. 20106","workZoneLabel":"20106","travelArea":"CR","status":"active","keylabel":["CR20106"],"keys":[]}
+{"workZoneName":"HEREDIA, SAN ISIDRO, C.P. 40604","workZoneLabel":"40604","travelArea":"CR","status":"active","keylabel":["CR40604"],"keys":[]}
+{"workZoneName":"PUNTARENAS,QUEPOS, C.P.60601","workZoneLabel":"60601","travelArea":"CR","status":"active","keylabel":["CR60601"],"keys":[]}
+{"workZoneName":"ALAJUELA, ALAJUELA, C.P. 20107","workZoneLabel":"20107","travelArea":"CR","status":"active","keylabel":["CR20107"],"keys":[]}
+{"workZoneName":"ALAJUELA, ALAJUELA, C.P. 20108","workZoneLabel":"20108","travelArea":"CR","status":"active","keylabel":["CR20108"],"keys":[]}
+{"workZoneName":"HEREDIA, BELEN, C.P. 40701","workZoneLabel":"40701","travelArea":"CR","status":"active","keylabel":["CR40701"],"keys":[]}
+{"workZoneName":"PUNTARENAS,CENTRAL, C.P.60401","workZoneLabel":"60401","travelArea":"CR","status":"active","keylabel":["CR60401"],"keys":[]}
+{"workZoneName":"ALAJUELA, ALAJUELA, C.P. 20109","workZoneLabel":"20109","travelArea":"CR","status":"active","keylabel":["CR20109"],"keys":[]}
+{"workZoneName":"ALAJUELA, ALAJUELA, C.P. 20110","workZoneLabel":"20110","travelArea":"CR","status":"active","keylabel":["CR20110"],"keys":[]}
+{"workZoneName":"HEREDIA, BELEN, C.P. 40702","workZoneLabel":"40702","travelArea":"CR","status":"active","keylabel":["CR40702"],"keys":[]}
+{"workZoneName":"PUNTARENAS,CENTRAL, C.P.60113","workZoneLabel":"60113","travelArea":"CR","status":"active","keylabel":["CR60113"],"keys":[]}
+{"workZoneName":"ALAJUELA, ALAJUELA, C.P. 20111","workZoneLabel":"20111","travelArea":"CR","status":"active","keylabel":["CR20111"],"keys":[]}
+{"workZoneName":"HEREDIA, BELEN, C.P. 40703","workZoneLabel":"40703","travelArea":"CR","status":"active","keylabel":["CR40703"],"keys":[]}
+{"workZoneName":"ALAJUELA, ALAJUELA, C.P. 20112","workZoneLabel":"20112","travelArea":"CR","status":"active","keylabel":["CR20112"],"keys":[]}
+{"workZoneName":"PUNTARENAS,CENTRAL, C.P.50201","workZoneLabel":"50201","travelArea":"CR","status":"active","keylabel":["CR50201"],"keys":[]}
+{"workZoneName":"ALAJUELA, ALAJUELA, C.P. 20113","workZoneLabel":"20113","travelArea":"CR","status":"active","keylabel":["CR20113"],"keys":[]}
+{"workZoneName":"ALAJUELA, ALAJUELA, C.P. 20114","workZoneLabel":"20114","travelArea":"CR","status":"active","keylabel":["CR20114"],"keys":[]}
+{"workZoneName":"HEREDIA, FLORES, C.P. 40801","workZoneLabel":"40801","travelArea":"CR","status":"active","keylabel":["CR40801"],"keys":[]}
+{"workZoneName":"PUNTARENAS,CENTRAL, C.P.60115","workZoneLabel":"60115","travelArea":"CR","status":"active","keylabel":["CR60115"],"keys":[]}
+{"workZoneName":"ALAJUELA, SAN RAMON, C.P. 20201","workZoneLabel":"20201","travelArea":"CR","status":"active","keylabel":["CR20201"],"keys":[]}
+{"workZoneName":"ALAJUELA, SAN RAMON, C.P. 20202","workZoneLabel":"20202","travelArea":"CR","status":"active","keylabel":["CR20202"],"keys":[]}
+{"workZoneName":"HEREDIA, FLORES, C.P. 40802","workZoneLabel":"40802","travelArea":"CR","status":"active","keylabel":["CR40802"],"keys":[]}
+{"workZoneName":"PUNTARENAS,CENTRAL, C.P.60107","workZoneLabel":"60107","travelArea":"CR","status":"active","keylabel":["CR60107"],"keys":[]}
+{"workZoneName":"ALAJUELA, SAN RAMON, C.P. 20203","workZoneLabel":"20203","travelArea":"CR","status":"active","keylabel":["CR20203"],"keys":[]}
+{"workZoneName":"ALAJUELA, SAN RAMON, C.P. 20204","workZoneLabel":"20204","travelArea":"CR","status":"active","keylabel":["CR20204"],"keys":[]}
+{"workZoneName":"HEREDIA, FLORES, C.P. 40803","workZoneLabel":"40803","travelArea":"CR","status":"active","keylabel":["CR40803"],"keys":[]}
+{"workZoneName":"PUNTARENAS,CENTRAL, C.P.60102","workZoneLabel":"60102","travelArea":"CR","status":"active","keylabel":["CR60102"],"keys":[]}
+{"workZoneName":"ALAJUELA, SAN RAMON, C.P. 20205","workZoneLabel":"20205","travelArea":"CR","status":"active","keylabel":["CR20205"],"keys":[]}
+{"workZoneName":"ALAJUELA, SAN RAMON, C.P. 20206","workZoneLabel":"20206","travelArea":"CR","status":"active","keylabel":["CR20206"],"keys":[]}
+{"workZoneName":"HEREDIA, SAN PABLO, C.P. 40901","workZoneLabel":"40901","travelArea":"CR","status":"active","keylabel":["CR40901"],"keys":[]}
+{"workZoneName":"PUNTARENAS,CENTRAL, C.P.61101","workZoneLabel":"61101","travelArea":"CR","status":"active","keylabel":["CR61101"],"keys":[]}
+{"workZoneName":"ALAJUELA, SAN RAMON, C.P. 20207","workZoneLabel":"20207","travelArea":"CR","status":"active","keylabel":["CR20207"],"keys":[]}
+{"workZoneName":"ALAJUELA, SAN RAMON, C.P. 20208","workZoneLabel":"20208","travelArea":"CR","status":"active","keylabel":["CR20208"],"keys":[]}
+{"workZoneName":"HEREDIA, SAN PABLO, C.P. 40902","workZoneLabel":"40902","travelArea":"CR","status":"active","keylabel":["CR40902"],"keys":[]}
+{"workZoneName":"PUNTARENAS,CENTRAL, C.P.60112","workZoneLabel":"60112","travelArea":"CR","status":"active","keylabel":["CR60112"],"keys":[]}
+{"workZoneName":"ALAJUELA, SAN RAMON, C.P. 20209","workZoneLabel":"20209","travelArea":"CR","status":"active","keylabel":["CR20209"],"keys":[]}
+{"workZoneName":"ALAJUELA, SAN RAMON, C.P. 20210","workZoneLabel":"20210","travelArea":"CR","status":"active","keylabel":["CR20210"],"keys":[]}
+{"workZoneName":"HEREDIA, SARAPIQUI, C.P. 41001","workZoneLabel":"41001","travelArea":"CR","status":"active","keylabel":["CR41001"],"keys":[]}
+{"workZoneName":"PUNTARENAS,CENTRAL, C.P.60108","workZoneLabel":"60108","travelArea":"CR","status":"active","keylabel":["CR60108"],"keys":[]}
+{"workZoneName":"ALAJUELA, SAN RAMON, C.P. 20211","workZoneLabel":"20211","travelArea":"CR","status":"active","keylabel":["CR20211"],"keys":[]}
+{"workZoneName":"ALAJUELA, SAN RAMON, C.P. 20212","workZoneLabel":"20212","travelArea":"CR","status":"active","keylabel":["CR20212"],"keys":[]}
+{"workZoneName":"HEREDIA, SARAPIQUI, C.P. 41002","workZoneLabel":"41002","travelArea":"CR","status":"active","keylabel":["CR41002"],"keys":[]}
+{"workZoneName":"ALAJUELA, SAN RAMON, C.P. 20213","workZoneLabel":"20213","travelArea":"CR","status":"active","keylabel":["CR20213"],"keys":[]}
+{"workZoneName":"PUNTARENAS,CENTRAL, C.P.60109","workZoneLabel":"60109","travelArea":"CR","status":"active","keylabel":["CR60109"],"keys":[]}
+{"workZoneName":"ALAJUELA, GRECIA, C.P. 20301","workZoneLabel":"20301","travelArea":"CR","status":"active","keylabel":["CR20301"],"keys":[]}
+{"workZoneName":"HEREDIA, SARAPIQUI, C.P. 41003","workZoneLabel":"41003","travelArea":"CR","status":"active","keylabel":["CR41003"],"keys":[]}
+{"workZoneName":"PUNTARENAS,CENTRAL, C.P.60106","workZoneLabel":"60106","travelArea":"CR","status":"active","keylabel":["CR60106"],"keys":[]}
+{"workZoneName":"PUNTARENAS,CENTRAL, C.P.60105","workZoneLabel":"60105","travelArea":"CR","status":"active","keylabel":["CR60105"],"keys":[]}
+{"workZoneName":"ALAJUELA, GRECIA, C.P. 20302","workZoneLabel":"20302","travelArea":"CR","status":"active","keylabel":["CR20302"],"keys":[]}
+{"workZoneName":"HEREDIA, SARAPIQUI, C.P. 41004","workZoneLabel":"41004","travelArea":"CR","status":"active","keylabel":["CR41004"],"keys":[]}
+{"workZoneName":"PUNTARENAS,CENTRAL, C.P.60101","workZoneLabel":"60101","travelArea":"CR","status":"active","keylabel":["CR60101"],"keys":[]}
+{"workZoneName":"PUNTARENAS,CENTRAL, C.P.60114","workZoneLabel":"60114","travelArea":"CR","status":"active","keylabel":["CR60114"],"keys":[]}
+{"workZoneName":"ALAJUELA, GRECIA, C.P. 20303","workZoneLabel":"20303","travelArea":"CR","status":"active","keylabel":["CR20303"],"keys":[]}
+{"workZoneName":"HEREDIA, SARAPIQUI, C.P. 41005","workZoneLabel":"41005","travelArea":"CR","status":"active","keylabel":["CR41005"],"keys":[]}
+{"workZoneName":"PUNTARENAS,CENTRAL, C.P.60111","workZoneLabel":"60111","travelArea":"CR","status":"active","keylabel":["CR60111"],"keys":[]}
+{"workZoneName":"PUNTARENAS,CENTRAL, C.P.60104","workZoneLabel":"60104","travelArea":"CR","status":"active","keylabel":["CR60104"],"keys":[]}
+{"workZoneName":"ALAJUELA, GRECIA, C.P. 20304","workZoneLabel":"20304","travelArea":"CR","status":"active","keylabel":["CR20304"],"keys":[]}
+{"workZoneName":"GUANACASTE, LIBERIA, C.P. 50101","workZoneLabel":"50101","travelArea":"CR","status":"active","keylabel":["CR50101"],"keys":[]}
+{"workZoneName":"PUNTARENAS,CENTRAL, C.P.60103","workZoneLabel":"60103","travelArea":"CR","status":"active","keylabel":["CR60103"],"keys":[]}
+{"workZoneName":"CARTAGO,CENTRAL, C.P.30802","workZoneLabel":"30802","travelArea":"CR","status":"active","keylabel":["CR30802"],"keys":[]}
+{"workZoneName":"ALAJUELA, GRECIA, C.P. 20305","workZoneLabel":"20305","travelArea":"CR","status":"active","keylabel":["CR20305"],"keys":[]}
+{"workZoneName":"GUANACASTE, LIBERIA, C.P. 50102","workZoneLabel":"50102","travelArea":"CR","status":"active","keylabel":["CR50102"],"keys":[]}
+{"workZoneName":"CARTAGO,CENTRAL, C.P.30401","workZoneLabel":"30401","travelArea":"CR","status":"active","keylabel":["CR30401"],"keys":[]}
+{"workZoneName":"CARTAGO,CENTRAL, C.P.30703","workZoneLabel":"30703","travelArea":"CR","status":"active","keylabel":["CR30703"],"keys":[]}
+{"workZoneName":"ALAJUELA, GRECIA, C.P. 20306","workZoneLabel":"20306","travelArea":"CR","status":"active","keylabel":["CR20306"],"keys":[]}
+{"workZoneName":"GUANACASTE, LIBERIA, C.P. 50103","workZoneLabel":"50103","travelArea":"CR","status":"active","keylabel":["CR50103"],"keys":[]}
+{"workZoneName":"CARTAGO,CENTRAL, C.P.10309","workZoneLabel":"10309","travelArea":"CR","status":"active","keylabel":["CR10309"],"keys":[]}
+{"workZoneName":"CARTAGO,CENTRAL, C.P.30501","workZoneLabel":"30501","travelArea":"CR","status":"active","keylabel":["CR30501"],"keys":[]}
+{"workZoneName":"ALAJUELA, GRECIA, C.P. 20307","workZoneLabel":"20307","travelArea":"CR","status":"active","keylabel":["CR20307"],"keys":[]}
+{"workZoneName":"GUANACASTE, LIBERIA, C.P. 50104","workZoneLabel":"50104","travelArea":"CR","status":"active","keylabel":["CR50104"],"keys":[]}
+{"workZoneName":"CARTAGO,central, C.P.30705","workZoneLabel":"30705","travelArea":"CR","status":"active","keylabel":["CR30705"],"keys":[]}
+{"workZoneName":"CARTAGO,CENTRAL, C.P.11908","workZoneLabel":"11908","travelArea":"CR","status":"active","keylabel":["CR11908"],"keys":[]}
+{"workZoneName":"ALAJUELA, GRECIA, C.P. 20308","workZoneLabel":"20308","travelArea":"CR","status":"active","keylabel":["CR20308"],"keys":[]}
+{"workZoneName":"GUANACASTE, LIBERIA, C.P. 50105","workZoneLabel":"50105","travelArea":"CR","status":"active","keylabel":["CR50105"],"keys":[]}
+{"workZoneName":"CARTAGO,CENTRAL, C.P.10305","workZoneLabel":"10305","travelArea":"CR","status":"active","keylabel":["CR10305"],"keys":[]}
+{"workZoneName":"CARTAGO,CENTRAL, C.P.30301","workZoneLabel":"30301","travelArea":"CR","status":"active","keylabel":["CR30301"],"keys":[]}
+{"workZoneName":"ALAJUELA, SAN MATEO, C.P. 20401","workZoneLabel":"20401","travelArea":"CR","status":"active","keylabel":["CR20401"],"keys":[]}
+{"workZoneName":"GUANACASTE, NICOYA, C.P. 50201","workZoneLabel":"50201","travelArea":"CR","status":"active","keylabel":["CR50201"],"keys":[]}
+{"workZoneName":"CARTAGO,CENTRAL, C.P.30203","workZoneLabel":"30203","travelArea":"CR","status":"active","keylabel":["CR30203"],"keys":[]}
+{"workZoneName":"CARTAGO,CENTRAL, C.P.30201","workZoneLabel":"30201","travelArea":"CR","status":"active","keylabel":["CR30201"],"keys":[]}
+{"workZoneName":"ALAJUELA, SAN MATEO, C.P. 20402","workZoneLabel":"20402","travelArea":"CR","status":"active","keylabel":["CR20402"],"keys":[]}
+{"workZoneName":"GUANACASTE, NICOYA, C.P. 50202","workZoneLabel":"50202","travelArea":"CR","status":"active","keylabel":["CR50202"],"keys":[]}
+{"workZoneName":"CARTAGO,CENTRAL, C.P.30803","workZoneLabel":"30803","travelArea":"CR","status":"active","keylabel":["CR30803"],"keys":[]}
+{"workZoneName":"CARTAGO,CENTRAL, C.P.30306","workZoneLabel":"30306","travelArea":"CR","status":"active","keylabel":["CR30306"],"keys":[]}
+{"workZoneName":"ALAJUELA, SAN MATEO, C.P. 20403","workZoneLabel":"20403","travelArea":"CR","status":"active","keylabel":["CR20403"],"keys":[]}
+{"workZoneName":"GUANACASTE, NICOYA, C.P. 50203","workZoneLabel":"50203","travelArea":"CR","status":"active","keylabel":["CR50203"],"keys":[]}
+{"workZoneName":"CARTAGO,CENTRAL, C.P.30702","workZoneLabel":"30702","travelArea":"CR","status":"active","keylabel":["CR30702"],"keys":[]}
+{"workZoneName":"CARTAGO,CENTRAL, C.P.30801","workZoneLabel":"30801","travelArea":"CR","status":"active","keylabel":["CR30801"],"keys":[]}
+{"workZoneName":"ALAJUELA, ATENAS, C.P. 20501","workZoneLabel":"20501","travelArea":"CR","status":"active","keylabel":["CR20501"],"keys":[]}
+{"workZoneName":"CARTAGO,CENTRAL, C.P.30110","workZoneLabel":"30110","travelArea":"CR","status":"active","keylabel":["CR30110"],"keys":[]}
+{"workZoneName":"GUANACASTE, NICOYA, C.P. 50204","workZoneLabel":"50204","travelArea":"CR","status":"active","keylabel":["CR50204"],"keys":[]}
+{"workZoneName":"CARTAGO,CENTRAL, C.P.30111","workZoneLabel":"30111","travelArea":"CR","status":"active","keylabel":["CR30111"],"keys":[]}
+{"workZoneName":"ALAJUELA, ATENAS, C.P. 20502","workZoneLabel":"20502","travelArea":"CR","status":"active","keylabel":["CR20502"],"keys":[]}
+{"workZoneName":"GUANACASTE, NICOYA, C.P. 50205","workZoneLabel":"50205","travelArea":"CR","status":"active","keylabel":["CR50205"],"keys":[]}
+{"workZoneName":"CARTAGO,CENTRAL, C.P.30303","workZoneLabel":"30303","travelArea":"CR","status":"active","keylabel":["CR30303"],"keys":[]}
+{"workZoneName":"CARTAGO,CENTRAL, C.P.30106","workZoneLabel":"30106","travelArea":"CR","status":"active","keylabel":["CR30106"],"keys":[]}
+{"workZoneName":"ALAJUELA, ATENAS, C.P. 20503","workZoneLabel":"20503","travelArea":"CR","status":"active","keylabel":["CR20503"],"keys":[]}
+{"workZoneName":"GUANACASTE, NICOYA, C.P. 50206","workZoneLabel":"50206","travelArea":"CR","status":"active","keylabel":["CR50206"],"keys":[]}
+{"workZoneName":"CARTAGO,CENTRAL, C.P.30103","workZoneLabel":"30103","travelArea":"CR","status":"active","keylabel":["CR30103"],"keys":[]}
+{"workZoneName":"CARTAGO,CENTRAL, C.P.30109","workZoneLabel":"30109","travelArea":"CR","status":"active","keylabel":["CR30109"],"keys":[]}
+{"workZoneName":"ALAJUELA, ATENAS, C.P. 20504","workZoneLabel":"20504","travelArea":"CR","status":"active","keylabel":["CR20504"],"keys":[]}
+{"workZoneName":"GUANACASTE, NICOYA, C.P. 50207","workZoneLabel":"50207","travelArea":"CR","status":"active","keylabel":["CR50207"],"keys":[]}
+{"workZoneName":"CARTAGO,CENTRAL, C.P.30602","workZoneLabel":"30602","travelArea":"CR","status":"active","keylabel":["CR30602"],"keys":[]}
+{"workZoneName":"CARTAGO,CENTRAL, C.P.30701","workZoneLabel":"30701","travelArea":"CR","status":"active","keylabel":["CR30701"],"keys":[]}
+{"workZoneName":"ALAJUELA, ATENAS, C.P. 20505","workZoneLabel":"20505","travelArea":"CR","status":"active","keylabel":["CR20505"],"keys":[]}
+{"workZoneName":"GUANACASTE, SANTA CRUZ, C.P. 50301","workZoneLabel":"50301","travelArea":"CR","status":"active","keylabel":["CR50301"],"keys":[]}
+{"workZoneName":"CARTAGO,CENTRAL, C.P.30105","workZoneLabel":"30105","travelArea":"CR","status":"active","keylabel":["CR30105"],"keys":[]}
+{"workZoneName":"CARTAGO,CENTRAL, C.P.30107","workZoneLabel":"30107","travelArea":"CR","status":"active","keylabel":["CR30107"],"keys":[]}
+{"workZoneName":"ALAJUELA, ATENAS, C.P. 20506","workZoneLabel":"20506","travelArea":"CR","status":"active","keylabel":["CR20506"],"keys":[]}
+{"workZoneName":"GUANACASTE, SANTA CRUZ, C.P. 50302","workZoneLabel":"50302","travelArea":"CR","status":"active","keylabel":["CR50302"],"keys":[]}
+{"workZoneName":"CARTAGO,CENTRAL, C.P.30104","workZoneLabel":"30104","travelArea":"CR","status":"active","keylabel":["CR30104"],"keys":[]}
+{"workZoneName":"ALAJUELA, ATENAS, C.P. 20507","workZoneLabel":"20507","travelArea":"CR","status":"active","keylabel":["CR20507"],"keys":[]}
+{"workZoneName":"CARTAGO,CENTRAL, C.P.30101","workZoneLabel":"30101","travelArea":"CR","status":"active","keylabel":["CR30101"],"keys":[]}
+{"workZoneName":"GUANACASTE, SANTA CRUZ, C.P. 50303","workZoneLabel":"50303","travelArea":"CR","status":"active","keylabel":["CR50303"],"keys":[]}
+{"workZoneName":"CARTAGO,CENTRAL, C.P.30108","workZoneLabel":"30108","travelArea":"CR","status":"active","keylabel":["CR30108"],"keys":[]}
+{"workZoneName":"ALAJUELA, ATENAS, C.P. 20508","workZoneLabel":"20508","travelArea":"CR","status":"active","keylabel":["CR20508"],"keys":[]}
+{"workZoneName":"CARTAGO,CENTRAL, C.P.30102","workZoneLabel":"30102","travelArea":"CR","status":"active","keylabel":["CR30102"],"keys":[]}
+{"workZoneName":"GUANACASTE, SANTA CRUZ, C.P. 50304","workZoneLabel":"50304","travelArea":"CR","status":"active","keylabel":["CR50304"],"keys":[]}
+{"workZoneName":"ALAJUELA,CENTRAL, C.P.40101","workZoneLabel":"40101","travelArea":"CR","status":"active","keylabel":["CR40101"],"keys":[]}
+{"workZoneName":"ALAJUELA, NARANJO, C.P. 20601","workZoneLabel":"20601","travelArea":"CR","status":"active","keylabel":["CR20601"],"keys":[]}
+{"workZoneName":"ALAJUELA,CENTRAL, C.P.40402","workZoneLabel":"40402","travelArea":"CR","status":"active","keylabel":["CR40402"],"keys":[]}
+{"workZoneName":"GUANACASTE, SANTA CRUZ, C.P. 50305","workZoneLabel":"50305","travelArea":"CR","status":"active","keylabel":["CR50305"],"keys":[]}
+{"workZoneName":"ALAJUELA,CENTRAL, C.P.60504","workZoneLabel":"60504","travelArea":"CR","status":"active","keylabel":["CR60504"],"keys":[]}
+{"workZoneName":"ALAJUELA, NARANJO, C.P. 20602","workZoneLabel":"20602","travelArea":"CR","status":"active","keylabel":["CR20602"],"keys":[]}
+{"workZoneName":"ALAJUELA,CENTRAL, C.P.21006","workZoneLabel":"21006","travelArea":"CR","status":"active","keylabel":["CR21006"],"keys":[]}
+{"workZoneName":"GUANACASTE, SANTA CRUZ, C.P. 50306","workZoneLabel":"50306","travelArea":"CR","status":"active","keylabel":["CR50306"],"keys":[]}
+{"workZoneName":"ALAJUELA,CENTRAL, C.P.10101","workZoneLabel":"10101","travelArea":"CR","status":"active","keylabel":["CR10101"],"keys":[]}
+{"workZoneName":"ALAJUELA, NARANJO, C.P. 20603","workZoneLabel":"20603","travelArea":"CR","status":"active","keylabel":["CR20603"],"keys":[]}
+{"workZoneName":"ALAJUELA,CENTRAL, C.P.60105","workZoneLabel":"60105","travelArea":"CR","status":"active","keylabel":["CR60105"],"keys":[]}
+{"workZoneName":"GUANACASTE, SANTA CRUZ, C.P. 50307","workZoneLabel":"50307","travelArea":"CR","status":"active","keylabel":["CR50307"],"keys":[]}
+{"workZoneName":"ALAJUELA,CENTRAL, C.P.40105","workZoneLabel":"40105","travelArea":"CR","status":"active","keylabel":["CR40105"],"keys":[]}
+{"workZoneName":"ALAJUELA, NARANJO, C.P. 20604","workZoneLabel":"20604","travelArea":"CR","status":"active","keylabel":["CR20604"],"keys":[]}
+{"workZoneName":"GUANACASTE, SANTA CRUZ, C.P. 50308","workZoneLabel":"50308","travelArea":"CR","status":"active","keylabel":["CR50308"],"keys":[]}
+{"workZoneName":"ALAJUELA,CENTRAL, C.P.20901","workZoneLabel":"20901","travelArea":"CR","status":"active","keylabel":["CR20901"],"keys":[]}
+{"workZoneName":"ALAJUELA,CENTRAL, C.P.20802","workZoneLabel":"20802","travelArea":"CR","status":"active","keylabel":["CR20802"],"keys":[]}
+{"workZoneName":"ALAJUELA, NARANJO, C.P. 20605","workZoneLabel":"20605","travelArea":"CR","status":"active","keylabel":["CR20605"],"keys":[]}
+{"workZoneName":"GUANACASTE, SANTA CRUZ, C.P. 50309","workZoneLabel":"50309","travelArea":"CR","status":"active","keylabel":["CR50309"],"keys":[]}
+{"workZoneName":"ALAJUELA,CENTRAL, C.P.20301","workZoneLabel":"20301","travelArea":"CR","status":"active","keylabel":["CR20301"],"keys":[]}
+{"workZoneName":"ALAJUELA,CENTRAL, C.P.60109","workZoneLabel":"60109","travelArea":"CR","status":"active","keylabel":["CR60109"],"keys":[]}
+{"workZoneName":"ALAJUELA, NARANJO, C.P. 20606","workZoneLabel":"20606","travelArea":"CR","status":"active","keylabel":["CR20606"],"keys":[]}
+{"workZoneName":"GUANACASTE, BAGACES, C.P. 50401","workZoneLabel":"50401","travelArea":"CR","status":"active","keylabel":["CR50401"],"keys":[]}
+{"workZoneName":"GUANACASTE, BAGACES, C.P. 50402","workZoneLabel":"50402","travelArea":"CR","status":"active","keylabel":["CR50402"],"keys":[]}
+{"workZoneName":"ALAJUELA,CENTRAL, C.P.41001","workZoneLabel":"41001","travelArea":"CR","status":"active","keylabel":["CR41001"],"keys":[]}
+{"workZoneName":"ALAJUELA, NARANJO, C.P. 20607","workZoneLabel":"20607","travelArea":"CR","status":"active","keylabel":["CR20607"],"keys":[]}
+{"workZoneName":"ALAJUELA,CENTRAL, C.P.20905","workZoneLabel":"20905","travelArea":"CR","status":"active","keylabel":["CR20905"],"keys":[]}
+{"workZoneName":"ALAJUELA,CENTRAL, C.P.20204","workZoneLabel":"20204","travelArea":"CR","status":"active","keylabel":["CR20204"],"keys":[]}
+{"workZoneName":"GUANACASTE, BAGACES, C.P. 50403","workZoneLabel":"50403","travelArea":"CR","status":"active","keylabel":["CR50403"],"keys":[]}
+{"workZoneName":"ALAJUELA, NARANJO, C.P. 20608","workZoneLabel":"20608","travelArea":"CR","status":"active","keylabel":["CR20608"],"keys":[]}
+{"workZoneName":"ALAJUELA,CENTRAL, C.P.20109","workZoneLabel":"20109","travelArea":"CR","status":"active","keylabel":["CR20109"],"keys":[]}
+{"workZoneName":"ALAJUELA, PALMARES, C.P. 20701","workZoneLabel":"20701","travelArea":"CR","status":"active","keylabel":["CR20701"],"keys":[]}
+{"workZoneName":"GUANACASTE, BAGACES, C.P. 50404","workZoneLabel":"50404","travelArea":"CR","status":"active","keylabel":["CR50404"],"keys":[]}
+{"workZoneName":"ALAJUELA,CENTRAL, C.P.20803","workZoneLabel":"20803","travelArea":"CR","status":"active","keylabel":["CR20803"],"keys":[]}
+{"workZoneName":"ALAJUELA, PALMARES, C.P. 20702","workZoneLabel":"20702","travelArea":"CR","status":"active","keylabel":["CR20702"],"keys":[]}
+{"workZoneName":"ALAJUELA,CENTRAL, C.P.20805","workZoneLabel":"20805","travelArea":"CR","status":"active","keylabel":["CR20805"],"keys":[]}
+{"workZoneName":"GUANACASTE, CARRILLO, C.P. 50501","workZoneLabel":"50501","travelArea":"CR","status":"active","keylabel":["CR50501"],"keys":[]}
+{"workZoneName":"ALAJUELA,CENTRAL, C.P.20110","workZoneLabel":"20110","travelArea":"CR","status":"active","keylabel":["CR20110"],"keys":[]}
+{"workZoneName":"ALAJUELA, PALMARES, C.P. 20703","workZoneLabel":"20703","travelArea":"CR","status":"active","keylabel":["CR20703"],"keys":[]}
+{"workZoneName":"ALAJUELA,CENTRAL, C.P.20801","workZoneLabel":"20801","travelArea":"CR","status":"active","keylabel":["CR20801"],"keys":[]}
+{"workZoneName":"GUANACASTE, CARRILLO, C.P. 50502","workZoneLabel":"50502","travelArea":"CR","status":"active","keylabel":["CR50502"],"keys":[]}
+{"workZoneName":"ALAJUELA,CENTRAL, C.P.20104","workZoneLabel":"20104","travelArea":"CR","status":"active","keylabel":["CR20104"],"keys":[]}
+{"workZoneName":"ALAJUELA, PALMARES, C.P. 20704","workZoneLabel":"20704","travelArea":"CR","status":"active","keylabel":["CR20704"],"keys":[]}
+{"workZoneName":"ALAJUELA,CENTRAL, C.P.20602","workZoneLabel":"20602","travelArea":"CR","status":"active","keylabel":["CR20602"],"keys":[]}
+{"workZoneName":"GUANACASTE, CARRILLO, C.P. 50503","workZoneLabel":"50503","travelArea":"CR","status":"active","keylabel":["CR50503"],"keys":[]}
+{"workZoneName":"ALAJUELA,CENTRAL, C.P.20114","workZoneLabel":"20114","travelArea":"CR","status":"active","keylabel":["CR20114"],"keys":[]}
+{"workZoneName":"ALAJUELA, PALMARES, C.P. 20705","workZoneLabel":"20705","travelArea":"CR","status":"active","keylabel":["CR20705"],"keys":[]}
+{"workZoneName":"ALAJUELA,CENTRAL, C.P.70205","workZoneLabel":"70205","travelArea":"CR","status":"active","keylabel":["CR70205"],"keys":[]}
+{"workZoneName":"GUANACASTE, CARRILLO, C.P. 50504","workZoneLabel":"50504","travelArea":"CR","status":"active","keylabel":["CR50504"],"keys":[]}
+{"workZoneName":"ALAJUELA,CENTRAL, C.P.20103","workZoneLabel":"20103","travelArea":"CR","status":"active","keylabel":["CR20103"],"keys":[]}
+{"workZoneName":"ALAJUELA, PALMARES, C.P. 20706","workZoneLabel":"20706","travelArea":"CR","status":"active","keylabel":["CR20706"],"keys":[]}
+{"workZoneName":"GUANACASTE, CAÑAS, C.P. 50601","workZoneLabel":"50601","travelArea":"CR","status":"active","keylabel":["CR50601"],"keys":[]}
+{"workZoneName":"ALAJUELA,CENTRAL, C.P.20105","workZoneLabel":"20105","travelArea":"CR","status":"active","keylabel":["CR20105"],"keys":[]}
+{"workZoneName":"ALAJUELA, PALMARES, C.P. 20707","workZoneLabel":"20707","travelArea":"CR","status":"active","keylabel":["CR20707"],"keys":[]}
+{"workZoneName":"ALAJUELA, POAS, C.P. 20801","workZoneLabel":"20801","travelArea":"CR","status":"active","keylabel":["CR20801"],"keys":[]}
+{"workZoneName":"GUANACASTE, CAÑAS, C.P. 50602","workZoneLabel":"50602","travelArea":"CR","status":"active","keylabel":["CR50602"],"keys":[]}
+{"workZoneName":"ALAJUELA,CENTRAL, C.P.21102","workZoneLabel":"21102","travelArea":"CR","status":"active","keylabel":["CR21102"],"keys":[]}
+{"workZoneName":"ALAJUELA, POAS, C.P. 20802","workZoneLabel":"20802","travelArea":"CR","status":"active","keylabel":["CR20802"],"keys":[]}
+{"workZoneName":"ALAJUELA, POAS, C.P. 20803","workZoneLabel":"20803","travelArea":"CR","status":"active","keylabel":["CR20803"],"keys":[]}
+{"workZoneName":"GUANACASTE, CAÑAS, C.P. 50603","workZoneLabel":"50603","travelArea":"CR","status":"active","keylabel":["CR50603"],"keys":[]}
+{"workZoneName":"ALAJUELA,CENTRAL, C.P.20102","workZoneLabel":"20102","travelArea":"CR","status":"active","keylabel":["CR20102"],"keys":[]}
+{"workZoneName":"ALAJUELA, POAS, C.P. 20804","workZoneLabel":"20804","travelArea":"CR","status":"active","keylabel":["CR20804"],"keys":[]}
+{"workZoneName":"ALAJUELA, POAS, C.P. 20805","workZoneLabel":"20805","travelArea":"CR","status":"active","keylabel":["CR20805"],"keys":[]}
+{"workZoneName":"GUANACASTE, CAÑAS, C.P. 50604","workZoneLabel":"50604","travelArea":"CR","status":"active","keylabel":["CR50604"],"keys":[]}
+{"workZoneName":"ALAJUELA,CENTRAL, C.P.20101","workZoneLabel":"20101","travelArea":"CR","status":"active","keylabel":["CR20101"],"keys":[]}
+{"workZoneName":"ALAJUELA, OROTINA, C.P. 20901","workZoneLabel":"20901","travelArea":"CR","status":"active","keylabel":["CR20901"],"keys":[]}
+{"workZoneName":"GUANACASTE, CAÑAS, C.P. 50605","workZoneLabel":"50605","travelArea":"CR","status":"active","keylabel":["CR50605"],"keys":[]}
+{"workZoneName":"ALAJUELA, OROTINA, C.P. 20902","workZoneLabel":"20902","travelArea":"CR","status":"active","keylabel":["CR20902"],"keys":[]}
+{"workZoneName":"ALAJUELA,CENTRAL, C.P.20107","workZoneLabel":"20107","travelArea":"CR","status":"active","keylabel":["CR20107"],"keys":[]}
+{"workZoneName":"ALAJUELA, OROTINA, C.P. 20903","workZoneLabel":"20903","travelArea":"CR","status":"active","keylabel":["CR20903"],"keys":[]}
+{"workZoneName":"GUANACASTE, ABANGARES, C.P. 50701","workZoneLabel":"50701","travelArea":"CR","status":"active","keylabel":["CR50701"],"keys":[]}
+{"workZoneName":"ALAJUELA, OROTINA, C.P. 20904","workZoneLabel":"20904","travelArea":"CR","status":"active","keylabel":["CR20904"],"keys":[]}
+{"workZoneName":"ALAJUELA,CENTRAL, C.P.20108","workZoneLabel":"20108","travelArea":"CR","status":"active","keylabel":["CR20108"],"keys":[]}
+{"workZoneName":"ALAJUELA, OROTINA, C.P. 20905","workZoneLabel":"20905","travelArea":"CR","status":"active","keylabel":["CR20905"],"keys":[]}
+{"workZoneName":"GUANACASTE, ABANGARES, C.P. 50702","workZoneLabel":"50702","travelArea":"CR","status":"active","keylabel":["CR50702"],"keys":[]}
+{"workZoneName":"ALAJUELA, SAN CARLOS, C.P. 21001","workZoneLabel":"21001","travelArea":"CR","status":"active","keylabel":["CR21001"],"keys":[]}
+{"workZoneName":"ALAJUELA,CENTRAL, C.P.20106","workZoneLabel":"20106","travelArea":"CR","status":"active","keylabel":["CR20106"],"keys":[]}
+{"workZoneName":"ALAJUELA, SAN CARLOS, C.P. 21002","workZoneLabel":"21002","travelArea":"CR","status":"active","keylabel":["CR21002"],"keys":[]}
+{"workZoneName":"GUANACASTE, ABANGARES, C.P. 50703","workZoneLabel":"50703","travelArea":"CR","status":"active","keylabel":["CR50703"],"keys":[]}
+{"workZoneName":"ALAJUELA,CENTRAL, C.P.20113","workZoneLabel":"20113","travelArea":"CR","status":"active","keylabel":["CR20113"],"keys":[]}
+{"workZoneName":"ALAJUELA, SAN CARLOS, C.P. 21003","workZoneLabel":"21003","travelArea":"CR","status":"active","keylabel":["CR21003"],"keys":[]}
+{"workZoneName":"ALAJUELA, SAN CARLOS, C.P. 21004","workZoneLabel":"21004","travelArea":"CR","status":"active","keylabel":["CR21004"],"keys":[]}
+{"workZoneName":"GUANACASTE, ABANGARES, C.P. 50704","workZoneLabel":"50704","travelArea":"CR","status":"active","keylabel":["CR50704"],"keys":[]}
+{"workZoneName":"ALAJUELA,CENTRAL, C.P.20111","workZoneLabel":"20111","travelArea":"CR","status":"active","keylabel":["CR20111"],"keys":[]}
+{"workZoneName":"ALAJUELA, SAN CARLOS, C.P. 21005","workZoneLabel":"21005","travelArea":"CR","status":"active","keylabel":["CR21005"],"keys":[]}
+{"workZoneName":"ALAJUELA, SAN CARLOS, C.P. 21006","workZoneLabel":"21006","travelArea":"CR","status":"active","keylabel":["CR21006"],"keys":[]}
+{"workZoneName":"GUANACASTE, TILARAN, C.P. 50801","workZoneLabel":"50801","travelArea":"CR","status":"active","keylabel":["CR50801"],"keys":[]}
+{"workZoneName":"ALAJUELA,CENTRAL, C.P.20112","workZoneLabel":"20112","travelArea":"CR","status":"active","keylabel":["CR20112"],"keys":[]}
+{"workZoneName":"ALAJUELA, SAN CARLOS, C.P. 21007","workZoneLabel":"21007","travelArea":"CR","status":"active","keylabel":["CR21007"],"keys":[]}
+{"workZoneName":"GUANACASTE, TILARAN, C.P. 50802","workZoneLabel":"50802","travelArea":"CR","status":"active","keylabel":["CR50802"],"keys":[]}
+{"workZoneName":"ALAJUELA, SAN CARLOS, C.P. 21008","workZoneLabel":"21008","travelArea":"CR","status":"active","keylabel":["CR21008"],"keys":[]}
+{"workZoneName":"GUANACASTE, TILARAN, C.P. 50803","workZoneLabel":"50803","travelArea":"CR","status":"active","keylabel":["CR50803"],"keys":[]}
+{"workZoneName":"GUANACASTE, TILARAN, C.P. 50804","workZoneLabel":"50804","travelArea":"CR","status":"active","keylabel":["CR50804"],"keys":[]}
+{"workZoneName":"GUANACASTE, TILARAN, C.P. 50805","workZoneLabel":"50805","travelArea":"CR","status":"active","keylabel":["CR50805"],"keys":[]}
+{"workZoneName":"GUANACASTE, TILARAN, C.P. 50806","workZoneLabel":"50806","travelArea":"CR","status":"active","keylabel":["CR50806"],"keys":[]}
+{"workZoneName":"GUANACASTE, TILARAN, C.P. 50807","workZoneLabel":"50807","travelArea":"CR","status":"active","keylabel":["CR50807"],"keys":[]}
+{"workZoneName":"GUANACASTE, NANDAYURE, C.P. 50901","workZoneLabel":"50901","travelArea":"CR","status":"active","keylabel":["CR50901"],"keys":[]}
+{"workZoneName":"GUANACASTE, NANDAYURE, C.P. 50902","workZoneLabel":"50902","travelArea":"CR","status":"active","keylabel":["CR50902"],"keys":[]}
+{"workZoneName":"GUANACASTE, NANDAYURE, C.P. 50903","workZoneLabel":"50903","travelArea":"CR","status":"active","keylabel":["CR50903"],"keys":[]}
+{"workZoneName":"GUANACASTE, NANDAYURE, C.P. 50904","workZoneLabel":"50904","travelArea":"CR","status":"active","keylabel":["CR50904"],"keys":[]}
+{"workZoneName":"GUANACASTE, NANDAYURE, C.P. 50905","workZoneLabel":"50905","travelArea":"CR","status":"active","keylabel":["CR50905"],"keys":[]}
+{"workZoneName":"GUANACASTE, NANDAYURE, C.P. 50906","workZoneLabel":"50906","travelArea":"CR","status":"active","keylabel":["CR50906"],"keys":[]}
+{"workZoneName":"GUANACASTE, LA CRUZ, C.P. 51001","workZoneLabel":"51001","travelArea":"CR","status":"active","keylabel":["CR51001"],"keys":[]}
+{"workZoneName":"GUANACASTE, LA CRUZ, C.P. 51002","workZoneLabel":"51002","travelArea":"CR","status":"active","keylabel":["CR51002"],"keys":[]}
+{"workZoneName":"GUANACASTE, LA CRUZ, C.P. 51003","workZoneLabel":"51003","travelArea":"CR","status":"active","keylabel":["CR51003"],"keys":[]}
+{"workZoneName":"GUANACASTE, LA CRUZ, C.P. 51004","workZoneLabel":"51004","travelArea":"CR","status":"active","keylabel":["CR51004"],"keys":[]}
+{"workZoneName":"GUANACASTE, HOJANCHA, C.P. 51101","workZoneLabel":"51101","travelArea":"CR","status":"active","keylabel":["CR51101"],"keys":[]}
+{"workZoneName":"GUANACASTE, HOJANCHA, C.P. 51102","workZoneLabel":"51102","travelArea":"CR","status":"active","keylabel":["CR51102"],"keys":[]}
+{"workZoneName":"GUANACASTE, HOJANCHA, C.P. 51103","workZoneLabel":"51103","travelArea":"CR","status":"active","keylabel":["CR51103"],"keys":[]}
+{"workZoneName":"GUANACASTE, HOJANCHA, C.P. 51104","workZoneLabel":"51104","travelArea":"CR","status":"active","keylabel":["CR51104"],"keys":[]}
+{"workZoneName":"PUNTARENAS, PUNTARENAS, C.P. 60101","workZoneLabel":"60101","travelArea":"CR","status":"active","keylabel":["CR60101"],"keys":[]}
+{"workZoneName":"PUNTARENAS, PUNTARENAS, C.P. 60102","workZoneLabel":"60102","travelArea":"CR","status":"active","keylabel":["CR60102"],"keys":[]}
+{"workZoneName":"PUNTARENAS, PUNTARENAS, C.P. 60103","workZoneLabel":"60103","travelArea":"CR","status":"active","keylabel":["CR60103"],"keys":[]}
+{"workZoneName":"PUNTARENAS, PUNTARENAS, C.P. 60104","workZoneLabel":"60104","travelArea":"CR","status":"active","keylabel":["CR60104"],"keys":[]}
+{"workZoneName":"PUNTARENAS, PUNTARENAS, C.P. 60105","workZoneLabel":"60105","travelArea":"CR","status":"active","keylabel":["CR60105"],"keys":[]}
+{"workZoneName":"PUNTARENAS, PUNTARENAS, C.P. 60106","workZoneLabel":"60106","travelArea":"CR","status":"active","keylabel":["CR60106"],"keys":[]}
+{"workZoneName":"PUNTARENAS, PUNTARENAS, C.P. 60107","workZoneLabel":"60107","travelArea":"CR","status":"active","keylabel":["CR60107"],"keys":[]}
+{"workZoneName":"PUNTARENAS, PUNTARENAS, C.P. 60108","workZoneLabel":"60108","travelArea":"CR","status":"active","keylabel":["CR60108"],"keys":[]}
+{"workZoneName":"PUNTARENAS, PUNTARENAS, C.P. 60109","workZoneLabel":"60109","travelArea":"CR","status":"active","keylabel":["CR60109"],"keys":[]}
+{"workZoneName":"PUNTARENAS, PUNTARENAS, C.P. 60110","workZoneLabel":"60110","travelArea":"CR","status":"active","keylabel":["CR60110"],"keys":[]}
+{"workZoneName":"PUNTARENAS, PUNTARENAS, C.P. 60111","workZoneLabel":"60111","travelArea":"CR","status":"active","keylabel":["CR60111"],"keys":[]}
