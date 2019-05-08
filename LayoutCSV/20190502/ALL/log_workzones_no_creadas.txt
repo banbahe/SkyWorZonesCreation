@@ -1,3 +1,4 @@
 {"id":null,"source":null,"workZoneName":"WORK_ZONE_NAME","workZoneLabel":"ZIPCODE","travelArea":"PAIS","status":"ESTATUS","keylabel":["WORK_ZONE_LABEL"],"keys":[]}
 {"id":null,"source":null,"workZoneName":"WORK_ZONE_NAME","workZoneLabel":"ZIPCODE","travelArea":"PAIS","status":"ESTADO","keylabel":["LABEL"],"keys":[]}
 {"id":null,"source":null,"workZoneName":"WORK_ZONE_NAME","workZoneLabel":"ZIPCODE","travelArea":"PAIS","status":"ESTADO","keylabel":["Label"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, MALPAISILLO, C.P. 35354456","workZoneLabel":"35354456","travelArea":"NI","status":"active","keylabel":["NI35354456"],"keys":[]}

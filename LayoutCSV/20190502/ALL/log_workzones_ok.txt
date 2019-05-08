@@ -3592,3 +3592,601 @@
 {"id":null,"source":null,"workZoneName":"BOACO, SAN JOSE DE LOS REMATES, C.P. 50051495","workZoneLabel":"50051495","travelArea":"NI","status":"active","keylabel":["NI50051495"],"keys":[]}
 {"id":null,"source":null,"workZoneName":"BOACO, SAN JOSE DE LOS REMATES, C.P. 50051494","workZoneLabel":"50051494","travelArea":"NI","status":"active","keylabel":["NI50051494"],"keys":[]}
 {"id":null,"source":null,"workZoneName":"BOACO, SAN JOSE DE LOS REMATES, C.P. 50051493","workZoneLabel":"50051493","travelArea":"NI","status":"active","keylabel":["NI50051493"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, CUIDAD DARIO, C.P. 40654659","workZoneLabel":"40654659","travelArea":"NI","status":"active","keylabel":["NI40654659"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, CIUDAD DARIO, C.P. 40651528","workZoneLabel":"40651528","travelArea":"NI","status":"active","keylabel":["NI40651528"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, CIUDAD DARIO, C.P. 40651527","workZoneLabel":"40651527","travelArea":"NI","status":"active","keylabel":["NI40651527"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, CIUDAD DARIO, C.P. 40651526","workZoneLabel":"40651526","travelArea":"NI","status":"active","keylabel":["NI40651526"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, CIUDAD DARIO, C.P. 40651525","workZoneLabel":"40651525","travelArea":"NI","status":"active","keylabel":["NI40651525"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, CIUDAD DARIO, C.P. 40651498","workZoneLabel":"40651498","travelArea":"NI","status":"active","keylabel":["NI40651498"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, CIUDAD DARIO, C.P. 40651497","workZoneLabel":"40651497","travelArea":"NI","status":"active","keylabel":["NI40651497"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, CIUDAD DARIO, C.P. 40651292","workZoneLabel":"40651292","travelArea":"NI","status":"active","keylabel":["NI40651292"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, CIUDAD DARIO, C.P. 40651290","workZoneLabel":"40651290","travelArea":"NI","status":"active","keylabel":["NI40651290"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, CIUDAD DARIO, C.P. 40651289","workZoneLabel":"40651289","travelArea":"NI","status":"active","keylabel":["NI40651289"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, CIUDAD DARIO, C.P. 40651288","workZoneLabel":"40651288","travelArea":"NI","status":"active","keylabel":["NI40651288"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, CIUDAD DARIO, C.P. 40651287","workZoneLabel":"40651287","travelArea":"NI","status":"active","keylabel":["NI40651287"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, CIUDAD DARIO, C.P. 40651286","workZoneLabel":"40651286","travelArea":"NI","status":"active","keylabel":["NI40651286"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, CIUDAD DARIO, C.P. 40651284","workZoneLabel":"40651284","travelArea":"NI","status":"active","keylabel":["NI40651284"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, CIUDAD DARIO, C.P. 40651108","workZoneLabel":"40651108","travelArea":"NI","status":"active","keylabel":["NI40651108"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, CIUDAD DARIO, C.P. 40651107","workZoneLabel":"40651107","travelArea":"NI","status":"active","keylabel":["NI40651107"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, CIUDAD DARIO, C.P. 40651106","workZoneLabel":"40651106","travelArea":"NI","status":"active","keylabel":["NI40651106"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, CIUDAD DARIO, C.P. 40651105","workZoneLabel":"40651105","travelArea":"NI","status":"active","keylabel":["NI40651105"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, CIUDAD DARIO, C.P. 40651103","workZoneLabel":"40651103","travelArea":"NI","status":"active","keylabel":["NI40651103"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, CIUDAD DARIO, C.P. 40651101","workZoneLabel":"40651101","travelArea":"NI","status":"active","keylabel":["NI40651101"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, CIUDAD DARIO, C.P. 40651100","workZoneLabel":"40651100","travelArea":"NI","status":"active","keylabel":["NI40651100"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, CIUDAD DARIO, C.P. 40651097","workZoneLabel":"40651097","travelArea":"NI","status":"active","keylabel":["NI40651097"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, TERRABONA, C.P. 4060964","workZoneLabel":"4060964","travelArea":"NI","status":"active","keylabel":["NI4060964"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, TERRABONA, C.P. 40601492","workZoneLabel":"40601492","travelArea":"NI","status":"active","keylabel":["NI40601492"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, TERRABONA, C.P. 40601488","workZoneLabel":"40601488","travelArea":"NI","status":"active","keylabel":["NI40601488"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, TERRABONA, C.P. 40601487","workZoneLabel":"40601487","travelArea":"NI","status":"active","keylabel":["NI40601487"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, TERRABONA, C.P. 40601486","workZoneLabel":"40601486","travelArea":"NI","status":"active","keylabel":["NI40601486"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, TERRABONA, C.P. 40601285","workZoneLabel":"40601285","travelArea":"NI","status":"active","keylabel":["NI40601285"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, TERRABONA, C.P. 40601109","workZoneLabel":"40601109","travelArea":"NI","status":"active","keylabel":["NI40601109"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, SAN DIONISIO, C.P. 4055967","workZoneLabel":"4055967","travelArea":"NI","status":"active","keylabel":["NI4055967"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, SAN DIONISIO, C.P. 4055966","workZoneLabel":"4055966","travelArea":"NI","status":"active","keylabel":["NI4055966"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, SAN DIONISIO, C.P. 4055965","workZoneLabel":"4055965","travelArea":"NI","status":"active","keylabel":["NI4055965"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, SAN DIONISIO, C.P. 40554680","workZoneLabel":"40554680","travelArea":"NI","status":"active","keylabel":["NI40554680"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, ESQUIPULAS, C.P. 4050972","workZoneLabel":"4050972","travelArea":"NI","status":"active","keylabel":["NI4050972"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, ESQUIPULAS, C.P. 4050971","workZoneLabel":"4050971","travelArea":"NI","status":"active","keylabel":["NI4050971"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, ESQUIPULAS, C.P. 4050839","workZoneLabel":"4050839","travelArea":"NI","status":"active","keylabel":["NI4050839"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, ESQUIPULAS, C.P. 40501491","workZoneLabel":"40501491","travelArea":"NI","status":"active","keylabel":["NI40501491"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, ESQUIPULAS, C.P. 40501490","workZoneLabel":"40501490","travelArea":"NI","status":"active","keylabel":["NI40501490"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, ESQUIPULAS, C.P. 40501489","workZoneLabel":"40501489","travelArea":"NI","status":"active","keylabel":["NI40501489"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, ESQUIPULAS, C.P. 40501475","workZoneLabel":"40501475","travelArea":"NI","status":"active","keylabel":["NI40501475"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, ESQUIPULAS, C.P. 40501473","workZoneLabel":"40501473","travelArea":"NI","status":"active","keylabel":["NI40501473"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, ESQUIPULAS, C.P. 40501472","workZoneLabel":"40501472","travelArea":"NI","status":"active","keylabel":["NI40501472"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, ESQUIPULAS, C.P. 40501471","workZoneLabel":"40501471","travelArea":"NI","status":"active","keylabel":["NI40501471"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, ESQUIPULAS, C.P. 40501470","workZoneLabel":"40501470","travelArea":"NI","status":"active","keylabel":["NI40501470"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, MUY MUY, C.P. 40454692","workZoneLabel":"40454692","travelArea":"NI","status":"active","keylabel":["NI40454692"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, MUY MUY, C.P. 40451485","workZoneLabel":"40451485","travelArea":"NI","status":"active","keylabel":["NI40451485"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, MUY MUY, C.P. 40451484","workZoneLabel":"40451484","travelArea":"NI","status":"active","keylabel":["NI40451484"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, MUY MUY, C.P. 40451482","workZoneLabel":"40451482","travelArea":"NI","status":"active","keylabel":["NI40451482"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, MUY MUY, C.P. 40451479","workZoneLabel":"40451479","travelArea":"NI","status":"active","keylabel":["NI40451479"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, MUY MUY, C.P. 40451477","workZoneLabel":"40451477","travelArea":"NI","status":"active","keylabel":["NI40451477"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, MUY MUY, C.P. 40451476","workZoneLabel":"40451476","travelArea":"NI","status":"active","keylabel":["NI40451476"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, MUY MUY, C.P. 40451474","workZoneLabel":"40451474","travelArea":"NI","status":"active","keylabel":["NI40451474"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, MUY MUY, C.P. 40451469","workZoneLabel":"40451469","travelArea":"NI","status":"active","keylabel":["NI40451469"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, MUY MUY, C.P. 40451087","workZoneLabel":"40451087","travelArea":"NI","status":"active","keylabel":["NI40451087"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, MATIGUAS, C.P. 4040962","workZoneLabel":"4040962","travelArea":"NI","status":"active","keylabel":["NI4040962"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, MATIGUAS, C.P. 4040961","workZoneLabel":"4040961","travelArea":"NI","status":"active","keylabel":["NI4040961"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, MATIGUAS, C.P. 4040959","workZoneLabel":"4040959","travelArea":"NI","status":"active","keylabel":["NI4040959"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, MATIGUAS, C.P. 4040958","workZoneLabel":"4040958","travelArea":"NI","status":"active","keylabel":["NI4040958"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, MATIGUAS, C.P. 4040957","workZoneLabel":"4040957","travelArea":"NI","status":"active","keylabel":["NI4040957"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, MATIGUAS, C.P. 4040954","workZoneLabel":"4040954","travelArea":"NI","status":"active","keylabel":["NI4040954"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, MATIGUAS, C.P. 4040952","workZoneLabel":"4040952","travelArea":"NI","status":"active","keylabel":["NI4040952"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, MATIGUAS, C.P. 4040784","workZoneLabel":"4040784","travelArea":"NI","status":"active","keylabel":["NI4040784"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, MATIGUAS, C.P. 4040783","workZoneLabel":"4040783","travelArea":"NI","status":"active","keylabel":["NI4040783"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, MATIGUAS, C.P. 4040780","workZoneLabel":"4040780","travelArea":"NI","status":"active","keylabel":["NI4040780"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, MATIGUAS, C.P. 4040779","workZoneLabel":"4040779","travelArea":"NI","status":"active","keylabel":["NI4040779"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, MATIGUAS, C.P. 4040776","workZoneLabel":"4040776","travelArea":"NI","status":"active","keylabel":["NI4040776"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, MATIGUAS, C.P. 4040772","workZoneLabel":"4040772","travelArea":"NI","status":"active","keylabel":["NI4040772"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, MATIGUAS, C.P. 4040751","workZoneLabel":"4040751","travelArea":"NI","status":"active","keylabel":["NI4040751"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, MATIGUAS, C.P. 4040750","workZoneLabel":"4040750","travelArea":"NI","status":"active","keylabel":["NI4040750"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, MATIGUAS, C.P. 4040749","workZoneLabel":"4040749","travelArea":"NI","status":"active","keylabel":["NI4040749"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, MATIGUAS, C.P. 4040724","workZoneLabel":"4040724","travelArea":"NI","status":"active","keylabel":["NI4040724"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, MATIGUAS, C.P. 40404726","workZoneLabel":"40404726","travelArea":"NI","status":"active","keylabel":["NI40404726"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, MATIGUAS, C.P. 40404722","workZoneLabel":"40404722","travelArea":"NI","status":"active","keylabel":["NI40404722"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, MATIGUAS, C.P. 40401480","workZoneLabel":"40401480","travelArea":"NI","status":"active","keylabel":["NI40401480"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, MATIGUAS, C.P. 40401439","workZoneLabel":"40401439","travelArea":"NI","status":"active","keylabel":["NI40401439"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, MATIGUAS, C.P. 40401430","workZoneLabel":"40401430","travelArea":"NI","status":"active","keylabel":["NI40401430"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, MATIGUAS, C.P. 40401175","workZoneLabel":"40401175","travelArea":"NI","status":"active","keylabel":["NI40401175"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, MATIGUAS, C.P. 40401173","workZoneLabel":"40401173","travelArea":"NI","status":"active","keylabel":["NI40401173"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, MATIGUAS, C.P. 40401095","workZoneLabel":"40401095","travelArea":"NI","status":"active","keylabel":["NI40401095"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, MATIGUAS, C.P. 40401094","workZoneLabel":"40401094","travelArea":"NI","status":"active","keylabel":["NI40401094"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, MATIGUAS, C.P. 40401088","workZoneLabel":"40401088","travelArea":"NI","status":"active","keylabel":["NI40401088"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, MATIGUAS, C.P. 40401040","workZoneLabel":"40401040","travelArea":"NI","status":"active","keylabel":["NI40401040"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, SAN RAMON, C.P. 4035953","workZoneLabel":"4035953","travelArea":"NI","status":"active","keylabel":["NI4035953"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, SAN RAMON, C.P. 4035951","workZoneLabel":"4035951","travelArea":"NI","status":"active","keylabel":["NI4035951"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, SAN RAMON, C.P. 4035950","workZoneLabel":"4035950","travelArea":"NI","status":"active","keylabel":["NI4035950"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, SAN RAMON, C.P. 4035949","workZoneLabel":"4035949","travelArea":"NI","status":"active","keylabel":["NI4035949"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, SAN RAMON, C.P. 4035947","workZoneLabel":"4035947","travelArea":"NI","status":"active","keylabel":["NI4035947"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, SAN RAMON, C.P. 4035946","workZoneLabel":"4035946","travelArea":"NI","status":"active","keylabel":["NI4035946"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, SAN RAMON, C.P. 4035944","workZoneLabel":"4035944","travelArea":"NI","status":"active","keylabel":["NI4035944"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, SAN RAMON, C.P. 4035255","workZoneLabel":"4035255","travelArea":"NI","status":"active","keylabel":["NI4035255"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, SAN RAMON, C.P. 4035254","workZoneLabel":"4035254","travelArea":"NI","status":"active","keylabel":["NI4035254"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, SAN RAMON, C.P. 4035251","workZoneLabel":"4035251","travelArea":"NI","status":"active","keylabel":["NI4035251"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, MATAGALPA, C.P. 4030989","workZoneLabel":"4030989","travelArea":"NI","status":"active","keylabel":["NI4030989"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, MATAGALPA, C.P. 4030988","workZoneLabel":"4030988","travelArea":"NI","status":"active","keylabel":["NI4030988"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, MATAGALPA, C.P. 4030970","workZoneLabel":"4030970","travelArea":"NI","status":"active","keylabel":["NI4030970"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, MATAGALPA, C.P. 4030969","workZoneLabel":"4030969","travelArea":"NI","status":"active","keylabel":["NI4030969"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, MATAGALPA, C.P. 4030968","workZoneLabel":"4030968","travelArea":"NI","status":"active","keylabel":["NI4030968"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, MATAGALPA, C.P. 4030963","workZoneLabel":"4030963","travelArea":"NI","status":"active","keylabel":["NI4030963"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, MATAGALPA, C.P. 4030768","workZoneLabel":"4030768","travelArea":"NI","status":"active","keylabel":["NI4030768"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, PUEBLO VIEJO, C.P. 40304599","workZoneLabel":"40304599","travelArea":"NI","status":"active","keylabel":["NI40304599"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, MATAGALPA, C.P. 40304585","workZoneLabel":"40304585","travelArea":"NI","status":"active","keylabel":["NI40304585"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, MATAGALPA, C.P. 40304584","workZoneLabel":"40304584","travelArea":"NI","status":"active","keylabel":["NI40304584"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, MATAGALPA, C.P. 40304583","workZoneLabel":"40304583","travelArea":"NI","status":"active","keylabel":["NI40304583"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, MATAGALPA, C.P. 40304579","workZoneLabel":"40304579","travelArea":"NI","status":"active","keylabel":["NI40304579"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, MATAGALPA, C.P. 40304572","workZoneLabel":"40304572","travelArea":"NI","status":"active","keylabel":["NI40304572"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, SANTA EMILIA, C.P. 40304571","workZoneLabel":"40304571","travelArea":"NI","status":"active","keylabel":["NI40304571"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, MATAGALPA, C.P. 40304570","workZoneLabel":"40304570","travelArea":"NI","status":"active","keylabel":["NI40304570"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, MATAGALPA, C.P. 4030258","workZoneLabel":"4030258","travelArea":"NI","status":"active","keylabel":["NI4030258"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, MATAGALPA, C.P. 4030257","workZoneLabel":"4030257","travelArea":"NI","status":"active","keylabel":["NI4030257"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, MATAGALPA, C.P. 4030256","workZoneLabel":"4030256","travelArea":"NI","status":"active","keylabel":["NI4030256"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, MATAGALPA, C.P. 4030253","workZoneLabel":"4030253","travelArea":"NI","status":"active","keylabel":["NI4030253"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, MATAGALPA, C.P. 4030251","workZoneLabel":"4030251","travelArea":"NI","status":"active","keylabel":["NI4030251"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, MATAGALPA, C.P. 4030250","workZoneLabel":"4030250","travelArea":"NI","status":"active","keylabel":["NI4030250"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, MATAGALPA, C.P. 4030249","workZoneLabel":"4030249","travelArea":"NI","status":"active","keylabel":["NI4030249"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, MATAGALPA, C.P. 40301467","workZoneLabel":"40301467","travelArea":"NI","status":"active","keylabel":["NI40301467"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, MATAGALPA, C.P. 40301466","workZoneLabel":"40301466","travelArea":"NI","status":"active","keylabel":["NI40301466"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, MATAGALPA, C.P. 40301254","workZoneLabel":"40301254","travelArea":"NI","status":"active","keylabel":["NI40301254"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, SEBACO, C.P. 4025767","workZoneLabel":"4025767","travelArea":"NI","status":"active","keylabel":["NI4025767"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, SEBACO, C.P. 40254614","workZoneLabel":"40254614","travelArea":"NI","status":"active","keylabel":["NI40254614"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, SEBACO, C.P. 40254612","workZoneLabel":"40254612","travelArea":"NI","status":"active","keylabel":["NI40254612"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, QUEBRADA, C.P. 40254610","workZoneLabel":"40254610","travelArea":"NI","status":"active","keylabel":["NI40254610"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, SEBACO, C.P. 40251257","workZoneLabel":"40251257","travelArea":"NI","status":"active","keylabel":["NI40251257"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, SEBACO, C.P. 40251255","workZoneLabel":"40251255","travelArea":"NI","status":"active","keylabel":["NI40251255"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, SEBACO, C.P. 40251253","workZoneLabel":"40251253","travelArea":"NI","status":"active","keylabel":["NI40251253"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, SEBACO, C.P. 40251104","workZoneLabel":"40251104","travelArea":"NI","status":"active","keylabel":["NI40251104"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, SAN ISIDRO, C.P. 40201508","workZoneLabel":"40201508","travelArea":"NI","status":"active","keylabel":["NI40201508"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, SAN ISIDRO, C.P. 40201256","workZoneLabel":"40201256","travelArea":"NI","status":"active","keylabel":["NI40201256"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, SAN ISIDRO, C.P. 40201096","workZoneLabel":"40201096","travelArea":"NI","status":"active","keylabel":["NI40201096"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, EL TUMA - LA DALIA, C.P. 4015991","workZoneLabel":"4015991","travelArea":"NI","status":"active","keylabel":["NI4015991"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, EL TUMA - LA DALIA, C.P. 4015990","workZoneLabel":"4015990","travelArea":"NI","status":"active","keylabel":["NI4015990"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, EL TUMA - LA DALIA, C.P. 4015980","workZoneLabel":"4015980","travelArea":"NI","status":"active","keylabel":["NI4015980"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, EL TUMA - LA DALIA, C.P. 4015979","workZoneLabel":"4015979","travelArea":"NI","status":"active","keylabel":["NI4015979"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, EL TUMA - LA DALIA, C.P. 4015977","workZoneLabel":"4015977","travelArea":"NI","status":"active","keylabel":["NI4015977"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, EL TUMA - LA DALIA, C.P. 4015976","workZoneLabel":"4015976","travelArea":"NI","status":"active","keylabel":["NI4015976"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, EL TUMA - LA DALIA, C.P. 40151171","workZoneLabel":"40151171","travelArea":"NI","status":"active","keylabel":["NI40151171"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, EL TUMA - LA DALIA, C.P. 40151170","workZoneLabel":"40151170","travelArea":"NI","status":"active","keylabel":["NI40151170"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, EL TUMA - LA DALIA, C.P. 40151169","workZoneLabel":"40151169","travelArea":"NI","status":"active","keylabel":["NI40151169"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, EL TUMA - LA DALIA, C.P. 40151168","workZoneLabel":"40151168","travelArea":"NI","status":"active","keylabel":["NI40151168"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, EL TUMA - LA DALIA, C.P. 40151167","workZoneLabel":"40151167","travelArea":"NI","status":"active","keylabel":["NI40151167"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, EL TUMA - LA DALIA, C.P. 40151166","workZoneLabel":"40151166","travelArea":"NI","status":"active","keylabel":["NI40151166"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, EL TUMA - LA DALIA, C.P. 40151165","workZoneLabel":"40151165","travelArea":"NI","status":"active","keylabel":["NI40151165"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, EL TUMA - LA DALIA, C.P. 40151164","workZoneLabel":"40151164","travelArea":"NI","status":"active","keylabel":["NI40151164"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, EL TUMA - LA DALIA, C.P. 40151163","workZoneLabel":"40151163","travelArea":"NI","status":"active","keylabel":["NI40151163"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, EL TUMA - LA DALIA, C.P. 40151162","workZoneLabel":"40151162","travelArea":"NI","status":"active","keylabel":["NI40151162"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, RIO BLANCO, C.P. 4010785","workZoneLabel":"4010785","travelArea":"NI","status":"active","keylabel":["NI4010785"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, RIO BLANCO, C.P. 4010782","workZoneLabel":"4010782","travelArea":"NI","status":"active","keylabel":["NI4010782"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, RIO BLANCO, C.P. 4010781","workZoneLabel":"4010781","travelArea":"NI","status":"active","keylabel":["NI4010781"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, RIO BLANCO, C.P. 4010723","workZoneLabel":"4010723","travelArea":"NI","status":"active","keylabel":["NI4010723"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, RIO BLANCO, C.P. 4010582","workZoneLabel":"4010582","travelArea":"NI","status":"active","keylabel":["NI4010582"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, RIO BLANCO, C.P. 40104753","workZoneLabel":"40104753","travelArea":"NI","status":"active","keylabel":["NI40104753"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, RIO BLANCO, C.P. 40104745","workZoneLabel":"40104745","travelArea":"NI","status":"active","keylabel":["NI40104745"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, RIO BLANCO, C.P. 40104744","workZoneLabel":"40104744","travelArea":"NI","status":"active","keylabel":["NI40104744"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, RIO BLANCO, C.P. 40101934","workZoneLabel":"40101934","travelArea":"NI","status":"active","keylabel":["NI40101934"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, RIO BLANCO, C.P. 40101932","workZoneLabel":"40101932","travelArea":"NI","status":"active","keylabel":["NI40101932"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, RIO BLANCO, C.P. 40101436","workZoneLabel":"40101436","travelArea":"NI","status":"active","keylabel":["NI40101436"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, RIO BLANCO, C.P. 40101421","workZoneLabel":"40101421","travelArea":"NI","status":"active","keylabel":["NI40101421"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, RIO BLANCO, C.P. 40101420","workZoneLabel":"40101420","travelArea":"NI","status":"active","keylabel":["NI40101420"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, RANCHO GRANDE, C.P. 4005984","workZoneLabel":"4005984","travelArea":"NI","status":"active","keylabel":["NI4005984"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, RANCHO GRANDE, C.P. 4005983","workZoneLabel":"4005983","travelArea":"NI","status":"active","keylabel":["NI4005983"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, RANCHO GRANDE, C.P. 4005982","workZoneLabel":"4005982","travelArea":"NI","status":"active","keylabel":["NI4005982"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, RANCHO GRANDE, C.P. 4005981","workZoneLabel":"4005981","travelArea":"NI","status":"active","keylabel":["NI4005981"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, RANCHO GRANDE, C.P. 4005978","workZoneLabel":"4005978","travelArea":"NI","status":"active","keylabel":["NI4005978"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, RANCHO GRANDE, C.P. 4005719","workZoneLabel":"4005719","travelArea":"NI","status":"active","keylabel":["NI4005719"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, EL TUMA, C.P. 40054772","workZoneLabel":"40054772","travelArea":"NI","status":"active","keylabel":["NI40054772"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, TUMA-LA DALIA, C.P. 40054763","workZoneLabel":"40054763","travelArea":"NI","status":"active","keylabel":["NI40054763"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, RANCHO GRANDE, C.P. 40051990","workZoneLabel":"40051990","travelArea":"NI","status":"active","keylabel":["NI40051990"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, RANCHO GRANDE, C.P. 40051989","workZoneLabel":"40051989","travelArea":"NI","status":"active","keylabel":["NI40051989"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, RANCHO GRANDE, C.P. 40051426","workZoneLabel":"40051426","travelArea":"NI","status":"active","keylabel":["NI40051426"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, RANCHO GRANDE, C.P. 40051424","workZoneLabel":"40051424","travelArea":"NI","status":"active","keylabel":["NI40051424"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, RANCHO GRANDE, C.P. 40051422","workZoneLabel":"40051422","travelArea":"NI","status":"active","keylabel":["NI40051422"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MATAGALPA, RANCHO GRANDE, C.P. 40051172","workZoneLabel":"40051172","travelArea":"NI","status":"active","keylabel":["NI40051172"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, NAGAROTE, C.P. 3550647","workZoneLabel":"3550647","travelArea":"NI","status":"active","keylabel":["NI3550647"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, NAGAROTE, C.P. 3550646","workZoneLabel":"3550646","travelArea":"NI","status":"active","keylabel":["NI3550646"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, NAGAROTE, C.P. 3550645","workZoneLabel":"3550645","travelArea":"NI","status":"active","keylabel":["NI3550645"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, NAGAROTE, C.P. 3550642","workZoneLabel":"3550642","travelArea":"NI","status":"active","keylabel":["NI3550642"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, NAGAROTE, C.P. 3550641","workZoneLabel":"3550641","travelArea":"NI","status":"active","keylabel":["NI3550641"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, NAGAROTE, C.P. 3550640","workZoneLabel":"3550640","travelArea":"NI","status":"active","keylabel":["NI3550640"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, NAGAROTE, C.P. 3550639","workZoneLabel":"3550639","travelArea":"NI","status":"active","keylabel":["NI3550639"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, NAGAROTE, C.P. 3550638","workZoneLabel":"3550638","travelArea":"NI","status":"active","keylabel":["NI3550638"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, NAGAROTE, C.P. 35504568","workZoneLabel":"35504568","travelArea":"NI","status":"active","keylabel":["NI35504568"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, NAGAROTE, C.P. 35504567","workZoneLabel":"35504567","travelArea":"NI","status":"active","keylabel":["NI35504567"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, NAGAROTE, C.P. 35504565","workZoneLabel":"35504565","travelArea":"NI","status":"active","keylabel":["NI35504565"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, NAGAROTE, C.P. 35504563","workZoneLabel":"35504563","travelArea":"NI","status":"active","keylabel":["NI35504563"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"GRANADA, NAGATE, C.P. 35504554","workZoneLabel":"35504554","travelArea":"NI","status":"active","keylabel":["NI35504554"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, NAGAROTE, C.P. 35504541","workZoneLabel":"35504541","travelArea":"NI","status":"active","keylabel":["NI35504541"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, NAGAROTE, C.P. 35501353","workZoneLabel":"35501353","travelArea":"NI","status":"active","keylabel":["NI35501353"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, NAGAROTE, C.P. 35501352","workZoneLabel":"35501352","travelArea":"NI","status":"active","keylabel":["NI35501352"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, NAGAROTE, C.P. 35501351","workZoneLabel":"35501351","travelArea":"NI","status":"active","keylabel":["NI35501351"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, NAGAROTE, C.P. 35501350","workZoneLabel":"35501350","travelArea":"NI","status":"active","keylabel":["NI35501350"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, NAGAROTE, C.P. 35501349","workZoneLabel":"35501349","travelArea":"NI","status":"active","keylabel":["NI35501349"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, NAGAROTE, C.P. 35501348","workZoneLabel":"35501348","travelArea":"NI","status":"active","keylabel":["NI35501348"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, NAGAROTE, C.P. 35501346","workZoneLabel":"35501346","travelArea":"NI","status":"active","keylabel":["NI35501346"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, NAGAROTE, C.P. 35501345","workZoneLabel":"35501345","travelArea":"NI","status":"active","keylabel":["NI35501345"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, LA PAZ CENTRO, C.P. 3545658","workZoneLabel":"3545658","travelArea":"NI","status":"active","keylabel":["NI3545658"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, LA PAZ CENTRO, C.P. 3545657","workZoneLabel":"3545657","travelArea":"NI","status":"active","keylabel":["NI3545657"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, LA PAZ CENTRO, C.P. 35454541","workZoneLabel":"35454541","travelArea":"NI","status":"active","keylabel":["NI35454541"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, LA PAZ CENTRO, C.P. 35454527","workZoneLabel":"35454527","travelArea":"NI","status":"active","keylabel":["NI35454527"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MANAGUA, MANAGUA, C.P. 35454522","workZoneLabel":"35454522","travelArea":"NI","status":"active","keylabel":["NI35454522"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, LA PAZ CENTRO, C.P. 35454513","workZoneLabel":"35454513","travelArea":"NI","status":"active","keylabel":["NI35454513"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, LA PAZ CENTRO, C.P. 35451689","workZoneLabel":"35451689","travelArea":"NI","status":"active","keylabel":["NI35451689"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, LA PAZ CENTRO, C.P. 35451688","workZoneLabel":"35451688","travelArea":"NI","status":"active","keylabel":["NI35451688"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, LA PAZ CENTRO, C.P. 35451678","workZoneLabel":"35451678","travelArea":"NI","status":"active","keylabel":["NI35451678"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, LA PAZ CENTRO, C.P. 35451344","workZoneLabel":"35451344","travelArea":"NI","status":"active","keylabel":["NI35451344"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, LA PAZ CENTRO, C.P. 35451343","workZoneLabel":"35451343","travelArea":"NI","status":"active","keylabel":["NI35451343"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, LA PAZ CENTRO, C.P. 35451342","workZoneLabel":"35451342","travelArea":"NI","status":"active","keylabel":["NI35451342"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, LA PAZ CENTRO, C.P. 35451341","workZoneLabel":"35451341","travelArea":"NI","status":"active","keylabel":["NI35451341"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, LA PAZ CENTRO, C.P. 35451340","workZoneLabel":"35451340","travelArea":"NI","status":"active","keylabel":["NI35451340"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, LA PAZ CENTRO, C.P. 35451220","workZoneLabel":"35451220","travelArea":"NI","status":"active","keylabel":["NI35451220"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, LEON, C.P. 3540656","workZoneLabel":"3540656","travelArea":"NI","status":"active","keylabel":["NI3540656"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, LEON, C.P. 3540655","workZoneLabel":"3540655","travelArea":"NI","status":"active","keylabel":["NI3540655"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, LEON, C.P. 3540653","workZoneLabel":"3540653","travelArea":"NI","status":"active","keylabel":["NI3540653"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, LEON, C.P. 3540616","workZoneLabel":"3540616","travelArea":"NI","status":"active","keylabel":["NI3540616"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, LEON, C.P. 3540613","workZoneLabel":"3540613","travelArea":"NI","status":"active","keylabel":["NI3540613"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, LEON, C.P. 3540599","workZoneLabel":"3540599","travelArea":"NI","status":"active","keylabel":["NI3540599"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, LEON, C.P. 3540597","workZoneLabel":"3540597","travelArea":"NI","status":"active","keylabel":["NI3540597"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, LEON, C.P. 3540596","workZoneLabel":"3540596","travelArea":"NI","status":"active","keylabel":["NI3540596"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, LEON, C.P. 3540594","workZoneLabel":"3540594","travelArea":"NI","status":"active","keylabel":["NI3540594"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, LEON, C.P. 35404417","workZoneLabel":"35404417","travelArea":"NI","status":"active","keylabel":["NI35404417"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MANAGUA, MANAGUA, C.P. 35404410","workZoneLabel":"35404410","travelArea":"NI","status":"active","keylabel":["NI35404410"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, PONELOYA, C.P. 35404407","workZoneLabel":"35404407","travelArea":"NI","status":"active","keylabel":["NI35404407"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, LEON, C.P. 35404386","workZoneLabel":"35404386","travelArea":"NI","status":"active","keylabel":["NI35404386"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, LEON, C.P. 3540438","workZoneLabel":"3540438","travelArea":"NI","status":"active","keylabel":["NI3540438"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, LEON, C.P. 35401663","workZoneLabel":"35401663","travelArea":"NI","status":"active","keylabel":["NI35401663"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, LEON, C.P. 35401662","workZoneLabel":"35401662","travelArea":"NI","status":"active","keylabel":["NI35401662"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, LEON, C.P. 35401661","workZoneLabel":"35401661","travelArea":"NI","status":"active","keylabel":["NI35401661"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, LEON, C.P. 35401660","workZoneLabel":"35401660","travelArea":"NI","status":"active","keylabel":["NI35401660"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, LEON, C.P. 35401659","workZoneLabel":"35401659","travelArea":"NI","status":"active","keylabel":["NI35401659"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, LEON, C.P. 35401658","workZoneLabel":"35401658","travelArea":"NI","status":"active","keylabel":["NI35401658"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, LEON, C.P. 35401657","workZoneLabel":"35401657","travelArea":"NI","status":"active","keylabel":["NI35401657"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, LEON, C.P. 35401656","workZoneLabel":"35401656","travelArea":"NI","status":"active","keylabel":["NI35401656"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, LEON, C.P. 35401655","workZoneLabel":"35401655","travelArea":"NI","status":"active","keylabel":["NI35401655"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, LEON, C.P. 35401653","workZoneLabel":"35401653","travelArea":"NI","status":"active","keylabel":["NI35401653"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, LEON, C.P. 35401652","workZoneLabel":"35401652","travelArea":"NI","status":"active","keylabel":["NI35401652"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, LEON, C.P. 35401651","workZoneLabel":"35401651","travelArea":"NI","status":"active","keylabel":["NI35401651"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, LEON, C.P. 35401650","workZoneLabel":"35401650","travelArea":"NI","status":"active","keylabel":["NI35401650"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, LEON, C.P. 35401649","workZoneLabel":"35401649","travelArea":"NI","status":"active","keylabel":["NI35401649"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, LEON, C.P. 35401339","workZoneLabel":"35401339","travelArea":"NI","status":"active","keylabel":["NI35401339"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, LEON, C.P. 35401338","workZoneLabel":"35401338","travelArea":"NI","status":"active","keylabel":["NI35401338"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, QUEZALGUAQUE, C.P. 3535609","workZoneLabel":"3535609","travelArea":"NI","status":"active","keylabel":["NI3535609"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, QUEZALGUAQUE, C.P. 3535608","workZoneLabel":"3535608","travelArea":"NI","status":"active","keylabel":["NI3535608"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, QUEZALGUAQUE, C.P. 3535607","workZoneLabel":"3535607","travelArea":"NI","status":"active","keylabel":["NI3535607"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, MALPAISILLO, C.P. 35354457","workZoneLabel":"35354457","travelArea":"NI","status":"active","keylabel":["NI35354457"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, MALPAISILLO, C.P. 35354433","workZoneLabel":"35354433","travelArea":"NI","status":"active","keylabel":["NI35354433"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, QUEZALGUAQUE, C.P. 35351654","workZoneLabel":"35351654","travelArea":"NI","status":"active","keylabel":["NI35351654"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, QUEZALGUAQUE, C.P. 35351648","workZoneLabel":"35351648","travelArea":"NI","status":"active","keylabel":["NI35351648"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, TELICA, C.P. 3530618","workZoneLabel":"3530618","travelArea":"NI","status":"active","keylabel":["NI3530618"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, TELICA, C.P. 3530617","workZoneLabel":"3530617","travelArea":"NI","status":"active","keylabel":["NI3530617"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, TELICA, C.P. 3530614","workZoneLabel":"3530614","travelArea":"NI","status":"active","keylabel":["NI3530614"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, TELICA, C.P. 3530612","workZoneLabel":"3530612","travelArea":"NI","status":"active","keylabel":["NI3530612"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, TELICA, C.P. 3530611","workZoneLabel":"3530611","travelArea":"NI","status":"active","keylabel":["NI3530611"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, TELICA, C.P. 3530610","workZoneLabel":"3530610","travelArea":"NI","status":"active","keylabel":["NI3530610"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, TELICA, C.P. 35304428","workZoneLabel":"35304428","travelArea":"NI","status":"active","keylabel":["NI35304428"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, TELICA, C.P. 35304427","workZoneLabel":"35304427","travelArea":"NI","status":"active","keylabel":["NI35304427"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, LEON, C.P. 35304423","workZoneLabel":"35304423","travelArea":"NI","status":"active","keylabel":["NI35304423"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, TELICA, C.P. 35301668","workZoneLabel":"35301668","travelArea":"NI","status":"active","keylabel":["NI35301668"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, TELICA, C.P. 35301667","workZoneLabel":"35301667","travelArea":"NI","status":"active","keylabel":["NI35301667"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, TELICA, C.P. 35301336","workZoneLabel":"35301336","travelArea":"NI","status":"active","keylabel":["NI35301336"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, TELICA, C.P. 35301335","workZoneLabel":"35301335","travelArea":"NI","status":"active","keylabel":["NI35301335"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, TELICA, C.P. 35301334","workZoneLabel":"35301334","travelArea":"NI","status":"active","keylabel":["NI35301334"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, LARREYNAGA, C.P. 3525689","workZoneLabel":"3525689","travelArea":"NI","status":"active","keylabel":["NI3525689"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, LARREYNAGA, C.P. 3525685","workZoneLabel":"3525685","travelArea":"NI","status":"active","keylabel":["NI3525685"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, LARREYNAGA, C.P. 3525684","workZoneLabel":"3525684","travelArea":"NI","status":"active","keylabel":["NI3525684"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, LARREYNAGA, C.P. 3525683","workZoneLabel":"3525683","travelArea":"NI","status":"active","keylabel":["NI3525683"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, LEON, C.P. 35254418","workZoneLabel":"35254418","travelArea":"NI","status":"active","keylabel":["NI35254418"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, LARREYNAGA, C.P. 35251686","workZoneLabel":"35251686","travelArea":"NI","status":"active","keylabel":["NI35251686"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, LARREYNAGA, C.P. 35251685","workZoneLabel":"35251685","travelArea":"NI","status":"active","keylabel":["NI35251685"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, LARREYNAGA, C.P. 35251684","workZoneLabel":"35251684","travelArea":"NI","status":"active","keylabel":["NI35251684"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, LARREYNAGA, C.P. 35251683","workZoneLabel":"35251683","travelArea":"NI","status":"active","keylabel":["NI35251683"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, LARREYNAGA, C.P. 35251682","workZoneLabel":"35251682","travelArea":"NI","status":"active","keylabel":["NI35251682"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, LARREYNAGA, C.P. 35251681","workZoneLabel":"35251681","travelArea":"NI","status":"active","keylabel":["NI35251681"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, LARREYNAGA, C.P. 35251680","workZoneLabel":"35251680","travelArea":"NI","status":"active","keylabel":["NI35251680"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, LARREYNAGA, C.P. 35251679","workZoneLabel":"35251679","travelArea":"NI","status":"active","keylabel":["NI35251679"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, LARREYNAGA, C.P. 35251677","workZoneLabel":"35251677","travelArea":"NI","status":"active","keylabel":["NI35251677"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, LARREYNAGA, C.P. 35251676","workZoneLabel":"35251676","travelArea":"NI","status":"active","keylabel":["NI35251676"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, LARREYNAGA, C.P. 35251675","workZoneLabel":"35251675","travelArea":"NI","status":"active","keylabel":["NI35251675"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, LARREYNAGA, C.P. 35251674","workZoneLabel":"35251674","travelArea":"NI","status":"active","keylabel":["NI35251674"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, LARREYNAGA, C.P. 35251673","workZoneLabel":"35251673","travelArea":"NI","status":"active","keylabel":["NI35251673"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, LARREYNAGA, C.P. 35251672","workZoneLabel":"35251672","travelArea":"NI","status":"active","keylabel":["NI35251672"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, LARREYNAGA, C.P. 35251671","workZoneLabel":"35251671","travelArea":"NI","status":"active","keylabel":["NI35251671"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, LARREYNAGA, C.P. 35251670","workZoneLabel":"35251670","travelArea":"NI","status":"active","keylabel":["NI35251670"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, LARREYNAGA, C.P. 35251669","workZoneLabel":"35251669","travelArea":"NI","status":"active","keylabel":["NI35251669"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, LARREYNAGA, C.P. 35251519","workZoneLabel":"35251519","travelArea":"NI","status":"active","keylabel":["NI35251519"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, EL JICARAL, C.P. 35204497","workZoneLabel":"35204497","travelArea":"NI","status":"active","keylabel":["NI35204497"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, JICARAL, C.P. 35201529","workZoneLabel":"35201529","travelArea":"NI","status":"active","keylabel":["NI35201529"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, JICARAL, C.P. 35201524","workZoneLabel":"35201524","travelArea":"NI","status":"active","keylabel":["NI35201524"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, JICARAL, C.P. 35201523","workZoneLabel":"35201523","travelArea":"NI","status":"active","keylabel":["NI35201523"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, JICARAL, C.P. 35201522","workZoneLabel":"35201522","travelArea":"NI","status":"active","keylabel":["NI35201522"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, JICARAL, C.P. 35201521","workZoneLabel":"35201521","travelArea":"NI","status":"active","keylabel":["NI35201521"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, JICARAL, C.P. 35201520","workZoneLabel":"35201520","travelArea":"NI","status":"active","keylabel":["NI35201520"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, JICARAL, C.P. 35201518","workZoneLabel":"35201518","travelArea":"NI","status":"active","keylabel":["NI35201518"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, JICARAL, C.P. 35201516","workZoneLabel":"35201516","travelArea":"NI","status":"active","keylabel":["NI35201516"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, JICARAL, C.P. 35201269","workZoneLabel":"35201269","travelArea":"NI","status":"active","keylabel":["NI35201269"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, JICARAL, C.P. 35201267","workZoneLabel":"35201267","travelArea":"NI","status":"active","keylabel":["NI35201267"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, JICARAL, C.P. 35201265","workZoneLabel":"35201265","travelArea":"NI","status":"active","keylabel":["NI35201265"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, JICARAL, C.P. 35201264","workZoneLabel":"35201264","travelArea":"NI","status":"active","keylabel":["NI35201264"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, JICARAL, C.P. 35201263","workZoneLabel":"35201263","travelArea":"NI","status":"active","keylabel":["NI35201263"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, JICARAL, C.P. 35201261","workZoneLabel":"35201261","travelArea":"NI","status":"active","keylabel":["NI35201261"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, JICARAL, C.P. 35201260","workZoneLabel":"35201260","travelArea":"NI","status":"active","keylabel":["NI35201260"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, JICARAL, C.P. 35201259","workZoneLabel":"35201259","travelArea":"NI","status":"active","keylabel":["NI35201259"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, SANTA ROSA DEL PEÑON, C.P. 35154489","workZoneLabel":"35154489","travelArea":"NI","status":"active","keylabel":["NI35154489"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, SANTA ROSA DEL PEÑON, C.P. 35154488","workZoneLabel":"35154488","travelArea":"NI","status":"active","keylabel":["NI35154488"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, SANTA ROSA DEL PENON, C.P. 35151513","workZoneLabel":"35151513","travelArea":"NI","status":"active","keylabel":["NI35151513"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, SANTA ROSA DEL PENON, C.P. 35151512","workZoneLabel":"35151512","travelArea":"NI","status":"active","keylabel":["NI35151512"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, SANTA ROSA DEL PENON, C.P. 35151511","workZoneLabel":"35151511","travelArea":"NI","status":"active","keylabel":["NI35151511"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, SANTA ROSA DEL PENON, C.P. 35151507","workZoneLabel":"35151507","travelArea":"NI","status":"active","keylabel":["NI35151507"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, SANTA ROSA DEL PENON, C.P. 35151506","workZoneLabel":"35151506","travelArea":"NI","status":"active","keylabel":["NI35151506"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, EL SAUCE, C.P. 3510688","workZoneLabel":"3510688","travelArea":"NI","status":"active","keylabel":["NI3510688"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, EL SAUCE, C.P. 3510687","workZoneLabel":"3510687","travelArea":"NI","status":"active","keylabel":["NI3510687"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, EL SAUCE, C.P. 3510637","workZoneLabel":"3510637","travelArea":"NI","status":"active","keylabel":["NI3510637"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, EL SAUCE, C.P. 3510636","workZoneLabel":"3510636","travelArea":"NI","status":"active","keylabel":["NI3510636"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, EL SAUCE, C.P. 3510635","workZoneLabel":"3510635","travelArea":"NI","status":"active","keylabel":["NI3510635"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, EL SAUCE, C.P. 3510634","workZoneLabel":"3510634","travelArea":"NI","status":"active","keylabel":["NI3510634"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, EL SAUCE, C.P. 3510633","workZoneLabel":"3510633","travelArea":"NI","status":"active","keylabel":["NI3510633"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, EL SAUCE, C.P. 3510632","workZoneLabel":"3510632","travelArea":"NI","status":"active","keylabel":["NI3510632"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, EL SAUCE, C.P. 3510631","workZoneLabel":"3510631","travelArea":"NI","status":"active","keylabel":["NI3510631"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, EL SAUCE, C.P. 3510630","workZoneLabel":"3510630","travelArea":"NI","status":"active","keylabel":["NI3510630"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, EL SAUCE, C.P. 3510629","workZoneLabel":"3510629","travelArea":"NI","status":"active","keylabel":["NI3510629"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, EL SAUCE, C.P. 3510628","workZoneLabel":"3510628","travelArea":"NI","status":"active","keylabel":["NI3510628"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, EL SAUCE, C.P. 3510627","workZoneLabel":"3510627","travelArea":"NI","status":"active","keylabel":["NI3510627"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, EL SAUCE, C.P. 3510626","workZoneLabel":"3510626","travelArea":"NI","status":"active","keylabel":["NI3510626"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, EL SAUCE, C.P. 3510624","workZoneLabel":"3510624","travelArea":"NI","status":"active","keylabel":["NI3510624"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, EL SAUCE, C.P. 3510623","workZoneLabel":"3510623","travelArea":"NI","status":"active","keylabel":["NI3510623"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, EL SAUCE, C.P. 3510622","workZoneLabel":"3510622","travelArea":"NI","status":"active","keylabel":["NI3510622"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, EL SAUCE, C.P. 3510621","workZoneLabel":"3510621","travelArea":"NI","status":"active","keylabel":["NI3510621"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, EL SAUCE, C.P. 3510620","workZoneLabel":"3510620","travelArea":"NI","status":"active","keylabel":["NI3510620"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, EL SAUCE, C.P. 35104459","workZoneLabel":"35104459","travelArea":"NI","status":"active","keylabel":["NI35104459"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, EL SAUCE, C.P. 35101517","workZoneLabel":"35101517","travelArea":"NI","status":"active","keylabel":["NI35101517"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, EL SAUCE, C.P. 35101515","workZoneLabel":"35101515","travelArea":"NI","status":"active","keylabel":["NI35101515"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, EL SAUCE, C.P. 35101510","workZoneLabel":"35101510","travelArea":"NI","status":"active","keylabel":["NI35101510"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, EL SAUCE, C.P. 35101509","workZoneLabel":"35101509","travelArea":"NI","status":"active","keylabel":["NI35101509"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, EL SAUCE, C.P. 35101505","workZoneLabel":"35101505","travelArea":"NI","status":"active","keylabel":["NI35101505"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, ACHUAPA, C.P. 3505625","workZoneLabel":"3505625","travelArea":"NI","status":"active","keylabel":["NI3505625"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, SARAGOZA, C.P. 35051648","workZoneLabel":"35051648","travelArea":"NI","status":"active","keylabel":["NI35051648"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, ACHUAPA, C.P. 35051647","workZoneLabel":"35051647","travelArea":"NI","status":"active","keylabel":["NI35051647"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, ACHUAPA, C.P. 35051645","workZoneLabel":"35051645","travelArea":"NI","status":"active","keylabel":["NI35051645"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, ACHUAPA, C.P. 35051644","workZoneLabel":"35051644","travelArea":"NI","status":"active","keylabel":["NI35051644"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, ACHUAPA, C.P. 35051643","workZoneLabel":"35051643","travelArea":"NI","status":"active","keylabel":["NI35051643"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, ACHUAPA, C.P. 35051642","workZoneLabel":"35051642","travelArea":"NI","status":"active","keylabel":["NI35051642"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, ACHUAPA, C.P. 35051639","workZoneLabel":"35051639","travelArea":"NI","status":"active","keylabel":["NI35051639"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, ACHUAPA, C.P. 35051638","workZoneLabel":"35051638","travelArea":"NI","status":"active","keylabel":["NI35051638"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, ACHUAPA, C.P. 35051637","workZoneLabel":"35051637","travelArea":"NI","status":"active","keylabel":["NI35051637"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, ACHUAPA, C.P. 35051635","workZoneLabel":"35051635","travelArea":"NI","status":"active","keylabel":["NI35051635"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, ACHUAPA, C.P. 35051634","workZoneLabel":"35051634","travelArea":"NI","status":"active","keylabel":["NI35051634"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, ACHUAPA, C.P. 35051633","workZoneLabel":"35051633","travelArea":"NI","status":"active","keylabel":["NI35051633"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, ACHUAPA, C.P. 35051632","workZoneLabel":"35051632","travelArea":"NI","status":"active","keylabel":["NI35051632"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, ACHUAPA, C.P. 35051631","workZoneLabel":"35051631","travelArea":"NI","status":"active","keylabel":["NI35051631"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, ACHUAPA, C.P. 35051630","workZoneLabel":"35051630","travelArea":"NI","status":"active","keylabel":["NI35051630"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, ACHUAPA, C.P. 35051629","workZoneLabel":"35051629","travelArea":"NI","status":"active","keylabel":["NI35051629"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, ACHUAPA, C.P. 35051628","workZoneLabel":"35051628","travelArea":"NI","status":"active","keylabel":["NI35051628"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, ACHUAPA, C.P. 35051627","workZoneLabel":"35051627","travelArea":"NI","status":"active","keylabel":["NI35051627"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, ACHUAPA, C.P. 35051626","workZoneLabel":"35051626","travelArea":"NI","status":"active","keylabel":["NI35051626"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, ACHUAPA, C.P. 35051625","workZoneLabel":"35051625","travelArea":"NI","status":"active","keylabel":["NI35051625"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"LEON, ACHUAPA, C.P. 35051624","workZoneLabel":"35051624","travelArea":"NI","status":"active","keylabel":["NI35051624"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"CHINANDEGA, SANTO THOMAS DEL NORTE, C.P. 30704384","workZoneLabel":"30704384","travelArea":"NI","status":"active","keylabel":["NI30704384"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"CHINANDEGA, POSOLTEGA, C.P. 3065606","workZoneLabel":"3065606","travelArea":"NI","status":"active","keylabel":["NI3065606"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"CHINANDEGA, POSOLTEGA, C.P. 3065605","workZoneLabel":"3065605","travelArea":"NI","status":"active","keylabel":["NI3065605"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"CHINANDEGA, POSOLTEGA, C.P. 3065604","workZoneLabel":"3065604","travelArea":"NI","status":"active","keylabel":["NI3065604"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"CHINANDEGA, POSOLTEGA, C.P. 3065602","workZoneLabel":"3065602","travelArea":"NI","status":"active","keylabel":["NI3065602"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"CHINANDEGA, POSOLTEGA, C.P. 30654289","workZoneLabel":"30654289","travelArea":"NI","status":"active","keylabel":["NI30654289"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"CHINANDEGA, CHICHIGALPA, C.P. 3060595","workZoneLabel":"3060595","travelArea":"NI","status":"active","keylabel":["NI3060595"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"CHINANDEGA, CHICHIGALPA, C.P. 3060593","workZoneLabel":"3060593","travelArea":"NI","status":"active","keylabel":["NI3060593"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"CHINANDEGA, CHICHIGALPA, C.P. 3060592","workZoneLabel":"3060592","travelArea":"NI","status":"active","keylabel":["NI3060592"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"CHINANDEGA, CHICHIGALPA, C.P. 3060591","workZoneLabel":"3060591","travelArea":"NI","status":"active","keylabel":["NI3060591"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"CHINANDEGA, CHICHIGALPA, C.P. 3060590","workZoneLabel":"3060590","travelArea":"NI","status":"active","keylabel":["NI3060590"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"CHINANDEGA, CHINANDEGA, C.P. 30604263","workZoneLabel":"30604263","travelArea":"NI","status":"active","keylabel":["NI30604263"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"CHINANDEGA, CHICHIGALPA, C.P. 30601739","workZoneLabel":"30601739","travelArea":"NI","status":"active","keylabel":["NI30601739"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"CHINANDEGA, CHICHIGALPA, C.P. 30601738","workZoneLabel":"30601738","travelArea":"NI","status":"active","keylabel":["NI30601738"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"CHINANDEGA, CHICHIGALPA, C.P. 30601737","workZoneLabel":"30601737","travelArea":"NI","status":"active","keylabel":["NI30601737"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"CHINANDEGA, CHICHIGALPA, C.P. 30601736","workZoneLabel":"30601736","travelArea":"NI","status":"active","keylabel":["NI30601736"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"CHINANDEGA, CHICHIGALPA, C.P. 30601735","workZoneLabel":"30601735","travelArea":"NI","status":"active","keylabel":["NI30601735"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"CHINANDEGA, TONALA, C.P. 30554349","workZoneLabel":"30554349","travelArea":"NI","status":"active","keylabel":["NI30554349"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"CHINANDEGA, TONALA, C.P. 30554345","workZoneLabel":"30554345","travelArea":"NI","status":"active","keylabel":["NI30554345"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"CHINANDEGA, REALEJO, C.P. 30504299","workZoneLabel":"30504299","travelArea":"NI","status":"active","keylabel":["NI30504299"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"CHINANDEGA, REALEJO, C.P. 30504295","workZoneLabel":"30504295","travelArea":"NI","status":"active","keylabel":["NI30504295"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"CHINANDEGA, EL REALEJO, C.P. 30501722","workZoneLabel":"30501722","travelArea":"NI","status":"active","keylabel":["NI30501722"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"CHINANDEGA, EL REALEJO, C.P. 30501721","workZoneLabel":"30501721","travelArea":"NI","status":"active","keylabel":["NI30501721"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"CHINANDEGA, EL REALEJO, C.P. 30501718","workZoneLabel":"30501718","travelArea":"NI","status":"active","keylabel":["NI30501718"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"CHINANDEGA, EL REALEJO, C.P. 30501715","workZoneLabel":"30501715","travelArea":"NI","status":"active","keylabel":["NI30501715"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"CHINANDEGA, CHINANDEGA, C.P. 3045681","workZoneLabel":"3045681","travelArea":"NI","status":"active","keylabel":["NI3045681"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"CHINANDEGA, CHINANDEGA, C.P. 3045674","workZoneLabel":"3045674","travelArea":"NI","status":"active","keylabel":["NI3045674"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"CHINANDEGA, CHINANDEGA, C.P. 30454272","workZoneLabel":"30454272","travelArea":"NI","status":"active","keylabel":["NI30454272"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"CHINANDEGA, CHINANDEGA, C.P. 30451734","workZoneLabel":"30451734","travelArea":"NI","status":"active","keylabel":["NI30451734"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"CHINANDEGA, CHINANDEGA, C.P. 30451733","workZoneLabel":"30451733","travelArea":"NI","status":"active","keylabel":["NI30451733"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"CHINANDEGA, CHINANDEGA, C.P. 30451732","workZoneLabel":"30451732","travelArea":"NI","status":"active","keylabel":["NI30451732"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"CHINANDEGA, CHINANDEGA, C.P. 30451731","workZoneLabel":"30451731","travelArea":"NI","status":"active","keylabel":["NI30451731"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"CHINANDEGA, CHINANDEGA, C.P. 30451730","workZoneLabel":"30451730","travelArea":"NI","status":"active","keylabel":["NI30451730"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"CHINANDEGA, CHINANDEGA, C.P. 30451729","workZoneLabel":"30451729","travelArea":"NI","status":"active","keylabel":["NI30451729"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"CHINANDEGA, CHINANDEGA, C.P. 30451728","workZoneLabel":"30451728","travelArea":"NI","status":"active","keylabel":["NI30451728"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"CHINANDEGA, CHINANDEGA, C.P. 30451727","workZoneLabel":"30451727","travelArea":"NI","status":"active","keylabel":["NI30451727"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"CHINANDEGA, CHINANDEGA, C.P. 30451723","workZoneLabel":"30451723","travelArea":"NI","status":"active","keylabel":["NI30451723"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"CHINANDEGA, CHINANDEGA, C.P. 30451720","workZoneLabel":"30451720","travelArea":"NI","status":"active","keylabel":["NI30451720"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"CHINANDEGA, CHINANDEGA, C.P. 30451719","workZoneLabel":"30451719","travelArea":"NI","status":"active","keylabel":["NI30451719"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"CHINANDEGA, VILLANUEVA, C.P. 3040619","workZoneLabel":"3040619","travelArea":"NI","status":"active","keylabel":["NI3040619"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"CHINANDEGA, VILLA NUEVA, C.P. 30404361","workZoneLabel":"30404361","travelArea":"NI","status":"active","keylabel":["NI30404361"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"CHINANDEGA, VILLANUEVA, C.P. 30401333","workZoneLabel":"30401333","travelArea":"NI","status":"active","keylabel":["NI30401333"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"CHINANDEGA, VILLANUEVA, C.P. 30401331","workZoneLabel":"30401331","travelArea":"NI","status":"active","keylabel":["NI30401331"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"CHINANDEGA, VILLANUEVA, C.P. 30401330","workZoneLabel":"30401330","travelArea":"NI","status":"active","keylabel":["NI30401330"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"CHINANDEGA, VILLANUEVA, C.P. 30401329","workZoneLabel":"30401329","travelArea":"NI","status":"active","keylabel":["NI30401329"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"CHINANDEGA, VILLANUEVA, C.P. 30401327","workZoneLabel":"30401327","travelArea":"NI","status":"active","keylabel":["NI30401327"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"CHINANDEGA, VILLANUEVA, C.P. 30401326","workZoneLabel":"30401326","travelArea":"NI","status":"active","keylabel":["NI30401326"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"CHINANDEGA, VILLANUEVA, C.P. 30401317","workZoneLabel":"30401317","travelArea":"NI","status":"active","keylabel":["NI30401317"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"CHINANDEGA, VILLANUEVA, C.P. 30401316","workZoneLabel":"30401316","travelArea":"NI","status":"active","keylabel":["NI30401316"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"CHINANDEGA, VILLANUEVA, C.P. 30401315","workZoneLabel":"30401315","travelArea":"NI","status":"active","keylabel":["NI30401315"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"CHINANDEGA, VILLANUEVA, C.P. 30401314","workZoneLabel":"30401314","travelArea":"NI","status":"active","keylabel":["NI30401314"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"CHINANDEGA, SOMOTILLO, C.P. 30354356","workZoneLabel":"30354356","travelArea":"NI","status":"active","keylabel":["NI30354356"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"CHINANDEGA, SOMOTILLO, C.P. 30354352","workZoneLabel":"30354352","travelArea":"NI","status":"active","keylabel":["NI30354352"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"CHINANDEGA, SOMOTILLO, C.P. 30351325","workZoneLabel":"30351325","travelArea":"NI","status":"active","keylabel":["NI30351325"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"CHINANDEGA, SOMOTILLO, C.P. 30351323","workZoneLabel":"30351323","travelArea":"NI","status":"active","keylabel":["NI30351323"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"CHINANDEGA, SOMOTILLO, C.P. 30351322","workZoneLabel":"30351322","travelArea":"NI","status":"active","keylabel":["NI30351322"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"CHINANDEGA, SOMOTILLO, C.P. 30351321","workZoneLabel":"30351321","travelArea":"NI","status":"active","keylabel":["NI30351321"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"CHINANDEGA, SOMOTILLO, C.P. 30351319","workZoneLabel":"30351319","travelArea":"NI","status":"active","keylabel":["NI30351319"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"CHINANDEGA, SOMOTILLO, C.P. 30351318","workZoneLabel":"30351318","travelArea":"NI","status":"active","keylabel":["NI30351318"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"CHINANDEGA, SOMOTILLO, C.P. 30351312","workZoneLabel":"30351312","travelArea":"NI","status":"active","keylabel":["NI30351312"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"CHINANDEGA, SOMOTILLO, C.P. 30351311","workZoneLabel":"30351311","travelArea":"NI","status":"active","keylabel":["NI30351311"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"CHINANDEGA, PUERTO MORAZAN, C.P. 3030672","workZoneLabel":"3030672","travelArea":"NI","status":"active","keylabel":["NI3030672"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"CHINANDEGA, PUERTO MORAZAN, C.P. 3030659","workZoneLabel":"3030659","travelArea":"NI","status":"active","keylabel":["NI3030659"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"CHINANDEGA, PUERTO MORAZAN, C.P. 3030601","workZoneLabel":"3030601","travelArea":"NI","status":"active","keylabel":["NI3030601"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"CHINANDEGA, CHINANDEGA, C.P. 30304294","workZoneLabel":"30304294","travelArea":"NI","status":"active","keylabel":["NI30304294"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"CHINANDEGA, EL VIEJO, C.P. 3025670","workZoneLabel":"3025670","travelArea":"NI","status":"active","keylabel":["NI3025670"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"CHINANDEGA, EL VIEJO, C.P. 3025662","workZoneLabel":"3025662","travelArea":"NI","status":"active","keylabel":["NI3025662"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"CHINANDEGA, EL VIEJO, C.P. 3025661","workZoneLabel":"3025661","travelArea":"NI","status":"active","keylabel":["NI3025661"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"CHINANDEGA, EL VIEJO, C.P. 3025588","workZoneLabel":"3025588","travelArea":"NI","status":"active","keylabel":["NI3025588"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"CHINANDEGA, EL VIEJO, C.P. 30254342","workZoneLabel":"30254342","travelArea":"NI","status":"active","keylabel":["NI30254342"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"CHINANDEGA, EL VIEJO, C.P. 30254337","workZoneLabel":"30254337","travelArea":"NI","status":"active","keylabel":["NI30254337"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"CHINANDEGA, EL VIEJO, C.P. 30254327","workZoneLabel":"30254327","travelArea":"NI","status":"active","keylabel":["NI30254327"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"CHINANDEGA, EL VIEJO, C.P. 30254324","workZoneLabel":"30254324","travelArea":"NI","status":"active","keylabel":["NI30254324"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"CHINANDEGA, EL VIEJO, C.P. 30254303","workZoneLabel":"30254303","travelArea":"NI","status":"active","keylabel":["NI30254303"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"CHINANDEGA, EL VIEJO, C.P. 30251725","workZoneLabel":"30251725","travelArea":"NI","status":"active","keylabel":["NI30251725"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"CHINANDEGA, EL VIEJO, C.P. 30251724","workZoneLabel":"30251724","travelArea":"NI","status":"active","keylabel":["NI30251724"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"CHINANDEGA, EL VIEJO, C.P. 30251717","workZoneLabel":"30251717","travelArea":"NI","status":"active","keylabel":["NI30251717"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"CHINANDEGA, EL VIEJO, C.P. 30251716","workZoneLabel":"30251716","travelArea":"NI","status":"active","keylabel":["NI30251716"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"CHINANDEGA, EL VIEJO, C.P. 30251714","workZoneLabel":"30251714","travelArea":"NI","status":"active","keylabel":["NI30251714"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"CHINANDEGA, EL VIEJO, C.P. 30251700","workZoneLabel":"30251700","travelArea":"NI","status":"active","keylabel":["NI30251700"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"CHINANDEGA, EL VIEJO, C.P. 30251697","workZoneLabel":"30251697","travelArea":"NI","status":"active","keylabel":["NI30251697"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"CHINANDEGA, EL VIEJO, C.P. 30251693","workZoneLabel":"30251693","travelArea":"NI","status":"active","keylabel":["NI30251693"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"CHINANDEGA, EL VIEJO, C.P. 30251691","workZoneLabel":"30251691","travelArea":"NI","status":"active","keylabel":["NI30251691"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"CHINANDEGA, EL VIEJO, C.P. 30251377","workZoneLabel":"30251377","travelArea":"NI","status":"active","keylabel":["NI30251377"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"CHINANDEGA, EL VIEJO, C.P. 30251376","workZoneLabel":"30251376","travelArea":"NI","status":"active","keylabel":["NI30251376"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"CHINANDEGA, EL VIEJO, C.P. 30251375","workZoneLabel":"30251375","travelArea":"NI","status":"active","keylabel":["NI30251375"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"CHINANDEGA, EL VIEJO, C.P. 30251374","workZoneLabel":"30251374","travelArea":"NI","status":"active","keylabel":["NI30251374"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"CHINANDEGA, EL VIEJO, C.P. 30251373","workZoneLabel":"30251373","travelArea":"NI","status":"active","keylabel":["NI30251373"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"CHINANDEGA, EL VIEJO, C.P. 30251372","workZoneLabel":"30251372","travelArea":"NI","status":"active","keylabel":["NI30251372"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"CHINANDEGA, EL VIEJO, C.P. 30251371","workZoneLabel":"30251371","travelArea":"NI","status":"active","keylabel":["NI30251371"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"CHINANDEGA, EL VIEJO, C.P. 30251370","workZoneLabel":"30251370","travelArea":"NI","status":"active","keylabel":["NI30251370"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"CHINANDEGA, EL VIEJO, C.P. 30251368","workZoneLabel":"30251368","travelArea":"NI","status":"active","keylabel":["NI30251368"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"CHINANDEGA, EL VIEJO, C.P. 30251366","workZoneLabel":"30251366","travelArea":"NI","status":"active","keylabel":["NI30251366"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"CHINANDEGA, EL VIEJO, C.P. 30251365","workZoneLabel":"30251365","travelArea":"NI","status":"active","keylabel":["NI30251365"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"CHINANDEGA, EL VIEJO, C.P. 30251364","workZoneLabel":"30251364","travelArea":"NI","status":"active","keylabel":["NI30251364"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"CHINANDEGA, EL VIEJO, C.P. 30251363","workZoneLabel":"30251363","travelArea":"NI","status":"active","keylabel":["NI30251363"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"CHINANDEGA, EL VIEJO, C.P. 30251362","workZoneLabel":"30251362","travelArea":"NI","status":"active","keylabel":["NI30251362"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"CHINANDEGA, EL VIEJO, C.P. 30251361","workZoneLabel":"30251361","travelArea":"NI","status":"active","keylabel":["NI30251361"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"CHINANDEGA, EL VIEJO, C.P. 30251359","workZoneLabel":"30251359","travelArea":"NI","status":"active","keylabel":["NI30251359"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"CHINANDEGA, EL VIEJO, C.P. 30251357","workZoneLabel":"30251357","travelArea":"NI","status":"active","keylabel":["NI30251357"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"CHINANDEGA, EL VIEJO, C.P. 30251356","workZoneLabel":"30251356","travelArea":"NI","status":"active","keylabel":["NI30251356"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"CHINANDEGA, EL VIEJO, C.P. 30251354","workZoneLabel":"30251354","travelArea":"NI","status":"active","keylabel":["NI30251354"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"CHINANDEGA, SAN FRNACISCO DEL NORTE, C.P. 30104380","workZoneLabel":"30104380","travelArea":"NI","status":"active","keylabel":["NI30104380"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"CHINANDEGA, CINCO PINOS, C.P. 30054382","workZoneLabel":"30054382","travelArea":"NI","status":"active","keylabel":["NI30054382"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"ESTELI, SAN NICOLAS, C.P. 25301252","workZoneLabel":"25301252","travelArea":"NI","status":"active","keylabel":["NI25301252"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"ESTELI, SAN NICOLAS, C.P. 25301251","workZoneLabel":"25301251","travelArea":"NI","status":"active","keylabel":["NI25301251"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"ESTELI, SAN NICOLAS, C.P. 25301249","workZoneLabel":"25301249","travelArea":"NI","status":"active","keylabel":["NI25301249"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"ESTELI, TRINIDAD, C.P. 25254241","workZoneLabel":"25254241","travelArea":"NI","status":"active","keylabel":["NI25254241"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"ESTELI, LA TRINIDAD, C.P. 25254235","workZoneLabel":"25254235","travelArea":"NI","status":"active","keylabel":["NI25254235"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"ESTELI, LA TRINIDAD, C.P. 25251250","workZoneLabel":"25251250","travelArea":"NI","status":"active","keylabel":["NI25251250"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"ESTELI, LA TRINIDAD, C.P. 25251248","workZoneLabel":"25251248","travelArea":"NI","status":"active","keylabel":["NI25251248"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"ESTELI, SAN JUAN DE LINAY, C.P. 25204205","workZoneLabel":"25204205","travelArea":"NI","status":"active","keylabel":["NI25204205"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"ESTELI, SAN JUAN DE LIMAY, C.P. 25201646","workZoneLabel":"25201646","travelArea":"NI","status":"active","keylabel":["NI25201646"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"ESTELI, SAN JUAN DE LIMAY, C.P. 25201641","workZoneLabel":"25201641","travelArea":"NI","status":"active","keylabel":["NI25201641"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"ESTELI, SAN JUAN DE LIMAY, C.P. 25201640","workZoneLabel":"25201640","travelArea":"NI","status":"active","keylabel":["NI25201640"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"ESTELI, SAN JUAN DE LIMAY, C.P. 25201636","workZoneLabel":"25201636","travelArea":"NI","status":"active","keylabel":["NI25201636"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"ESTELI, ESTELI, C.P. 2515809","workZoneLabel":"2515809","travelArea":"NI","status":"active","keylabel":["NI2515809"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"ESTELI, ESTELI, C.P. 2515808","workZoneLabel":"2515808","travelArea":"NI","status":"active","keylabel":["NI2515808"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"ESTELI, ESTELI, C.P. 2515807","workZoneLabel":"2515807","travelArea":"NI","status":"active","keylabel":["NI2515807"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"ESTELI, ESTELI, C.P. 2515806","workZoneLabel":"2515806","travelArea":"NI","status":"active","keylabel":["NI2515806"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"ESTELI, ESTELI, C.P. 2515805","workZoneLabel":"2515805","travelArea":"NI","status":"active","keylabel":["NI2515805"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"ESTELI, ESTELI, C.P. 2515804","workZoneLabel":"2515804","travelArea":"NI","status":"active","keylabel":["NI2515804"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"ESTELI, ESTELI, C.P. 2515803","workZoneLabel":"2515803","travelArea":"NI","status":"active","keylabel":["NI2515803"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"ESTELI, ESTELI, C.P. 2515802","workZoneLabel":"2515802","travelArea":"NI","status":"active","keylabel":["NI2515802"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"ESTELI, ESTELI, C.P. 2515801","workZoneLabel":"2515801","travelArea":"NI","status":"active","keylabel":["NI2515801"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"NUEVA SEGOVIA, ESTELI, C.P. 25154162","workZoneLabel":"25154162","travelArea":"NI","status":"active","keylabel":["NI25154162"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"ESTELI, ESTANZUELA, C.P. 25154137","workZoneLabel":"25154137","travelArea":"NI","status":"active","keylabel":["NI25154137"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"ESTELI, SANTA CRUZ, C.P. 25154133","workZoneLabel":"25154133","travelArea":"NI","status":"active","keylabel":["NI25154133"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"ESTELI, ESTELI, C.P. 25154118","workZoneLabel":"25154118","travelArea":"NI","status":"active","keylabel":["NI25154118"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"ESTELI, CONDEGA, C.P. 25104176","workZoneLabel":"25104176","travelArea":"NI","status":"active","keylabel":["NI25104176"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"ESTELI, ESTELI, C.P. 25104167","workZoneLabel":"25104167","travelArea":"NI","status":"active","keylabel":["NI25104167"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"ESTELI, PUEBLO NUEVO, C.P. 25054198","workZoneLabel":"25054198","travelArea":"NI","status":"active","keylabel":["NI25054198"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"ESTELI, PUEBLO NUEVO, C.P. 25054190","workZoneLabel":"25054190","travelArea":"NI","status":"active","keylabel":["NI25054190"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"ESTELI, PUEBLO NUEVO, C.P. 25051218","workZoneLabel":"25051218","travelArea":"NI","status":"active","keylabel":["NI25051218"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MADRIZ, CUSMAPA, C.P. 20454107","workZoneLabel":"20454107","travelArea":"NI","status":"active","keylabel":["NI20454107"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MADRIZ, LA SABANA, C.P. 20404104","workZoneLabel":"20404104","travelArea":"NI","status":"active","keylabel":["NI20404104"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MADRIZ, SOMOTO, C.P. 20354100","workZoneLabel":"20354100","travelArea":"NI","status":"active","keylabel":["NI20354100"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MADRIZ, SAN LUCAS, C.P. 20354091","workZoneLabel":"20354091","travelArea":"NI","status":"active","keylabel":["NI20354091"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MADRIZ, AGUAS CALIENTES, C.P. 20304036","workZoneLabel":"20304036","travelArea":"NI","status":"active","keylabel":["NI20304036"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MADRIZ, SOMOTO, C.P. 20304031","workZoneLabel":"20304031","travelArea":"NI","status":"active","keylabel":["NI20304031"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MADRIZ, SOMOTO, C.P. 20254056","workZoneLabel":"20254056","travelArea":"NI","status":"active","keylabel":["NI20254056"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MADRIZ, SAN JUAN DEL RIO COCO, C.P. 2020821","workZoneLabel":"2020821","travelArea":"NI","status":"active","keylabel":["NI2020821"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MADRIZ, SAN JUAN DEL RIO COCO, C.P. 2020812","workZoneLabel":"2020812","travelArea":"NI","status":"active","keylabel":["NI2020812"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"NUEVA SEGOVIA, SAN JUAN DE RIO COCO, C.P. 20204080","workZoneLabel":"20204080","travelArea":"NI","status":"active","keylabel":["NI20204080"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MADRIZ, TELPANECA, C.P. 2015818","workZoneLabel":"2015818","travelArea":"NI","status":"active","keylabel":["NI2015818"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MADRIZ, TELPANECA, C.P. 2015809","workZoneLabel":"2015809","travelArea":"NI","status":"active","keylabel":["NI2015809"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MADRIZ, TELPANEGA, C.P. 20154064","workZoneLabel":"20154064","travelArea":"NI","status":"active","keylabel":["NI20154064"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"NUEVA SEGOVIA, MADRIZ, C.P. 20104047","workZoneLabel":"20104047","travelArea":"NI","status":"active","keylabel":["NI20104047"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MADRIZ, TOTOGALPA, C.P. 20101228","workZoneLabel":"20101228","travelArea":"NI","status":"active","keylabel":["NI20101228"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MADRIZ, TOTOGALPA, C.P. 20101223","workZoneLabel":"20101223","travelArea":"NI","status":"active","keylabel":["NI20101223"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MADRIZ, TOTOGALPA, C.P. 20101222","workZoneLabel":"20101222","travelArea":"NI","status":"active","keylabel":["NI20101222"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MADRIZ, TOTOGALPA, C.P. 20101221","workZoneLabel":"20101221","travelArea":"NI","status":"active","keylabel":["NI20101221"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"MADRIZ, YALAGUINA, C.P. 20054052","workZoneLabel":"20054052","travelArea":"NI","status":"active","keylabel":["NI20054052"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"JINOTEGA, JINOTEGA, C.P. 1035987","workZoneLabel":"1035987","travelArea":"NI","status":"active","keylabel":["NI1035987"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"JINOTEGA, JINOTEGA, C.P. 1035986","workZoneLabel":"1035986","travelArea":"NI","status":"active","keylabel":["NI1035986"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"JINOTEGA, JINOTEGA, C.P. 1035985","workZoneLabel":"1035985","travelArea":"NI","status":"active","keylabel":["NI1035985"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"JINOTEGA, JINOTEGA, C.P. 1035975","workZoneLabel":"1035975","travelArea":"NI","status":"active","keylabel":["NI1035975"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"JINOTEGA, JINOTEGA, C.P. 1035721","workZoneLabel":"1035721","travelArea":"NI","status":"active","keylabel":["NI1035721"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"JINOTEGA, JINOTEGA, C.P. 1035720","workZoneLabel":"1035720","travelArea":"NI","status":"active","keylabel":["NI1035720"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"JINOTEGA, ASTURIAS, C.P. 10354024","workZoneLabel":"10354024","travelArea":"NI","status":"active","keylabel":["NI10354024"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"JINOTEGA, JINOTEGA, C.P. 10354013","workZoneLabel":"10354013","travelArea":"NI","status":"active","keylabel":["NI10354013"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"JINOTEGA, JINOTEGA, C.P. 10351245","workZoneLabel":"10351245","travelArea":"NI","status":"active","keylabel":["NI10351245"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"JINOTEGA, JINOTEGA, C.P. 10351243","workZoneLabel":"10351243","travelArea":"NI","status":"active","keylabel":["NI10351243"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"JINOTEGA, JINOTEGA, C.P. 10351242","workZoneLabel":"10351242","travelArea":"NI","status":"active","keylabel":["NI10351242"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"JINOTEGA, JINOTEGA, C.P. 10351241","workZoneLabel":"10351241","travelArea":"NI","status":"active","keylabel":["NI10351241"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"JINOTEGA, JINOTEGA, C.P. 10351240","workZoneLabel":"10351240","travelArea":"NI","status":"active","keylabel":["NI10351240"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"JINOTEGA, JINOTEGA, C.P. 10351239","workZoneLabel":"10351239","travelArea":"NI","status":"active","keylabel":["NI10351239"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"JINOTEGA, JINOTEGA, C.P. 10351238","workZoneLabel":"10351238","travelArea":"NI","status":"active","keylabel":["NI10351238"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"JINOTEGA, JINOTEGA, C.P. 10351237","workZoneLabel":"10351237","travelArea":"NI","status":"active","keylabel":["NI10351237"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"JINOTEGA, JINOTEGA, C.P. 10351161","workZoneLabel":"10351161","travelArea":"NI","status":"active","keylabel":["NI10351161"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"JINOTEGA, JINOTEGA, C.P. 10351160","workZoneLabel":"10351160","travelArea":"NI","status":"active","keylabel":["NI10351160"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"JINOTEGA, JINOTEGA, C.P. 10351157","workZoneLabel":"10351157","travelArea":"NI","status":"active","keylabel":["NI10351157"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"JINOTEGA, JINOTEGA, C.P. 10351156","workZoneLabel":"10351156","travelArea":"NI","status":"active","keylabel":["NI10351156"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"JINOTEGA, JINOTEGA, C.P. 10351155","workZoneLabel":"10351155","travelArea":"NI","status":"active","keylabel":["NI10351155"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"JINOTEGA, LA CONCORDIA, C.P. 10304010","workZoneLabel":"10304010","travelArea":"NI","status":"active","keylabel":["NI10304010"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"JINOTEGA, LA CONCORDIA, C.P. 10301232","workZoneLabel":"10301232","travelArea":"NI","status":"active","keylabel":["NI10301232"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"JINOTEGA, SAN SEBASTIAN DE YALI, C.P. 1025822","workZoneLabel":"1025822","travelArea":"NI","status":"active","keylabel":["NI1025822"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"JINOTEGA, SAN SEBASTIAN DE YALI, C.P. 1025819","workZoneLabel":"1025819","travelArea":"NI","status":"active","keylabel":["NI1025819"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"JINOTEGA, SAN SEBASTIAN DE YALI, C.P. 10254003","workZoneLabel":"10254003","travelArea":"NI","status":"active","keylabel":["NI10254003"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"JINOTEGA, SAN SEBASTIAN DE YALI, C.P. 10253097","workZoneLabel":"10253097","travelArea":"NI","status":"active","keylabel":["NI10253097"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"JINOTEGA, SAN SEBASTIAN DE YALI, C.P. 10251233","workZoneLabel":"10251233","travelArea":"NI","status":"active","keylabel":["NI10251233"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"JINOTEGA, SAN SEBASTIAN DE YALI, C.P. 10251231","workZoneLabel":"10251231","travelArea":"NI","status":"active","keylabel":["NI10251231"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"JINOTEGA, SAN SEBASTIAN DE YALI, C.P. 10250176","workZoneLabel":"10250176","travelArea":"NI","status":"active","keylabel":["NI10250176"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"RIVAS, SAN SEBASTIAN DE YALI, C.P. 10250175","workZoneLabel":"10250175","travelArea":"NI","status":"active","keylabel":["NI10250175"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"JINOTEGA, SAN RAFAEL DEL NORTE, C.P. 10201247","workZoneLabel":"10201247","travelArea":"NI","status":"active","keylabel":["NI10201247"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"JINOTEGA, SAN RAFAEL DEL NORTE, C.P. 10201246","workZoneLabel":"10201246","travelArea":"NI","status":"active","keylabel":["NI10201246"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"JINOTEGA, SAN RAFAEL DEL NORTE, C.P. 10201244","workZoneLabel":"10201244","travelArea":"NI","status":"active","keylabel":["NI10201244"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"JINOTEGA, SAN RAFAEL DEL NORTE, C.P. 10201236","workZoneLabel":"10201236","travelArea":"NI","status":"active","keylabel":["NI10201236"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"JINOTEGA, SAN RAFAEL DEL NORTE, C.P. 10201235","workZoneLabel":"10201235","travelArea":"NI","status":"active","keylabel":["NI10201235"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"JINOTEGA, SAN RAFAEL DEL NORTE, C.P. 10201234","workZoneLabel":"10201234","travelArea":"NI","status":"active","keylabel":["NI10201234"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"JINOTEGA, SAN RAFAEL DEL NORTE, C.P. 10200169","workZoneLabel":"10200169","travelArea":"NI","status":"active","keylabel":["NI10200169"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"JINOTEGA, SAN JUAN DEL NORTE, C.P. 10200167","workZoneLabel":"10200167","travelArea":"NI","status":"active","keylabel":["NI10200167"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"JINOTEGA, SANTA MARIA DE PANTASM, C.P. 10151141","workZoneLabel":"10151141","travelArea":"NI","status":"active","keylabel":["NI10151141"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"JINOTEGA, SANTA MARIA DE PANTASM, C.P. 10151140","workZoneLabel":"10151140","travelArea":"NI","status":"active","keylabel":["NI10151140"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"JINOTEGA, SANTA MARIA DE PANTASM, C.P. 10151139","workZoneLabel":"10151139","travelArea":"NI","status":"active","keylabel":["NI10151139"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"JINOTEGA, SANTA MARIA DE PANTASM, C.P. 10151137","workZoneLabel":"10151137","travelArea":"NI","status":"active","keylabel":["NI10151137"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"JINOTEGA, SANTA MARIA DE PANTASM, C.P. 10151136","workZoneLabel":"10151136","travelArea":"NI","status":"active","keylabel":["NI10151136"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"JINOTEGA, CUA - BOCAY, C.P. 1010999","workZoneLabel":"1010999","travelArea":"NI","status":"active","keylabel":["NI1010999"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"JINOTEGA, CUA - BOCAY, C.P. 1010998","workZoneLabel":"1010998","travelArea":"NI","status":"active","keylabel":["NI1010998"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"JINOTEGA, CUA - BOCAY, C.P. 1010995","workZoneLabel":"1010995","travelArea":"NI","status":"active","keylabel":["NI1010995"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"JINOTEGA, CUA - BOCAY, C.P. 1010994","workZoneLabel":"1010994","travelArea":"NI","status":"active","keylabel":["NI1010994"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"JINOTEGA, CUA - BOCAY, C.P. 1010973","workZoneLabel":"1010973","travelArea":"NI","status":"active","keylabel":["NI1010973"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"JINOTEGA, CUA - BOCAY, C.P. 1010717","workZoneLabel":"1010717","travelArea":"NI","status":"active","keylabel":["NI1010717"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"JINOTEGA, CUA - BOCAY, C.P. 1010716","workZoneLabel":"1010716","travelArea":"NI","status":"active","keylabel":["NI1010716"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"JINOTEGA, CUA - BOCAY, C.P. 1010714","workZoneLabel":"1010714","travelArea":"NI","status":"active","keylabel":["NI1010714"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"JINOTEGA, CUA - BOCAY, C.P. 1010712","workZoneLabel":"1010712","travelArea":"NI","status":"active","keylabel":["NI1010712"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"JINOTEGA, CUA - BOCAY, C.P. 1010710","workZoneLabel":"1010710","travelArea":"NI","status":"active","keylabel":["NI1010710"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"JINOTEGA, CUA - BOCAY, C.P. 1010353","workZoneLabel":"1010353","travelArea":"NI","status":"active","keylabel":["NI1010353"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"JINOTEGA, CUA - BOCAY, C.P. 10101882","workZoneLabel":"10101882","travelArea":"NI","status":"active","keylabel":["NI10101882"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"JINOTEGA, CUA - BOCAY, C.P. 10101881","workZoneLabel":"10101881","travelArea":"NI","status":"active","keylabel":["NI10101881"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"JINOTEGA, CUA - BOCAY, C.P. 10101769","workZoneLabel":"10101769","travelArea":"NI","status":"active","keylabel":["NI10101769"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"JINOTEGA, CUA - BOCAY, C.P. 10101767","workZoneLabel":"10101767","travelArea":"NI","status":"active","keylabel":["NI10101767"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"JINOTEGA, CUA - BOCAY, C.P. 10101764","workZoneLabel":"10101764","travelArea":"NI","status":"active","keylabel":["NI10101764"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"JINOTEGA, CUA - BOCAY, C.P. 10101159","workZoneLabel":"10101159","travelArea":"NI","status":"active","keylabel":["NI10101159"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"JINOTEGA, CUA - BOCAY, C.P. 10101153","workZoneLabel":"10101153","travelArea":"NI","status":"active","keylabel":["NI10101153"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"JINOTEGA, CUA - BOCAY, C.P. 10101151","workZoneLabel":"10101151","travelArea":"NI","status":"active","keylabel":["NI10101151"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"JINOTEGA, CUA - BOCAY, C.P. 10101150","workZoneLabel":"10101150","travelArea":"NI","status":"active","keylabel":["NI10101150"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"JINOTEGA, CUA - BOCAY, C.P. 10101148","workZoneLabel":"10101148","travelArea":"NI","status":"active","keylabel":["NI10101148"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"JINOTEGA, CUA - BOCAY, C.P. 10101146","workZoneLabel":"10101146","travelArea":"NI","status":"active","keylabel":["NI10101146"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"JINOTEGA, CUA - BOCAY, C.P. 10101005","workZoneLabel":"10101005","travelArea":"NI","status":"active","keylabel":["NI10101005"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"JINOTEGA, CUA - BOCAY, C.P. 10101004","workZoneLabel":"10101004","travelArea":"NI","status":"active","keylabel":["NI10101004"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"JINOTEGA, CUA - BOCAY, C.P. 10101002","workZoneLabel":"10101002","travelArea":"NI","status":"active","keylabel":["NI10101002"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"JINOTEGA, CUA - BOCAY, C.P. 10101000","workZoneLabel":"10101000","travelArea":"NI","status":"active","keylabel":["NI10101000"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"JINOTEGA, EL CUA BOCAY, C.P. 10100152","workZoneLabel":"10100152","travelArea":"NI","status":"active","keylabel":["NI10100152"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"JINOTEGA, WIWILI, C.P. 1005993","workZoneLabel":"1005993","travelArea":"NI","status":"active","keylabel":["NI1005993"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"JINOTEGA, WIWILI, C.P. 1005992","workZoneLabel":"1005992","travelArea":"NI","status":"active","keylabel":["NI1005992"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"JINOTEGA, WIWILI, C.P. 1005712","workZoneLabel":"1005712","travelArea":"NI","status":"active","keylabel":["NI1005712"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"JINOTEGA, WIWILI, C.P. 1005711","workZoneLabel":"1005711","travelArea":"NI","status":"active","keylabel":["NI1005711"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"JINOTEGA, WIWILI, C.P. 1005709","workZoneLabel":"1005709","travelArea":"NI","status":"active","keylabel":["NI1005709"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"JINOTEGA, WIWILI, C.P. 1005708","workZoneLabel":"1005708","travelArea":"NI","status":"active","keylabel":["NI1005708"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"JINOTEGA, WIWILI, C.P. 1005707","workZoneLabel":"1005707","travelArea":"NI","status":"active","keylabel":["NI1005707"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"JINOTEGA, WIWILI, C.P. 1005706","workZoneLabel":"1005706","travelArea":"NI","status":"active","keylabel":["NI1005706"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"JINOTEGA, WIWILI, C.P. 1005705","workZoneLabel":"1005705","travelArea":"NI","status":"active","keylabel":["NI1005705"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"JINOTEGA, WIWILI, C.P. 1005704","workZoneLabel":"1005704","travelArea":"NI","status":"active","keylabel":["NI1005704"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"JINOTEGA, WIWILI, C.P. 1005703","workZoneLabel":"1005703","travelArea":"NI","status":"active","keylabel":["NI1005703"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"JINOTEGA, WIWILI, C.P. 1005702","workZoneLabel":"1005702","travelArea":"NI","status":"active","keylabel":["NI1005702"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"JINOTEGA, WIWILI, C.P. 1005701","workZoneLabel":"1005701","travelArea":"NI","status":"active","keylabel":["NI1005701"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"JINOTEGA, WIWILI, C.P. 1005698","workZoneLabel":"1005698","travelArea":"NI","status":"active","keylabel":["NI1005698"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"JINOTEGA, WIWILI, C.P. 10051142","workZoneLabel":"10051142","travelArea":"NI","status":"active","keylabel":["NI10051142"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"JINOTEGA, WIWILI, C.P. 10051135","workZoneLabel":"10051135","travelArea":"NI","status":"active","keylabel":["NI10051135"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"JINOTEGA, WIWILI, C.P. 10051009","workZoneLabel":"10051009","travelArea":"NI","status":"active","keylabel":["NI10051009"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"JINOTEGA, WIWILI, C.P. 10050130","workZoneLabel":"10050130","travelArea":"NI","status":"active","keylabel":["NI10050130"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"NUEVA SEGOVIA, WIWILI DE NUEVA SEGOVIA, C.P. 05600087","workZoneLabel":"5600087","travelArea":"NI","status":"active","keylabel":["NI5600087"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"NUEVA SEGOVIA, CIUDAD ANTIGUA, C.P. 05200066","workZoneLabel":"5200066","travelArea":"NI","status":"active","keylabel":["NI5200066"],"keys":[]}
+{"id":null,"source":null,"workZoneName":"NUEVA SEGOVIA, JALAPA, C.P. 05050009","workZoneLabel":"5050009","travelArea":"NI","status":"active","keylabel":["NI5050009"],"keys":[]}
